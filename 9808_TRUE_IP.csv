@@ -1,0 +1,26 @@
+﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+183.233.187.221,31316,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",557,12.03
+183.233.187.221,26756,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",290,11.85
+183.236.51.16,25614,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",208,8.18
+111.59.23.170,65443,TRUE,SEA,US,North America,Seattle,9808,"China Mobile Communications Group Co., Ltd.",912,4.18
+183.233.187.221,25688,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",268,3.96
+183.233.187.221,27171,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",577,3.66
+183.233.187.221,35658,TRUE,SIN,SG,Asia Pacific,Singapore,9808,"China Mobile Communications Group Co., Ltd.",745,3.31
+183.233.187.221,32706,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",265,2.58
+183.233.187.221,25504,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",620,2.54
+218.204.179.53,50394,TRUE,SIN,SG,Asia Pacific,Singapore,9808,"China Mobile Communications Group Co., Ltd.",358,2.25
+111.59.22.190,65443,TRUE,SEA,US,North America,Seattle,9808,"China Mobile Communications Group Co., Ltd.",929,2.23
+183.233.187.221,25190,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",315,1.93
+218.204.179.53,51275,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",496,1.88
+183.233.187.221,52560,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",270,1.80
+112.47.43.188,51300,TRUE,SJC,US,North America,San Jose,9808,"China Mobile Communications Group Co., Ltd.",709,1.64
+183.233.187.221,31928,TRUE,SIN,SG,Asia Pacific,Singapore,9808,"China Mobile Communications Group Co., Ltd.",531,1.51
+183.233.187.221,25103,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",259,1.25
+218.204.179.8,50394,TRUE,SIN,SG,Asia Pacific,Singapore,9808,"China Mobile Communications Group Co., Ltd.",316,1.14
+218.204.179.53,57868,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",496,0.76
+218.204.179.8,57868,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",375,0.74
+183.230.233.182,19671,TRUE,SJC,US,North America,San Jose,9808,"China Mobile Communications Group Co., Ltd.",827,0.53
+183.230.233.182,30001,TRUE,SJC,US,North America,San Jose,9808,"China Mobile Communications Group Co., Ltd.",847,0.52
+111.20.226.42,12489,TRUE,SEA,US,North America,Seattle,9808,"China Mobile Communications Group Co., Ltd.",863,0.15
+111.20.226.42,10894,TRUE,SEA,US,North America,Seattle,9808,"China Mobile Communications Group Co., Ltd.",863,0.13
+111.20.226.42,12191,TRUE,SJC,US,North America,San Jose,9808,"China Mobile Communications Group Co., Ltd.",990,0.06
