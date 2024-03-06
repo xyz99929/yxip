@@ -1,0 +1,577 @@
+﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+118.163.128.81,35054,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,719,6.13
+59.127.223.93,36351,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,797,5.95
+220.135.84.4,34232,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,676,5.93
+20.163.110.81,34237,TRUE,LAX,US,North America,Los Angeles,8075,MICROSOFT-CORP-MSN-AS-BLOCK,627,5.31
+220.135.84.4,35522,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,734,5.06
+154.17.19.153,34745,TRUE,LAX,US,North America,Los Angeles,906,DMIT,626,4.99
+118.163.128.81,36619,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,693,4.85
+59.127.223.93,39108,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,771,4.84
+59.127.223.93,36442,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,698,4.73
+67.230.167.140,39246,TRUE,LAX,US,North America,Los Angeles,25820,IT7NET,593,4.70
+154.17.31.217,37976,TRUE,LAX,US,North America,Los Angeles,906,DMIT,561,4.68
+59.127.223.93,38807,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,754,4.64
+220.135.84.4,35510,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,732,4.58
+59.127.223.93,36853,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,692,4.57
+50.118.145.73,34237,TRUE,LAX,US,North America,Los Angeles,149440,Evoxt Enterprise,685,4.50
+220.132.74.19,35155,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,753,4.48
+59.127.223.93,38489,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,706,4.43
+67.198.152.195,34774,TRUE,LAX,US,North America,Los Angeles,35908,VPLSNET,728,4.33
+154.17.4.191,35378,TRUE,LAX,US,North America,Los Angeles,906,DMIT,580,4.33
+154.9.205.166,34237,TRUE,LAX,US,North America,Los Angeles,55799,IPTELECOM ASIA,625,4.26
+59.127.223.93,38602,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,733,4.15
+38.47.115.152,34237,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,614,4.12
+118.163.128.81,36584,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,708,3.92
+205.234.200.104,34237,TRUE,LAX,US,North America,Los Angeles,142036,Hosteons Pte. Ltd.,699,3.86
+220.135.128.42,36351,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,682,3.81
+220.135.84.4,38340,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,636,3.79
+59.127.223.93,37750,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,690,3.76
+59.127.223.93,36794,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,750,3.75
+175.200.121.85,39165,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,764,3.62
+209.146.113.43,34237,TRUE,LAX,US,North America,Los Angeles,400464,VMISS,673,3.52
+59.17.187.108,36252,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,771,3.49
+91.217.139.55,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,654,3.40
+218.159.46.248,38545,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,769,3.34
+89.208.246.168,35365,TRUE,LAX,US,North America,Los Angeles,25820,IT7NET,650,3.30
+175.200.121.85,34768,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,727,3.30
+220.132.74.19,36468,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,735,3.20
+209.146.112.185,34184,TRUE,LAX,US,North America,Los Angeles,400464,VMISS,615,3.14
+23.224.33.156,36662,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,801,3.13
+38.6.173.153,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,914,2.99
+218.155.89.10,38703,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,775,2.93
+218.155.220.171,34349,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,766,2.93
+185.186.147.105,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,689,2.89
+199.180.116.54,50002,TRUE,LAX,US,North America,Los Angeles,21887,FIBER-LOGIC,933,2.74
+8.217.121.219,38145,TRUE,LAX,US,North America,Los Angeles,45102,"Alibaba US Technology Co., Ltd.",717,2.73
+112.187.143.178,38244,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,714,2.70
+183.107.148.206,35869,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,791,2.52
+112.170.224.145,38576,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,757,2.50
+38.147.163.28,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,992,2.49
+61.75.95.66,33970,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,728,2.48
+118.43.62.137,37878,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,795,2.48
+199.180.116.54,50003,TRUE,LAX,US,North America,Los Angeles,21887,FIBER-LOGIC,926,2.47
+59.2.96.181,35702,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,831,2.47
+38.105.29.156,34237,TRUE,LAX,US,North America,Los Angeles,142111,Zhejiang Aiyun Network Technology Co Ltd,729,2.44
+67.230.170.199,34378,TRUE,LAX,US,North America,Los Angeles,25820,IT7NET,652,2.42
+60.251.142.38,36669,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,683,2.41
+211.199.146.89,37802,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,735,2.41
+60.251.142.38,36621,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,669,2.39
+221.158.56.248,39499,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,867,2.39
+121.162.197.175,38606,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,771,2.38
+183.107.148.206,34143,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,742,2.38
+183.107.148.206,35090,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,884,2.37
+183.100.174.161,37073,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,743,2.37
+118.32.187.190,35115,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,800,2.36
+221.151.125.41,38985,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,844,2.36
+2.56.255.22,37078,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,729,2.35
+183.108.107.110,39757,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,747,2.35
+218.150.169.129,38701,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,749,2.34
+59.24.92.220,39187,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,858,2.34
+183.106.20.25,37890,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,713,2.33
+61.84.231.128,37498,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,721,2.33
+183.107.148.206,35193,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,809,2.32
+118.38.131.223,39220,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,764,2.32
+118.46.216.150,34648,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,718,2.32
+216.24.191.69,42247,TRUE,LAX,US,North America,Los Angeles,21887,FIBER-LOGIC,934,2.31
+210.217.15.42,38248,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,730,2.31
+14.35.204.45,34312,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,800,2.31
+183.107.148.206,36132,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,792,2.30
+183.107.148.206,35938,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,773,2.30
+175.193.62.86,37277,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,767,2.30
+183.97.113.86,36547,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,784,2.30
+121.134.141.200,34726,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,736,2.30
+211.226.153.46,37654,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,723,2.29
+121.187.100.90,36185,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,809,2.29
+59.24.92.220,35312,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,772,2.29
+59.24.92.220,37419,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,754,2.27
+175.193.62.86,34610,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,833,2.26
+8.210.130.11,38145,TRUE,LAX,US,North America,Los Angeles,45102,"Alibaba US Technology Co., Ltd.",714,2.25
+14.33.7.164,36142,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,800,2.25
+222.114.29.162,36679,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,787,2.24
+175.195.161.197,35269,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,805,2.24
+183.107.148.206,38394,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,793,2.24
+59.24.92.220,37052,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,751,2.23
+220.80.5.74,37166,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,744,2.23
+221.165.152.104,34666,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,757,2.23
+222.114.183.132,39343,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,804,2.22
+183.107.148.206,37161,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,846,2.22
+210.217.15.42,36726,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,763,2.22
+64.64.242.232,43333,TRUE,LAX,US,North America,Los Angeles,21887,FIBER-LOGIC,913,2.21
+175.194.208.17,38970,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,796,2.20
+14.35.204.45,34978,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,821,2.20
+112.160.95.189,36410,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,827,2.20
+61.74.141.250,35262,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,812,2.20
+175.200.121.85,37599,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,720,2.19
+222.114.29.162,34446,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,707,2.19
+221.150.179.31,38230,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,730,2.19
+220.89.140.11,39433,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,800,2.19
+59.8.132.24,38635,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,802,2.18
+60.251.142.38,35399,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,676,2.17
+183.97.113.86,36942,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,777,2.17
+205.234.200.199,34237,TRUE,LAX,US,North America,Los Angeles,142036,Hosteons Pte. Ltd.,745,2.17
+118.43.62.137,35675,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,801,2.17
+211.51.105.232,34004,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,730,2.17
+175.193.62.86,37885,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,803,2.17
+23.236.68.198,34237,TRUE,LAX,US,North America,Los Angeles,6134,XNNET,642,2.16
+183.97.62.155,36033,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,836,2.16
+175.195.25.234,38159,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,751,2.16
+59.24.92.220,36348,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,796,2.16
+220.94.64.22,36058,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,749,2.15
+61.78.98.144,37984,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,783,2.15
+14.33.7.164,38132,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,762,2.15
+118.37.148.82,39480,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,875,2.15
+121.188.163.95,38677,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,716,2.15
+14.34.17.85,36644,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,727,2.15
+125.130.223.5,39356,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,828,2.15
+221.158.56.248,39105,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,834,2.15
+112.171.121.115,37638,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,721,2.15
+183.98.87.174,36751,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,724,2.14
+220.94.64.22,36773,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,725,2.14
+211.51.105.232,37388,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,746,2.14
+14.33.7.164,34835,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,812,2.14
+125.227.70.180,35782,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,768,2.14
+220.83.127.148,34880,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,796,2.13
+175.193.62.86,36031,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,765,2.13
+209.146.113.90,34237,TRUE,LAX,US,North America,Los Angeles,400464,VMISS,629,2.13
+220.87.237.210,36347,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,809,2.13
+115.20.129.64,34627,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,711,2.13
+14.33.7.164,38988,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,831,2.13
+121.154.251.195,34426,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,812,2.13
+59.5.68.223,35652,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,763,2.13
+59.24.92.220,38620,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,782,2.12
+121.137.214.206,35582,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,735,2.12
+115.23.174.147,38968,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,824,2.12
+59.24.92.220,34852,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,805,2.12
+221.159.203.188,37230,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,839,2.12
+221.150.179.31,34306,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,766,2.12
+218.161.100.108,35489,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,726,2.12
+59.24.92.220,35445,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,766,2.12
+221.154.9.130,36919,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,737,2.11
+118.34.200.196,39324,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,852,2.11
+59.31.73.84,36426,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,830,2.11
+59.29.125.71,38000,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,791,2.11
+222.114.29.162,35576,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,747,2.10
+112.187.33.86,38553,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,784,2.10
+14.33.7.164,36006,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,734,2.10
+222.105.139.160,34978,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,833,2.10
+125.143.31.169,36283,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,892,2.10
+14.33.7.164,38300,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,794,2.09
+221.164.211.245,35208,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,716,2.09
+175.204.247.48,39238,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,846,2.09
+211.251.204.117,37910,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,737,2.09
+118.37.148.82,36765,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,803,2.09
+125.136.223.45,35651,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,749,2.08
+115.23.174.147,35776,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,878,2.08
+221.158.56.248,34351,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,782,2.08
+220.86.191.246,35643,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,773,2.07
+59.4.104.181,39485,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,849,2.07
+211.228.136.230,35305,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,724,2.07
+121.135.219.251,39291,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,828,2.07
+112.171.232.175,35597,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,794,2.07
+115.22.17.221,37327,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,706,2.06
+175.193.62.86,39334,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,872,2.06
+183.100.26.173,37115,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,775,2.06
+220.93.246.193,36526,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,806,2.06
+59.24.92.220,34731,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,771,2.06
+218.150.169.129,37350,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,832,2.05
+220.135.84.4,38910,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,752,2.05
+59.31.73.84,36282,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,780,2.05
+221.165.152.104,39645,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,891,2.05
+218.159.219.40,34306,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,790,2.05
+121.166.49.104,38647,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,767,2.04
+125.132.66.223,34146,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,790,2.04
+125.227.70.180,37972,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,684,2.04
+14.33.7.164,36445,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,789,2.04
+221.164.211.245,34617,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,721,2.04
+222.104.108.204,35975,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,765,2.03
+119.198.74.217,37176,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,787,2.03
+175.193.62.86,39059,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,825,2.03
+220.89.78.107,36183,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,825,2.02
+220.81.237.86,35457,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,744,2.02
+112.166.42.117,37436,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,768,2.02
+121.168.48.63,38364,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,745,2.02
+14.54.146.117,36058,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,776,2.02
+221.150.250.32,34527,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,859,2.02
+60.251.142.38,36925,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,687,2.02
+59.4.73.205,39752,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,749,2.02
+211.114.223.43,38619,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,778,2.01
+211.217.220.30,38312,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,790,2.01
+59.17.227.112,37782,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,786,2.01
+125.139.225.100,35497,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,820,2.01
+61.79.154.177,37331,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,738,2.01
+175.194.221.21,39257,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,844,2.01
+59.24.92.220,35680,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,809,2.01
+183.109.197.236,39480,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,825,2.01
+61.77.9.219,37265,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,748,2.01
+59.8.243.155,38602,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,766,2.01
+222.101.78.86,38854,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,839,2.01
+175.212.100.88,36603,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,762,2.00
+183.103.247.86,36296,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,695,2.00
+121.172.26.67,36639,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,816,2.00
+211.42.210.76,36868,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,763,1.99
+183.97.113.86,37343,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,737,1.99
+14.53.189.169,37238,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,776,1.99
+183.107.148.206,38697,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,775,1.98
+210.217.15.42,39629,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,776,1.98
+118.33.151.21,34831,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,797,1.98
+220.80.5.74,35518,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,964,1.98
+59.24.92.220,37866,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,779,1.98
+218.144.56.167,39482,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,769,1.98
+14.53.189.169,36284,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,828,1.98
+14.51.133.90,38762,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,728,1.98
+175.195.25.234,39389,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,845,1.97
+175.193.62.86,35573,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,812,1.97
+218.155.220.171,35422,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,792,1.97
+118.40.129.200,36097,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,792,1.97
+59.24.92.220,39337,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,849,1.96
+175.212.207.69,35060,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,860,1.96
+175.194.221.21,37968,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,753,1.96
+14.44.62.128,35923,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,740,1.96
+59.24.92.220,34387,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,799,1.96
+121.174.12.209,35566,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,759,1.96
+125.143.31.169,39161,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,773,1.95
+61.216.180.104,34572,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,716,1.95
+118.36.89.139,39641,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,800,1.94
+121.176.33.148,36964,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,732,1.94
+59.13.113.190,35892,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,796,1.94
+222.111.243.188,35731,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,821,1.94
+211.114.223.43,35772,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,796,1.94
+14.33.7.164,36915,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,775,1.94
+220.94.64.22,34840,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,705,1.94
+183.97.113.86,37844,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,774,1.94
+59.24.92.220,36190,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,812,1.93
+118.40.149.195,35850,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,856,1.93
+175.212.100.88,39336,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,854,1.93
+14.33.7.164,34287,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,774,1.92
+121.177.243.175,36820,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,716,1.92
+14.44.61.169,38343,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,744,1.92
+14.39.98.243,34260,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,814,1.92
+119.199.206.228,34172,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,830,1.92
+14.44.62.128,39750,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,717,1.92
+59.24.92.220,35816,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,817,1.92
+125.227.70.180,38847,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,695,1.92
+112.166.179.227,36346,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,845,1.91
+61.219.219.139,34862,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,698,1.91
+183.97.43.222,38435,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,750,1.91
+59.11.149.84,38725,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,796,1.91
+14.44.61.169,35114,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,758,1.91
+221.164.211.245,38484,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,764,1.91
+121.180.87.121,37109,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,750,1.91
+183.108.76.101,37895,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,784,1.91
+221.153.24.211,39287,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,870,1.91
+221.144.162.10,36595,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,766,1.90
+121.148.0.18,37540,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,756,1.90
+211.194.36.112,34875,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,759,1.90
+59.31.73.84,37285,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,804,1.90
+59.23.0.105,38424,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,735,1.90
+121.182.66.134,39470,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,774,1.90
+112.165.102.109,35969,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,730,1.89
+121.190.121.253,37020,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,717,1.89
+183.97.229.130,35767,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,831,1.89
+112.170.224.145,37120,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,719,1.89
+112.167.10.91,36974,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,767,1.89
+119.195.222.208,39106,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,865,1.89
+175.195.25.234,34060,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,762,1.88
+121.141.76.84,36821,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,763,1.88
+175.195.25.234,39079,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,844,1.88
+14.39.202.169,35610,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,855,1.88
+61.83.103.6,34762,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,725,1.88
+211.230.73.232,38929,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,848,1.88
+220.121.128.199,35151,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,788,1.88
+59.8.243.155,36154,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,787,1.88
+218.158.24.173,36336,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,795,1.88
+211.197.52.170,36461,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,740,1.87
+211.251.204.117,34136,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,716,1.87
+183.109.197.236,38075,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,803,1.87
+115.23.174.147,38134,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,739,1.86
+67.230.170.199,38819,TRUE,LAX,US,North America,Los Angeles,25820,IT7NET,589,1.86
+61.81.133.208,35859,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,774,1.86
+112.164.185.34,39196,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,821,1.86
+211.230.73.232,34237,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,802,1.86
+220.73.70.34,39385,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,767,1.85
+121.134.192.125,37891,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,795,1.85
+175.205.95.168,36553,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,849,1.85
+220.86.191.246,36781,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,766,1.85
+211.46.225.120,36504,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,733,1.85
+211.251.204.117,37930,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,779,1.85
+183.107.11.144,37399,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,711,1.85
+14.37.159.52,36855,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,780,1.85
+119.203.161.28,34110,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,736,1.84
+121.191.87.60,39241,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,866,1.84
+14.33.7.164,39004,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,842,1.84
+218.153.122.205,36221,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,831,1.84
+60.251.142.38,35803,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,704,1.84
+222.118.143.27,34603,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,754,1.84
+121.137.214.206,34777,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,820,1.84
+211.107.62.13,35116,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,814,1.84
+175.193.62.86,35868,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,780,1.84
+121.191.26.106,34952,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,751,1.84
+175.195.25.234,37966,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,762,1.84
+183.97.229.130,36472,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,912,1.83
+125.134.215.247,34342,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,766,1.83
+121.168.235.70,34089,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,846,1.83
+175.195.25.234,37041,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,757,1.83
+121.190.121.253,37384,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,718,1.83
+211.251.204.117,37252,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,712,1.83
+14.53.189.169,35037,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,785,1.83
+211.227.126.149,37461,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,735,1.82
+210.179.134.39,38613,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,757,1.82
+59.13.243.183,36969,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,764,1.82
+59.27.97.227,35600,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,737,1.82
+14.39.202.169,37558,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,723,1.82
+14.53.189.169,36730,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,784,1.81
+121.190.112.101,39582,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,871,1.81
+221.150.147.216,35355,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,763,1.81
+183.107.148.206,38468,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,802,1.81
+175.195.25.234,39168,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,849,1.81
+59.24.92.220,34231,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,789,1.81
+211.250.134.12,35998,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,843,1.81
+211.46.225.120,36052,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,751,1.80
+220.89.78.107,34404,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,723,1.80
+118.34.219.138,38066,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,809,1.80
+119.199.206.228,38479,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,800,1.79
+14.39.97.155,37487,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,775,1.79
+222.97.27.94,35422,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,704,1.79
+222.120.125.165,34567,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,768,1.79
+119.193.241.25,35198,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,846,1.79
+175.195.25.234,35290,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,769,1.79
+211.46.225.120,36418,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,745,1.79
+220.89.78.107,36369,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,736,1.79
+112.173.175.202,36974,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,765,1.79
+121.187.111.13,34576,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,775,1.79
+211.51.185.137,39588,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,724,1.78
+218.146.41.38,39449,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,797,1.78
+112.170.224.145,37331,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,742,1.78
+112.168.181.141,37378,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,754,1.78
+59.24.92.220,37744,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,761,1.78
+211.194.36.112,34636,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,725,1.78
+220.124.62.173,37621,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,716,1.78
+14.44.32.251,34479,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,700,1.78
+14.44.61.169,38400,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,818,1.77
+183.105.100.125,34887,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,810,1.77
+59.17.109.133,38406,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,772,1.77
+175.215.82.175,35614,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,726,1.77
+118.36.193.69,39453,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,878,1.77
+121.172.26.67,36894,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,726,1.77
+211.197.52.170,36306,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,784,1.77
+115.23.174.147,38247,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,699,1.77
+121.172.26.67,36808,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,761,1.77
+218.155.235.187,36286,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,846,1.77
+220.84.45.97,37637,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,717,1.77
+211.250.134.12,38245,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,745,1.77
+221.164.219.103,37772,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,766,1.76
+210.179.134.39,36513,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,778,1.76
+220.87.147.170,36313,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,832,1.76
+59.17.109.133,38741,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,744,1.75
+211.54.238.162,37340,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,729,1.75
+14.44.62.128,38301,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,773,1.75
+218.155.220.171,37835,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,774,1.75
+183.108.17.24,35463,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,732,1.75
+221.144.162.10,39442,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,850,1.75
+121.175.54.166,36609,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,716,1.75
+61.77.9.219,34546,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,800,1.75
+221.165.152.104,38380,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,800,1.74
+121.149.203.203,38895,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,755,1.74
+59.8.132.24,34509,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,788,1.74
+221.159.122.141,38199,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,719,1.73
+211.105.173.219,37814,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,771,1.73
+210.179.5.111,35631,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,792,1.73
+121.141.36.55,38631,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,788,1.73
+14.53.32.49,38629,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,788,1.73
+121.137.214.206,38745,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,828,1.73
+183.97.113.86,38928,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,785,1.73
+210.179.134.39,37182,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,743,1.73
+60.251.142.38,36964,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,667,1.72
+112.172.17.71,35579,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,776,1.72
+221.158.190.76,34818,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,777,1.71
+115.21.166.155,34300,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,778,1.71
+210.105.53.141,35385,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,771,1.71
+211.248.166.42,38939,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,848,1.70
+211.195.180.98,37774,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,804,1.70
+211.194.36.112,37084,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,777,1.70
+221.161.207.216,36346,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,785,1.70
+59.24.92.220,36846,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,751,1.69
+220.81.178.30,36019,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,726,1.69
+61.77.242.212,34655,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,778,1.69
+222.119.24.197,34992,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,733,1.69
+125.132.66.223,37398,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,752,1.69
+218.157.246.88,38477,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,728,1.69
+183.108.76.101,37165,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,728,1.69
+14.44.62.128,34461,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,740,1.68
+121.182.66.134,38456,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,676,1.67
+183.101.8.97,36355,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,816,1.67
+121.168.235.70,37105,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,750,1.66
+175.193.62.86,38682,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,789,1.66
+121.185.44.44,34454,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,822,1.66
+223.165.6.65,34237,TRUE,LAX,US,North America,Los Angeles,149440,Evoxt Enterprise,624,1.66
+114.34.22.147,38712,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,688,1.66
+59.24.92.220,38027,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,766,1.65
+125.136.240.162,34452,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,748,1.65
+183.105.100.125,38765,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,745,1.64
+112.167.80.230,37065,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,760,1.63
+222.119.24.197,35764,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,746,1.62
+59.24.92.220,38367,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,808,1.62
+222.119.24.197,35552,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,771,1.62
+121.145.193.71,38556,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,726,1.62
+221.144.162.10,34309,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,824,1.62
+210.222.89.200,38929,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,866,1.61
+59.24.92.220,38574,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,779,1.60
+175.193.62.86,34257,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,747,1.57
+121.151.80.184,38917,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,792,1.56
+59.22.44.19,35750,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,695,1.55
+125.143.82.244,39250,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,756,1.54
+221.158.190.76,38735,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,722,1.54
+14.53.189.169,38862,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,868,1.54
+118.39.250.213,38891,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,795,1.53
+221.158.190.76,37884,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,796,1.53
+121.150.28.21,38760,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,740,1.53
+61.78.246.83,35475,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,719,1.53
+220.135.84.4,34731,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,695,1.52
+59.13.243.183,38269,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,741,1.52
+115.22.242.51,37797,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,724,1.51
+175.215.82.175,37270,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,744,1.51
+220.81.178.30,38226,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,714,1.51
+14.63.60.134,34237,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,746,1.50
+119.203.161.28,37421,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,740,1.50
+61.77.228.131,35819,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,859,1.50
+183.103.247.86,34383,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,724,1.50
+175.215.154.91,34227,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,780,1.49
+112.165.102.109,36951,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,719,1.48
+211.219.144.183,39064,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,873,1.48
+211.38.216.75,35832,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,700,1.48
+175.215.82.175,38917,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,832,1.47
+175.215.82.175,38476,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,722,1.45
+220.95.88.177,37968,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,716,1.45
+60.251.142.38,38829,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,751,1.45
+61.83.103.6,35159,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,748,1.44
+211.114.238.167,33972,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,752,1.44
+211.23.46.106,36895,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,677,1.43
+121.146.141.13,39386,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,760,1.42
+119.193.241.25,37297,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,827,1.42
+222.105.100.2,35397,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,761,1.42
+59.24.92.220,36687,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,803,1.42
+221.150.179.31,34323,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,741,1.41
+221.158.190.76,35606,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,705,1.41
+121.131.201.82,38037,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,765,1.41
+59.24.92.220,35676,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,859,1.41
+221.158.190.76,38587,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,733,1.41
+221.158.190.76,38081,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,702,1.40
+183.107.148.206,35388,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,773,1.40
+211.225.232.114,34919,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,712,1.38
+61.73.62.15,36335,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,834,1.37
+221.158.190.76,34606,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,756,1.36
+119.201.141.242,39755,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,729,1.35
+221.158.190.76,38314,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,735,1.35
+183.107.148.206,38611,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,765,1.34
+221.158.190.76,37739,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,709,1.34
+211.223.146.34,35042,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,877,1.32
+221.158.190.76,34485,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,764,1.32
+59.124.159.236,34597,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,713,1.32
+211.23.46.106,36571,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,701,1.32
+118.37.12.7,39525,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,724,1.31
+59.25.39.231,34301,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,769,1.30
+218.152.41.65,37350,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,742,1.29
+221.158.190.76,39621,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,796,1.29
+121.145.193.71,39239,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,773,1.29
+14.39.242.36,36526,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,805,1.28
+221.158.190.76,36986,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,747,1.28
+121.185.142.154,36712,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,850,1.28
+119.193.241.25,38851,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,869,1.28
+59.5.135.48,39266,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,844,1.26
+172.247.123.6,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,628,1.25
+221.158.190.76,39753,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,717,1.25
+221.158.190.76,36710,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,800,1.23
+122.118.192.102,39062,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,757,1.23
+211.223.146.34,36912,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,757,1.21
+221.158.190.76,35558,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,799,1.18
+221.158.190.76,37353,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,732,1.18
+220.134.160.237,34084,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,782,1.17
+59.24.92.220,38435,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,824,1.17
+59.24.92.220,39132,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,868,1.16
+122.117.220.44,38282,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,790,1.14
+220.134.160.237,37414,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,745,1.13
+122.118.192.102,34757,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,712,1.12
+38.147.160.122,34237,TRUE,LAX,US,North America,Los Angeles,6134,XNNET,670,1.12
+125.138.157.9,35518,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,776,1.05
+222.96.230.108,38684,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,789,1.04
+175.205.88.229,35045,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,889,1.03
+23.224.85.104,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,641,1.03
+119.193.90.9,36095,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,810,1.02
+122.118.192.102,37863,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,686,1.01
+172.247.123.112,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,632,1.01
+221.158.190.76,34210,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,764,1.00
+221.158.190.76,34680,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,841,0.99
+60.250.202.116,37635,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,690,0.96
+59.24.92.220,35733,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,757,0.93
+211.223.146.34,36319,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,855,0.92
+59.24.92.220,35758,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,818,0.91
+175.200.121.85,37509,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,721,0.91
+2.56.255.97,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,955,0.91
+122.117.220.44,39177,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,777,0.88
+121.170.78.63,34441,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,838,0.86
+185.238.250.168,36545,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,903,0.85
+121.185.236.47,35386,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,758,0.85
+125.227.215.155,34186,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,693,0.82
+60.250.202.116,34995,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,699,0.81
+60.250.202.116,37968,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,684,0.80
+60.250.202.116,35123,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,742,0.76
+220.79.119.173,38073,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,766,0.76
+119.198.139.18,36960,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,786,0.75
+60.250.202.116,39187,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,708,0.75
+183.101.123.165,34787,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,785,0.75
+172.247.123.101,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,656,0.71
+60.250.202.116,35179,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,707,0.70
+172.247.15.164,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,622,0.69
+172.247.123.92,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,706,0.66
+121.168.117.22,37183,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,828,0.65
+2.59.151.192,38135,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,973,0.63
+114.33.231.164,36458,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,800,0.61
+114.33.231.164,35899,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,795,0.60
+114.33.231.164,35220,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,785,0.59
+125.132.66.223,34345,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,771,0.56
+172.247.123.93,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,619,0.53
+185.238.250.234,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,927,0.53
+205.234.232.111,34237,TRUE,LAX,US,North America,Los Angeles,142036,Hosteons Pte. Ltd.,752,0.52
+104.219.215.251,34237,TRUE,LAX,US,North America,Los Angeles,398823,PEG-LA,742,0.51
+172.247.123.56,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,674,0.51
+59.11.89.252,38635,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,788,0.47
+36.232.210.217,36398,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,749,0.42
+221.160.180.6,36597,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,775,0.42
+36.232.210.217,38100,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,708,0.39
+36.232.210.217,35909,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,754,0.38
+36.232.210.217,37679,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,729,0.36
+36.232.210.217,34749,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,720,0.36
+146.70.87.114,34237,TRUE,LAX,US,North America,Los Angeles,9009,M247 Europe SRL,760,0.36
+60.251.223.77,35795,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,891,0.36
+36.232.210.217,36065,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,771,0.36
+221.165.97.163,38808,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,877,0.36
+121.134.192.125,34747,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,770,0.35
+36.232.210.217,36273,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,772,0.35
+36.232.210.217,35452,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,860,0.34
+36.232.210.217,38731,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,684,0.34
+36.232.210.217,37269,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,760,0.32
+221.165.97.163,39644,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,904,0.30
+220.135.191.223,35710,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,773,0.30
+172.247.123.69,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,666,0.29
+36.231.138.252,35228,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,808,0.28
+36.232.210.217,36675,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,762,0.27
+172.247.123.120,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,658,0.27
+211.75.233.120,36743,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,784,0.26
+211.75.233.120,38023,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,759,0.26
+211.75.233.120,35101,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,804,0.26
+172.247.123.75,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,633,0.25
+221.165.97.163,36694,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,814,0.24
+103.99.179.225,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,611,0.23
+36.232.210.217,36724,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,763,0.21
+211.75.233.120,39498,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,794,0.20
+60.248.94.179,38432,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,737,0.20
+220.79.50.104,36847,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,761,0.17
+118.163.128.81,39491,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,760,0.08
+59.5.191.37,37091,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,836,0.08
+59.127.223.93,39458,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,767,0.06
+175.215.113.12,38775,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,749,0.04
+111.249.193.133,35162,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,902,0.04
+111.249.193.133,35970,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,940,0.04
+111.249.193.133,36717,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,859,0.03
+172.247.123.29,34237,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,657,0.03
+210.126.38.13,34751,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,771,0.03
