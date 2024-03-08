@@ -1,198 +1,466 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-8.222.224.163,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",339,24.02
-18.136.104.40,19042,TRUE,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,265,21.49
-8.222.182.10,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",289,21.31
-154.3.37.27,9004,TRUE,SIN,SG,Asia Pacific,Singapore,906,DMIT,292,20.24
-218.204.179.53,50394,TRUE,SIN,SG,Asia Pacific,Singapore,9808,"China Mobile Communications Group Co., Ltd.",318,20.14
-8.222.221.197,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",425,19.93
-79.99.28.160,8443,TRUE,LAX,US,North America,Los Angeles,834,IPXO,647,18.98
-79.99.31.19,8443,TRUE,LAX,US,North America,Los Angeles,834,IPXO,616,18.54
-8.222.212.172,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",429,18.48
-8.222.131.102,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",311,18.43
-79.99.28.240,8443,TRUE,SEA,US,North America,Seattle,834,IPXO,620,18.31
-8.222.129.245,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",434,18.18
-47.128.164.52,9999,TRUE,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,273,17.17
-218.204.179.8,50394,TRUE,SIN,SG,Asia Pacific,Singapore,9808,"China Mobile Communications Group Co., Ltd.",315,17.10
-8.222.140.185,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",418,16.70
-8.222.154.50,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",310,16.56
-8.222.145.164,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",297,16.50
-8.219.60.130,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",313,16.40
-213.35.98.197,8443,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,754,16.36
-156.251.183.226,34147,TRUE,SIN,SG,Asia Pacific,Singapore,40065,CNSERVERS,307,16.34
-202.81.235.90,50100,TRUE,SIN,SG,Asia Pacific,Singapore,4658,2012 Limited Netfront,420,16.13
-8.222.129.32,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",301,16.09
-47.236.104.11,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",396,15.95
-38.181.73.64,50395,TRUE,SIN,SG,Asia Pacific,Singapore,138997,Eons Data Communications Limited,315,15.81
-8.222.229.102,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",726,15.76
-183.233.187.221,35658,TRUE,SIN,SG,Asia Pacific,Singapore,9808,"China Mobile Communications Group Co., Ltd.",355,15.72
-8.222.168.24,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",449,15.52
-8.222.150.197,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",308,15.42
-8.222.215.228,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",304,15.30
-8.222.137.178,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",314,15.25
-8.222.167.8,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",325,14.58
-47.236.123.133,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",348,14.44
-8.222.224.162,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",334,13.94
-47.236.5.223,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",389,13.77
-8.219.206.180,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",377,13.24
-8.222.159.252,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",257,13.01
-8.219.248.170,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",338,12.91
-8.219.152.195,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",482,12.83
-8.222.219.34,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",322,12.81
-8.219.103.57,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",456,12.80
-8.222.145.110,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",284,12.73
-8.219.0.162,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",328,12.66
-8.219.159.232,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",356,12.31
-8.222.137.166,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",299,12.01
-47.236.125.62,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",524,11.97
-47.128.253.66,8443,TRUE,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,314,11.83
-8.222.168.234,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",303,11.68
-8.222.214.231,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",315,11.63
-47.236.116.26,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",379,11.62
-47.236.145.85,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",401,11.62
-103.191.242.218,9099,TRUE,SIN,SG,Asia Pacific,Singapore,4816,China Telecom Group,419,11.57
-47.236.114.167,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",431,11.33
-8.222.237.131,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",450,11.31
-8.222.153.11,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",299,11.28
-8.219.198.139,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",385,11.15
-8.219.66.156,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",321,11.12
-185.225.20.166,15611,TRUE,SIN,SG,Asia Pacific,Singapore,61112,AKILE LTD,456,11.10
-202.139.229.225,50100,TRUE,SIN,SG,Asia Pacific,Singapore,396856,AS-SHARON,295,11.03
-47.236.94.113,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",451,10.91
-8.222.164.44,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",283,10.87
-8.222.174.108,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",313,10.77
-38.181.73.151,47762,TRUE,SIN,SG,Asia Pacific,Singapore,138997,Eons Data Communications Limited,331,10.70
-8.222.136.196,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",324,10.60
-103.166.228.4,44443,TRUE,SIN,SG,Asia Pacific,Singapore,142594,SpeedyPage Ltd,462,10.29
-47.236.104.11,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",434,10.20
-47.236.15.73,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",368,10.12
-8.222.249.190,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",329,10.04
-47.236.150.109,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",416,9.98
-8.219.167.113,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",419,9.92
-47.236.116.182,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",402,9.75
-8.219.228.157,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",412,8.81
-47.236.130.95,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",378,8.73
-8.219.238.145,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",410,8.67
-47.236.75.113,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",551,8.66
-8.222.160.61,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",403,8.62
-8.213.209.234,34237,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",442,8.60
-8.222.227.191,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",695,8.54
-47.236.144.196,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",508,8.53
-8.222.155.242,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",307,8.44
-47.236.7.206,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",367,8.24
-47.236.83.196,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",438,8.18
-8.222.238.141,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",306,8.14
-8.219.222.98,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",359,7.78
-8.219.151.193,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",391,7.57
-8.222.229.22,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",310,7.31
-8.222.209.223,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",420,7.21
-47.236.87.206,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",456,7.15
-8.222.180.86,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",263,7.10
-8.219.167.65,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",395,7.10
-38.181.73.64,62888,TRUE,SIN,SG,Asia Pacific,Singapore,138997,Eons Data Communications Limited,296,7.02
-47.236.144.156,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",362,6.85
-47.236.82.218,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",388,6.66
-47.236.144.208,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",410,6.49
-8.219.185.191,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",343,6.41
-8.222.248.188,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",298,6.39
-8.219.249.38,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",353,6.18
-103.107.8.251,9004,TRUE,SIN,SG,Asia Pacific,Singapore,976,CORENET,737,6.01
-47.236.94.109,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",413,5.98
-8.222.169.182,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",309,5.93
-8.219.193.22,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",519,5.77
-8.222.154.227,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",283,5.73
-194.169.55.101,19886,TRUE,SIN,SG,Asia Pacific,Singapore,9312,xTom,291,5.72
-47.236.19.51,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",380,5.46
-47.236.79.77,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",401,5.45
-8.222.147.203,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",281,5.42
-8.222.175.78,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",302,5.30
-8.219.248.47,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",445,5.26
-8.219.60.54,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",297,5.19
-47.236.7.246,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",388,5.13
-47.236.119.253,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",389,5.08
-8.222.167.147,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",305,5.07
-8.219.142.191,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",547,4.90
-8.219.93.5,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",425,4.89
-8.222.180.242,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",281,4.84
-8.219.142.229,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",348,4.70
-8.222.171.165,30015,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",449,4.58
-47.236.7.13,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",380,4.41
-47.236.30.67,29969,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",345,4.39
-8.219.114.201,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",451,4.32
-47.236.23.243,41101,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",544,4.24
-27.0.234.9,17103,TRUE,SIN,SG,Asia Pacific,Singapore,149020,WebHorizon Internet Services,285,4.21
-8.219.3.213,41074,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",340,4.17
-47.236.144.48,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",401,4.17
-47.236.87.246,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",504,4.09
-185.225.20.140,34237,TRUE,SIN,SG,Asia Pacific,Singapore,61112,AKILE LTD,307,4.09
-8.222.138.166,21737,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",336,4.08
-47.236.114.166,44120,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",470,4.07
-8.222.210.182,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",390,4.05
-47.236.30.65,26978,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",384,4.04
-8.219.214.196,12777,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",391,4.01
-59.1.58.28,10617,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,337,3.98
-8.222.173.58,23390,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",268,3.97
-183.103.247.86,30269,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,330,3.90
-8.219.97.169,35212,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",320,3.81
-47.236.114.23,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",402,3.81
-8.219.65.170,34237,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",315,3.78
-47.236.85.11,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",665,3.78
-51.79.224.55,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,16276,OVH SAS,395,3.63
-8.219.77.91,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",316,3.58
-8.222.169.181,46458,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",344,3.50
-121.157.174.140,11603,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,329,3.48
-8.222.144.219,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",310,3.42
-8.210.159.198,51106,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",359,3.35
-213.35.117.83,28445,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,786,3.35
-8.222.255.15,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",292,3.31
-47.236.19.213,65432,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",389,3.24
-47.236.148.174,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",351,3.15
-47.236.83.239,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",470,3.12
-31.192.238.71,8443,TRUE,SIN,SG,Asia Pacific,Singapore,44493,Chelyabinsk-Signal LLC,369,2.96
-8.219.214.196,15266,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",325,2.95
-168.138.187.20,29898,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,360,2.67
-158.178.225.98,44044,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,747,2.63
-138.2.85.8,22604,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,735,2.62
-138.2.69.236,35416,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,779,2.61
-47.236.121.7,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",406,2.59
-168.138.170.211,53702,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,775,2.55
-8.219.174.213,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",528,2.54
-8.219.186.189,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",362,2.51
-8.222.187.107,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",301,2.46
-138.2.69.236,27667,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,698,2.43
-129.150.61.27,61735,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,299,2.33
-220.89.23.192,39315,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,332,2.32
-47.236.4.129,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",428,2.31
-47.243.95.157,11007,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",818,2.30
-178.128.97.69,8845,TRUE,SIN,SG,Asia Pacific,Singapore,14061,DIGITALOCEAN-ASN,363,2.26
-47.236.116.208,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",431,2.21
-158.178.241.138,45000,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,765,2.20
-158.178.228.8,10010,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,822,2.04
-213.35.121.247,28983,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,741,1.94
-8.219.61.211,34237,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",281,1.81
-68.183.184.21,8443,TRUE,SIN,SG,Asia Pacific,Singapore,14061,DIGITALOCEAN-ASN,885,1.79
-138.2.111.140,10010,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,786,1.53
-38.47.100.41,9005,TRUE,SIN,SG,Asia Pacific,Singapore,55933,Cloudie Limited,356,1.48
-68.183.236.78,8443,TRUE,SIN,SG,Asia Pacific,Singapore,14061,DIGITALOCEAN-ASN,387,1.45
-68.183.176.80,8443,TRUE,SIN,SG,Asia Pacific,Singapore,14061,DIGITALOCEAN-ASN,896,1.37
-129.150.41.174,16462,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,397,1.22
-216.221.213.185,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,995,1.18
-206.189.82.177,45304,TRUE,SIN,SG,Asia Pacific,Singapore,14061,DIGITALOCEAN-ASN,395,0.88
-34.143.213.195,12346,TRUE,SIN,SG,Asia Pacific,Singapore,396982,GOOGLE-CLOUD-PLATFORM,304,0.82
-139.162.48.174,10000,TRUE,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,291,0.74
-64.176.84.45,22222,TRUE,SIN,SG,Asia Pacific,Singapore,20473,AS-CHOOPA,880,0.61
-138.2.69.236,45182,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,788,0.40
-129.150.62.252,54774,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,762,0.37
-107.155.56.147,40488,TRUE,SIN,SG,Asia Pacific,Singapore,135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,449,0.34
-168.138.161.149,35642,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,745,0.29
-8.222.161.86,32101,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",314,0.26
-47.74.254.191,8900,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",723,0.26
-45.60.186.91,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,19551,INCAPSULA,374,0.25
-8.219.214.196,12666,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",341,0.18
-138.2.69.236,23334,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,775,0.11
-45.76.155.187,8443,TRUE,SIN,SG,Asia Pacific,Singapore,20473,AS-CHOOPA,853,0.11
-138.2.69.236,23585,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,789,0.11
-158.178.240.232,23559,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,796,0.06
-213.35.99.118,45681,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,741,0.03
-138.2.67.121,44400,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,756,0.02
-168.138.165.1,45680,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,416,0.01
-158.178.245.117,12368,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,959,0.01
+8.219.93.5,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",440,8.52
+8.219.60.54,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",442,6.55
+47.236.144.156,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",362,6.22
+8.222.174.108,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",336,5.85
+47.236.125.62,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",473,5.71
+47.236.75.113,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",368,5.45
+158.178.242.56,8443,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,823,5.41
+8.222.229.102,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",326,5.31
+8.222.215.228,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",317,4.93
+183.233.187.221,35658,TRUE,SIN,SG,Asia Pacific,Singapore,9808,"China Mobile Communications Group Co., Ltd.",757,4.86
+167.172.82.225,8443,TRUE,SIN,SG,Asia Pacific,Singapore,14061,DIGITALOCEAN-ASN,355,4.62
+47.236.145.180,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",529,4.51
+218.204.179.53,50394,TRUE,SIN,SG,Asia Pacific,Singapore,9808,"China Mobile Communications Group Co., Ltd.",329,4.49
+8.219.53.142,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",329,4.42
+8.222.129.32,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",339,4.37
+168.138.200.155,8443,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,596,4.34
+8.222.129.245,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",330,4.33
+47.236.87.206,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",492,4.31
+103.166.228.4,44443,TRUE,SIN,SG,Asia Pacific,Singapore,142594,SpeedyPage Ltd,380,4.06
+54.250.254.21,8443,TRUE,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,411,3.82
+8.219.249.38,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",382,3.76
+158.179.189.106,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,523,3.69
+8.222.187.107,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",295,3.62
+8.222.150.197,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",458,3.61
+47.236.104.11,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",499,3.58
+8.222.224.163,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",452,3.49
+8.222.137.178,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",308,3.40
+8.222.131.102,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",330,3.39
+8.222.140.185,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",403,3.37
+168.138.161.149,35642,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,822,3.37
+178.128.215.206,8443,TRUE,SIN,SG,Asia Pacific,Singapore,14061,DIGITALOCEAN-ASN,805,3.34
+129.150.41.174,16462,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,315,3.32
+8.219.210.226,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",346,3.22
+220.89.23.192,39315,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,363,3.21
+158.179.176.239,8443,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,601,3.19
+8.222.173.58,23390,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",336,3.14
+8.222.137.166,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",307,3.10
+8.219.208.69,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",406,3.09
+8.219.193.22,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",446,3.09
+8.219.114.201,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",412,3.04
+168.138.185.28,8443,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,803,3.02
+8.222.136.196,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",311,3.00
+8.222.138.166,21737,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",470,2.99
+8.219.228.157,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",482,2.98
+47.236.116.182,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",388,2.97
+129.150.62.252,54774,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,458,2.87
+138.2.69.236,27667,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,333,2.74
+155.248.179.132,8443,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,583,2.72
+8.222.214.231,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",432,2.70
+8.219.159.232,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",413,2.68
+34.143.213.195,12346,TRUE,SIN,SG,Asia Pacific,Singapore,396982,GOOGLE-CLOUD-PLATFORM,285,2.66
+47.236.79.77,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",392,2.59
+154.197.121.75,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,610,2.58
+154.197.121.92,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,667,2.56
+168.138.213.1,50009,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,584,2.55
+154.197.121.100,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,711,2.51
+8.209.246.24,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",486,2.51
+154.197.121.85,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,641,2.48
+168.138.178.6,19990,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,838,2.48
+8.219.60.130,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",450,2.48
+18.143.94.44,8443,TRUE,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,278,2.48
+202.81.235.90,50100,TRUE,SIN,SG,Asia Pacific,Singapore,4658,2012 Limited Netfront,413,2.46
+138.2.67.121,44400,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,732,2.43
+121.157.174.140,11603,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,366,2.41
+79.99.28.240,8443,TRUE,SEA,US,North America,Seattle,834,IPXO,618,2.40
+8.222.154.227,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",356,2.40
+129.150.61.27,61735,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,795,2.40
+8.222.130.137,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",429,2.39
+8.222.145.110,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",324,2.39
+154.197.121.137,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,632,2.38
+47.236.30.67,29969,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",516,2.38
+8.222.227.191,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",347,2.37
+8.219.157.97,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",369,2.37
+8.219.214.196,12666,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",383,2.36
+8.222.219.34,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",297,2.35
+154.197.121.104,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,652,2.31
+154.197.121.183,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,707,2.27
+47.236.83.196,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",581,2.25
+8.219.126.3,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",288,2.24
+8.222.169.181,46458,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",333,2.22
+154.197.121.172,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,655,2.20
+8.222.237.131,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",437,2.20
+154.197.121.91,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,667,2.19
+47.236.99.131,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",387,2.17
+154.197.121.67,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,633,2.15
+154.197.121.98,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,738,2.15
+154.197.121.9,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,639,2.15
+154.197.121.132,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,624,2.15
+8.222.180.242,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",434,2.13
+45.32.59.97,34567,TRUE,SIN,SG,Asia Pacific,Singapore,20473,AS-CHOOPA,964,2.13
+8.222.144.219,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",309,2.13
+8.222.209.223,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",461,2.12
+8.219.142.229,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",383,2.10
+8.219.186.189,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",505,2.10
+8.219.3.213,41074,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",425,2.09
+8.222.255.15,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",347,2.09
+154.197.121.7,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,633,2.08
+183.103.247.86,30269,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,374,2.07
+8.222.147.203,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",313,2.07
+154.197.121.206,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,690,2.03
+8.222.167.147,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",346,2.02
+154.197.121.141,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,668,2.01
+8.219.97.169,35212,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",472,2.01
+154.197.121.97,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,629,1.97
+154.197.121.10,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,627,1.96
+154.197.121.228,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,666,1.94
+213.35.117.83,28445,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,317,1.94
+154.197.121.189,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,666,1.94
+8.222.154.50,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",430,1.93
+8.222.159.252,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",425,1.92
+154.197.121.59,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,608,1.91
+154.197.121.199,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,699,1.90
+47.236.144.208,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",339,1.89
+47.236.114.166,44120,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",381,1.89
+154.197.121.131,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,621,1.88
+154.197.121.203,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,694,1.88
+154.197.121.138,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,650,1.87
+154.197.121.114,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,655,1.86
+154.197.121.212,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,682,1.84
+154.197.121.250,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,638,1.84
+8.222.145.164,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",306,1.84
+168.138.179.107,36322,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,843,1.83
+154.197.121.116,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,636,1.82
+154.197.121.230,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,667,1.82
+154.197.121.163,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,657,1.80
+158.178.240.232,23559,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,779,1.80
+47.236.114.23,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",366,1.79
+47.236.65.177,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",357,1.79
+154.197.121.37,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,659,1.77
+154.197.121.99,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,678,1.77
+154.197.121.182,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,673,1.76
+154.197.121.68,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,657,1.76
+8.222.153.11,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",346,1.76
+154.197.121.185,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,675,1.75
+8.222.169.182,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",356,1.75
+154.197.121.153,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,636,1.74
+154.197.121.194,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,690,1.74
+154.197.121.65,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,642,1.74
+8.222.212.219,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",371,1.73
+154.197.121.28,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,665,1.73
+154.197.121.184,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,654,1.72
+154.197.121.62,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,712,1.72
+154.197.121.110,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,637,1.71
+154.197.121.227,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,673,1.71
+203.184.131.62,8888,TRUE,SIN,SG,Asia Pacific,Singapore,9304,HGC Global Communications Limited,497,1.70
+154.197.121.157,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,660,1.70
+138.2.69.236,23334,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,780,1.70
+47.91.14.69,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",461,1.70
+154.197.121.90,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,684,1.69
+132.226.171.158,9527,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,532,1.69
+154.197.121.73,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,627,1.68
+47.236.97.90,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",346,1.67
+154.197.121.78,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,629,1.67
+154.197.121.232,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,695,1.67
+154.197.121.8,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,661,1.67
+154.197.121.181,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,653,1.67
+154.197.121.226,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,672,1.66
+8.219.253.18,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",591,1.66
+154.197.121.217,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,706,1.66
+154.197.121.155,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,668,1.65
+8.213.209.234,34237,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",506,1.65
+154.197.121.147,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,643,1.65
+158.178.225.98,44044,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,306,1.65
+154.197.121.76,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,679,1.65
+154.197.121.166,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,686,1.65
+154.197.121.135,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,618,1.65
+38.181.73.151,47762,TRUE,SIN,SG,Asia Pacific,Singapore,138997,Eons Data Communications Limited,305,1.64
+154.197.121.249,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,643,1.64
+139.162.48.174,10000,TRUE,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,287,1.64
+154.197.121.169,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,604,1.63
+154.197.121.219,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,658,1.63
+154.197.121.154,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,648,1.63
+47.236.19.51,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",357,1.62
+8.222.212.172,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",306,1.62
+47.236.7.13,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",371,1.62
+38.181.73.64,50395,TRUE,SIN,SG,Asia Pacific,Singapore,138997,Eons Data Communications Limited,305,1.62
+154.197.121.151,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,628,1.62
+8.222.182.10,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",316,1.60
+154.197.121.72,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,647,1.58
+154.197.121.211,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,682,1.57
+154.197.121.190,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,666,1.57
+154.197.121.176,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,651,1.56
+154.197.121.13,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,664,1.56
+8.219.206.180,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",520,1.56
+154.197.121.95,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,655,1.56
+154.197.121.144,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,626,1.56
+154.197.121.198,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,664,1.56
+79.99.31.19,8443,TRUE,SEA,US,North America,Seattle,834,IPXO,631,1.56
+154.197.121.105,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,681,1.55
+158.179.186.234,8443,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,584,1.55
+154.197.121.88,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,638,1.54
+154.197.121.21,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,619,1.53
+59.1.58.28,10617,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,368,1.53
+154.197.121.225,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,689,1.53
+47.236.87.246,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",435,1.52
+8.219.248.47,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",415,1.51
+154.197.121.134,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,640,1.49
+47.236.83.239,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",356,1.49
+154.197.121.202,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,627,1.48
+154.197.121.17,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,695,1.48
+154.197.121.94,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,680,1.48
+47.236.82.218,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",373,1.48
+154.197.121.159,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,661,1.48
+8.219.248.170,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",389,1.48
+8.219.198.139,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",511,1.48
+38.181.73.64,62888,TRUE,SIN,SG,Asia Pacific,Singapore,138997,Eons Data Communications Limited,278,1.48
+154.197.121.168,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,639,1.47
+154.197.121.35,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,618,1.47
+154.197.121.83,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,670,1.47
+154.197.121.171,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,663,1.47
+154.197.121.156,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,637,1.47
+68.183.176.80,8443,TRUE,SIN,SG,Asia Pacific,Singapore,14061,DIGITALOCEAN-ASN,482,1.46
+154.197.121.106,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,632,1.46
+154.197.121.101,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,633,1.46
+154.197.121.42,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,636,1.45
+154.197.121.177,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,635,1.45
+154.197.121.119,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,611,1.45
+154.197.121.53,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,642,1.44
+154.197.121.102,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,654,1.44
+154.197.121.236,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,631,1.44
+154.197.121.49,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,636,1.43
+154.197.121.180,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,645,1.43
+8.222.168.24,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",370,1.43
+154.197.121.196,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,682,1.42
+154.197.121.148,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,653,1.42
+154.197.121.26,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,691,1.42
+8.222.221.197,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",453,1.42
+8.210.159.198,51106,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",344,1.41
+156.251.183.226,34147,TRUE,SIN,SG,Asia Pacific,Singapore,40065,CNSERVERS,296,1.41
+154.197.121.234,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,712,1.41
+154.197.121.123,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,726,1.40
+154.197.121.118,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,659,1.40
+154.197.121.193,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,682,1.39
+154.197.121.31,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,654,1.39
+154.197.121.221,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,640,1.39
+154.197.121.136,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,644,1.39
+154.197.121.215,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,658,1.39
+154.197.121.107,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,603,1.39
+154.197.121.229,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,649,1.39
+47.236.123.133,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",342,1.38
+168.131.65.195,21305,TRUE,HKG,HK,Asia Pacific,Hong Kong,10197,Chonnam National University,576,1.38
+154.197.121.162,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,632,1.38
+154.197.121.30,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,640,1.38
+8.222.167.8,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",335,1.37
+154.197.121.33,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,654,1.37
+8.219.167.65,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",385,1.37
+18.136.104.40,19042,TRUE,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,321,1.36
+47.236.148.174,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",357,1.35
+154.197.121.142,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,649,1.34
+154.197.121.224,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,621,1.34
+152.69.219.31,41746,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,812,1.34
+154.197.121.178,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,673,1.33
+154.197.121.197,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,691,1.33
+154.197.121.218,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,699,1.32
+154.197.121.188,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,672,1.32
+152.70.99.187,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,538,1.32
+154.197.121.160,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,615,1.32
+8.219.237.250,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",358,1.31
+154.197.121.47,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,629,1.31
+154.197.121.139,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,637,1.31
+8.219.174.213,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",335,1.31
+154.197.121.170,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,648,1.31
+154.197.121.252,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,673,1.30
+154.197.121.108,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,648,1.30
+47.236.97.254,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",382,1.30
+154.197.121.235,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,732,1.30
+158.178.234.40,34237,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,790,1.30
+154.197.121.117,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,671,1.29
+47.236.130.95,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",484,1.29
+8.222.248.188,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",357,1.29
+154.197.121.161,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,625,1.29
+154.197.121.191,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,678,1.29
+158.178.241.138,45000,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,345,1.27
+154.197.121.201,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,696,1.26
+8.222.224.162,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",452,1.25
+154.197.121.29,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,704,1.25
+129.150.49.244,28570,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,844,1.24
+154.197.121.216,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,658,1.24
+47.236.7.246,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",324,1.24
+168.138.194.121,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,832,1.23
+47.128.164.52,9999,TRUE,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,318,1.22
+47.236.94.113,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",367,1.22
+8.222.211.124,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",337,1.22
+154.197.121.2,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,674,1.21
+154.197.121.145,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,621,1.20
+154.197.121.66,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,632,1.20
+154.197.121.27,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,656,1.20
+154.197.121.242,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,649,1.20
+8.219.142.191,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",403,1.19
+154.197.121.127,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,634,1.17
+154.197.121.205,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,682,1.16
+79.99.28.160,8443,TRUE,LAX,US,North America,Los Angeles,834,IPXO,639,1.15
+47.236.7.206,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",368,1.15
+8.219.0.162,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",410,1.15
+8.222.175.78,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",356,1.15
+31.192.238.71,8443,TRUE,SIN,SG,Asia Pacific,Singapore,44493,Chelyabinsk-Signal LLC,378,1.14
+47.236.144.196,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",397,1.14
+8.219.100.155,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",303,1.14
+27.0.234.9,17103,TRUE,SIN,SG,Asia Pacific,Singapore,149020,WebHorizon Internet Services,323,1.13
+154.197.121.125,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,651,1.13
+158.178.242.5,8443,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,431,1.13
+154.197.121.129,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,628,1.10
+8.222.168.234,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",315,1.10
+47.236.5.223,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",357,1.09
+47.236.145.85,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",495,1.09
+213.35.118.141,53784,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,808,1.08
+8.222.160.61,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",315,1.08
+118.39.217.219,28443,TRUE,HKG,HK,Asia Pacific,Hong Kong,4766,Korea Telecom,845,1.08
+154.197.121.220,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,665,1.07
+138.2.85.8,22604,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,345,1.07
+8.222.155.242,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",325,1.05
+47.236.30.65,26978,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",415,1.04
+154.197.121.16,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,642,1.03
+158.178.228.8,10010,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,808,1.03
+8.222.180.86,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",336,1.02
+8.219.61.211,34237,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",340,1.01
+8.222.249.190,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",337,1.01
+168.138.191.71,14978,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,292,1.01
+47.91.2.165,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",496,1.00
+103.191.242.218,9099,TRUE,SIN,SG,Asia Pacific,Singapore,4816,China Telecom Group,474,1.00
+8.209.248.161,8443,TRUE,KIX,JP,Asia Pacific,Osaka,45102,"Alibaba US Technology Co., Ltd.",229,0.98
+152.70.106.185,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,500,0.98
+154.197.121.222,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,683,0.97
+154.197.121.187,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,649,0.97
+8.222.229.22,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",336,0.97
+18.143.171.10,8443,TRUE,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,287,0.94
+47.236.116.208,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",501,0.94
+8.219.147.58,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",348,0.93
+158.178.246.169,8443,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,333,0.92
+154.197.121.58,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,629,0.92
+47.236.104.11,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",364,0.91
+194.36.179.17,8443,TRUE,SIN,SG,Asia Pacific,Singapore,200740,First Server Limited,326,0.90
+154.197.121.70,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,637,0.89
+158.178.242.5,8443,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,768,0.89
+8.219.65.170,34237,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",460,0.89
+47.236.144.48,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",367,0.88
+47.236.119.253,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",518,0.88
+8.222.164.44,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",335,0.87
+47.236.114.167,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",391,0.87
+8.222.238.141,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",336,0.86
+47.236.94.109,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",505,0.84
+168.138.217.146,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,536,0.84
+119.199.206.228,12509,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,969,0.84
+47.236.23.243,41101,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",469,0.83
+158.179.186.251,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,540,0.83
+8.219.174.142,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",353,0.80
+154.197.121.158,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,661,0.80
+51.79.224.55,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,16276,OVH SAS,515,0.79
+158.178.240.113,34237,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,815,0.79
+8.219.222.98,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",353,0.79
+52.77.221.3,8443,TRUE,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,317,0.78
+168.138.165.1,45680,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,810,0.76
+8.222.212.116,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",337,0.75
+47.236.116.26,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",366,0.75
+47.236.121.7,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",478,0.74
+154.197.121.173,8443,TRUE,SEA,US,North America,Seattle,328608,Africa-on-Cloud-AS,651,0.74
+47.236.15.73,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",522,0.74
+158.179.183.2,8443,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,577,0.73
+59.11.238.228,12230,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,900,0.73
+47.236.4.129,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",419,0.73
+213.35.121.247,28983,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,800,0.72
+129.150.33.88,52275,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,845,0.72
+8.222.171.165,30015,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",346,0.72
+47.245.59.133,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",566,0.69
+68.183.236.78,8443,TRUE,SIN,SG,Asia Pacific,Singapore,14061,DIGITALOCEAN-ASN,828,0.66
+163.47.9.27,8443,TRUE,SIN,SG,Asia Pacific,Singapore,14061,DIGITALOCEAN-ASN,354,0.65
+47.236.150.109,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",407,0.63
+158.179.188.159,8443,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,556,0.62
+158.179.186.138,8443,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,557,0.61
+206.189.82.177,45304,TRUE,SIN,SG,Asia Pacific,Singapore,14061,DIGITALOCEAN-ASN,908,0.60
+211.224.253.170,22000,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,964,0.60
+138.2.69.236,45182,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,354,0.59
+154.197.121.79,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,664,0.58
+213.35.98.197,8443,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,296,0.56
+51.79.246.123,8443,TRUE,SIN,SG,Asia Pacific,Singapore,16276,OVH SAS,310,0.56
+206.238.76.35,8889,TRUE,SIN,SG,Asia Pacific,Singapore,399077,TERAEXCH,317,0.56
+8.219.151.193,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",419,0.54
+168.138.170.211,53702,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,782,0.54
+213.35.121.247,45679,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,319,0.51
+216.221.213.171,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,944,0.49
+213.35.121.162,18868,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,730,0.48
+154.197.121.86,8443,TRUE,LAX,US,North America,Los Angeles,328608,Africa-on-Cloud-AS,681,0.47
+216.221.213.185,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,938,0.46
+211.248.90.208,34567,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,965,0.46
+64.176.84.45,22222,TRUE,SIN,SG,Asia Pacific,Singapore,20473,AS-CHOOPA,887,0.45
+154.3.37.27,9004,TRUE,SIN,SG,Asia Pacific,Singapore,906,DMIT,320,0.43
+14.39.251.200,12442,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,949,0.43
+216.221.213.179,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,935,0.42
+168.138.187.20,29898,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,753,0.42
+138.2.79.21,41002,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,829,0.42
+129.150.36.57,29499,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,751,0.42
+138.2.69.236,11216,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,452,0.41
+213.35.102.129,45682,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,822,0.40
+216.221.213.177,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,951,0.39
+103.107.8.251,9004,TRUE,SIN,SG,Asia Pacific,Singapore,976,CORENET,779,0.39
+216.221.213.172,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,932,0.39
+210.222.194.33,12517,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,988,0.39
+194.169.55.101,19886,TRUE,SIN,SG,Asia Pacific,Singapore,9312,xTom,720,0.39
+96.9.213.62,10443,TRUE,SIN,SG,Asia Pacific,Singapore,212238,Datacamp Limited,754,0.38
+47.91.15.247,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",758,0.38
+129.150.58.86,57621,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,830,0.38
+14.35.59.67,12305,TRUE,HKG,HK,Asia Pacific,Hong Kong,4766,Korea Telecom,833,0.37
+158.178.240.232,10257,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,303,0.37
+8.219.214.196,15266,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",338,0.36
+165.154.147.41,12218,TRUE,SIN,SG,Asia Pacific,Singapore,135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,410,0.35
+158.224.83.166,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,978,0.35
+125.139.225.100,12369,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,993,0.35
+138.2.69.236,23585,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,806,0.34
+158.224.83.75,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,975,0.34
+112.165.93.113,20150,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,881,0.34
+175.201.138.130,12230,TRUE,HKG,HK,Asia Pacific,Hong Kong,4766,Korea Telecom,807,0.33
+126.114.195.197,10102,TRUE,HKG,HK,Asia Pacific,Hong Kong,17676,SoftBank Corp.,771,0.33
+138.2.111.140,10010,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,771,0.33
+216.221.213.189,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,974,0.30
+138.2.69.236,35416,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,821,0.30
+47.74.254.191,8900,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",781,0.30
+158.178.245.117,12368,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,842,0.29
+119.198.96.239,10230,TRUE,HKG,HK,Asia Pacific,Hong Kong,4766,Korea Telecom,841,0.28
+216.221.212.241,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,907,0.27
+107.155.56.147,40488,TRUE,SIN,SG,Asia Pacific,Singapore,135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,411,0.27
+216.221.213.204,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,958,0.27
+158.224.83.159,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,935,0.27
+221.165.152.104,12390,TRUE,HKG,HK,Asia Pacific,Hong Kong,4766,Korea Telecom,904,0.25
+47.243.95.157,11007,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",715,0.25
+175.193.62.86,12578,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,927,0.24
+121.146.141.13,11443,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,912,0.24
+168.138.160.54,19081,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,357,0.24
+213.35.99.118,45681,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,394,0.23
+220.81.178.30,12306,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,928,0.23
+8.219.214.196,12777,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",535,0.23
+59.29.175.61,12291,TRUE,HKG,HK,Asia Pacific,Hong Kong,4766,Korea Telecom,832,0.22
+118.33.151.21,12506,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,947,0.22
+216.221.213.150,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,897,0.21
+158.224.83.162,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,957,0.21
+158.224.83.164,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,950,0.21
+129.150.49.154,32799,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,332,0.21
+158.224.81.1,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,952,0.20
+211.223.146.34,12119,TRUE,HKG,HK,Asia Pacific,Hong Kong,4766,Korea Telecom,895,0.20
+188.166.197.75,8443,TRUE,SIN,SG,Asia Pacific,Singapore,14061,DIGITALOCEAN-ASN,805,0.20
+158.224.83.140,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,985,0.19
+121.187.100.90,29842,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,988,0.19
+158.224.83.6,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,948,0.18
+121.179.68.136,10002,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,951,0.18
+211.250.13.224,10912,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,991,0.18
+138.2.88.252,51011,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,326,0.17
+216.221.214.50,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,931,0.17
+158.224.83.76,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,919,0.16
+175.193.62.86,12508,TRUE,KIX,JP,Asia Pacific,Osaka,4766,Korea Telecom,783,0.16
+158.224.83.158,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,965,0.16
+59.2.144.169,11371,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,944,0.16
+139.180.136.178,29661,TRUE,SIN,SG,Asia Pacific,Singapore,20473,AS-CHOOPA,916,0.15
+162.68.207.96,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,956,0.13
+158.224.83.7,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,939,0.12
+216.221.214.65,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,929,0.12
+104.43.108.189,10086,TRUE,SIN,SG,Asia Pacific,Singapore,8075,MICROSOFT-CORP-MSN-AS-BLOCK,964,0.11
+168.138.166.213,10500,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,472,0.10
+118.37.148.82,10032,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,941,0.10
+158.224.83.141,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,919,0.10
+178.128.97.69,8845,TRUE,SIN,SG,Asia Pacific,Singapore,14061,DIGITALOCEAN-ASN,515,0.10
+158.224.83.138,8443,TRUE,LHR,GB,Europe,London,26585,SIAC-SFTI,954,0.09
+207.148.118.195,8443,TRUE,SIN,SG,Asia Pacific,Singapore,20473,AS-CHOOPA,864,0.09
+152.69.205.37,54322,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,668,0.08
+45.76.155.187,8443,TRUE,SIN,SG,Asia Pacific,Singapore,20473,AS-CHOOPA,919,0.08
+121.183.17.222,10245,TRUE,HKG,HK,Asia Pacific,Hong Kong,4766,Korea Telecom,903,0.05
+121.151.14.14,10051,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,855,0.05
