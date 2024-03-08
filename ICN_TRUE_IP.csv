@@ -1,734 +1,467 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-146.56.161.141,45593,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,298,6.76
-193.123.243.33,43956,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,285,6.71
-110.10.140.145,50032,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,350,5.92
-114.30.225.88,50025,TRUE,ICN,KR,Asia Pacific,Seoul,38121,LG HelloVision Corp.,363,5.85
-175.125.207.253,39834,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,339,5.72
-118.91.7.206,39877,TRUE,ICN,KR,Asia Pacific,Seoul,7562,HCN Dongjak,191,5.56
-222.118.221.34,45060,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,309,5.24
-221.160.48.21,39888,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,317,5.20
-121.179.218.9,39813,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,331,5.19
-121.124.114.17,39821,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,406,5.12
-1.236.13.140,39925,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,325,5.08
-175.125.207.253,39973,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,326,5.07
-210.183.35.135,39813,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,322,4.92
-222.101.89.155,39814,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,320,4.89
-183.98.182.70,39869,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,322,4.84
-182.226.9.83,50028,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,372,4.82
-175.125.207.253,39817,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,368,4.78
-125.143.17.8,39826,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,350,4.76
-218.155.250.218,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,341,4.67
-220.94.35.240,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,321,4.65
-58.230.12.228,39979,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,351,4.62
-218.147.177.196,39940,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,329,4.52
-183.96.16.104,39836,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,299,4.50
-106.249.142.204,50025,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,328,4.48
-121.125.111.248,50030,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,313,4.46
-222.238.210.73,39857,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,320,4.44
-175.199.66.14,39835,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,293,4.44
-58.230.12.228,39870,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,327,4.43
-114.206.79.210,50035,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,469,4.38
-221.146.248.129,39855,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,4.34
-118.38.100.241,39834,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,302,4.32
-211.194.201.60,39815,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,322,4.31
-222.119.247.187,39835,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,316,4.25
-218.153.122.205,39832,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,354,4.25
-121.137.42.14,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,320,4.25
-121.176.171.238,39858,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,317,4.23
-175.201.166.143,39863,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,334,4.23
-141.164.56.255,40002,TRUE,ICN,KR,Asia Pacific,Seoul,20473,AS-CHOOPA,287,4.15
-183.104.90.133,39862,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,332,4.13
-220.90.172.89,39823,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,308,4.12
-222.113.157.221,39985,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,327,4.11
-211.207.47.238,39839,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,307,4.09
-49.142.67.158,50031,TRUE,ICN,KR,Asia Pacific,Seoul,9762,HYUNDAI COMMUNICATIONS NETWORK,284,4.09
-121.148.115.71,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,388,4.09
-14.39.43.121,39823,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,295,4.07
-141.164.56.255,40004,TRUE,ICN,KR,Asia Pacific,Seoul,20473,AS-CHOOPA,305,4.06
-115.93.169.180,50025,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,352,4.05
-220.122.69.165,39863,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,356,4.04
-203.243.29.220,39817,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,385,4.04
-125.132.146.20,39841,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,397,4.01
-141.164.56.255,40011,TRUE,ICN,KR,Asia Pacific,Seoul,20473,AS-CHOOPA,326,3.99
-118.35.213.199,39980,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,338,3.98
-222.113.157.221,39847,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,323,3.98
-118.38.100.241,39824,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,314,3.98
-175.212.237.31,39837,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,323,3.97
-210.183.35.135,39842,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,320,3.97
-146.56.141.168,47590,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,239,3.92
-183.107.11.144,39857,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,337,3.90
-114.201.71.176,39880,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,336,3.88
-183.98.182.70,39983,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,326,3.86
-132.226.21.147,56975,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,255,3.85
-58.230.12.228,39913,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,335,3.84
-140.238.2.153,59408,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,272,3.84
-59.7.41.44,39850,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,337,3.83
-203.243.29.220,39987,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,322,3.82
-115.41.152.246,50031,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,411,3.81
-118.216.16.203,39881,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,368,3.78
-121.172.26.67,39822,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,322,3.77
-45.93.28.195,41798,TRUE,ICN,KR,Asia Pacific,Seoul,138195,MOACK.Co.LTD,266,3.76
-115.88.75.154,50026,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,306,3.76
-180.68.62.68,39901,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,312,3.75
-210.183.35.135,39995,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,324,3.73
-61.77.34.212,39864,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,345,3.72
-211.59.29.184,50027,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,333,3.72
-59.17.46.67,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,361,3.71
-58.238.88.129,39840,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,350,3.71
-121.179.218.9,39910,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,416,3.68
-211.228.190.134,39846,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,295,3.67
-118.222.219.124,39991,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,355,3.67
-211.229.35.111,39862,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,330,3.67
-59.3.2.194,50030,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,428,3.67
-59.5.178.164,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,399,3.67
-119.205.17.98,39815,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,333,3.66
-1.255.181.62,39893,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,339,3.63
-218.152.203.24,39859,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,3.61
-14.34.17.85,39849,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,309,3.59
-220.119.243.243,50030,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,354,3.58
-211.229.35.111,39834,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,339,3.57
-222.108.223.246,39816,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,303,3.55
-58.227.226.238,39983,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,363,3.55
-14.46.213.93,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,428,3.54
-210.91.8.234,50029,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,300,3.54
-58.230.12.228,39988,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,329,3.54
-218.148.205.203,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,453,3.53
-211.222.61.132,39891,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,338,3.51
-219.250.207.217,39885,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,311,3.50
-210.178.50.247,50037,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,433,3.50
-1.221.180.155,50025,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,362,3.50
-115.22.87.246,39867,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,315,3.50
-125.134.61.36,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,317,3.48
-112.159.31.72,50020,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,323,3.48
-14.36.241.233,39927,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,348,3.47
-58.146.221.164,39923,TRUE,ICN,KR,Asia Pacific,Seoul,9698,LG HelloVision Corp.,328,3.47
-14.45.13.126,39825,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,316,3.47
-58.141.91.212,50034,TRUE,ICN,KR,Asia Pacific,Seoul,7562,HCN Dongjak,204,3.47
-175.127.75.125,50027,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,358,3.46
-211.213.219.26,39901,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,344,3.46
-58.234.19.225,50037,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,383,3.46
-59.14.218.144,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,338,3.46
-220.70.127.2,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,397,3.45
-211.221.204.75,39922,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,293,3.43
-183.105.192.75,39831,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,316,3.42
-118.130.230.115,50026,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,372,3.41
-118.34.182.50,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,380,3.41
-121.170.103.123,39845,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,347,3.41
-211.229.35.111,39880,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,306,3.40
-222.103.115.75,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,320,3.40
-211.63.33.138,39847,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,432,3.39
-110.46.14.124,39860,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,370,3.39
-222.96.55.131,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,396,3.38
-1.252.20.134,50035,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,379,3.35
-121.182.66.134,39819,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,339,3.35
-115.91.95.202,39981,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,361,3.35
-220.127.119.214,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,320,3.34
-218.147.208.141,50037,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,472,3.33
-14.38.149.13,39839,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,320,3.32
-119.202.16.138,39902,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,327,3.32
-218.154.203.189,39976,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,319,3.31
-61.77.216.8,39881,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,353,3.31
-222.119.227.244,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,379,3.30
-61.74.20.154,39827,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,337,3.29
-203.229.92.209,50033,TRUE,ICN,KR,Asia Pacific,Seoul,38095,SK Broadband Co Ltd,324,3.29
-218.155.164.163,39871,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,395,3.29
-211.228.207.78,39858,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,3.28
-1.254.224.5,50030,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,400,3.27
-121.153.248.205,39816,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,350,3.25
-61.82.11.21,39829,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,337,3.25
-144.24.82.14,39839,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,400,3.24
-211.42.255.79,50030,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,350,3.22
-61.74.89.221,39858,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,331,3.22
-211.219.120.238,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,413,3.21
-175.208.110.53,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,354,3.21
-220.82.203.172,39853,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,327,3.21
-121.164.186.91,39820,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,329,3.18
-121.170.103.123,39923,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,318,3.18
-59.25.237.229,39913,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,370,3.16
-118.46.222.184,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,410,3.15
-61.75.133.44,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,472,3.14
-121.177.159.95,39827,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,311,3.14
-211.106.6.14,39819,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,311,3.14
-118.36.16.183,39907,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,347,3.13
-125.135.9.44,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,317,3.12
-61.79.242.169,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,314,3.12
-210.90.151.247,39821,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,375,3.12
-211.210.72.224,39944,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,362,3.11
-175.121.23.104,39877,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,378,3.11
-14.48.170.40,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,380,3.10
-27.119.235.222,50036,TRUE,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,503,3.10
-222.118.221.34,45062,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,348,3.10
-175.202.134.144,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,383,3.09
-121.145.131.23,39976,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,332,3.09
-211.229.35.111,39994,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,318,3.09
-49.161.100.250,50027,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,366,3.08
-175.202.123.41,39874,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,344,3.07
-125.128.128.145,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,437,3.07
-211.252.58.154,39863,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,320,3.06
-221.162.188.134,39880,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,351,3.06
-59.3.100.176,50028,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,323,3.06
-211.198.86.60,39887,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,337,3.05
-210.100.224.92,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,366,3.05
-61.83.171.47,50029,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,331,3.04
-118.219.166.120,39976,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,419,3.03
-61.73.230.50,39847,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,323,3.03
-220.82.203.172,39830,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,325,3.01
-49.169.46.70,50028,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,366,3.01
-121.179.166.89,39892,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,302,3.00
-210.90.151.247,39827,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,303,2.99
-14.39.43.121,39985,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,353,2.99
-221.149.111.12,39984,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,333,2.98
-121.189.199.70,50036,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,451,2.98
-106.248.34.75,39872,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,393,2.97
-175.121.2.213,39945,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,349,2.96
-121.152.149.168,39840,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,334,2.96
-220.77.125.42,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,497,2.96
-211.35.140.71,50030,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,331,2.96
-119.199.91.182,39824,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,378,2.95
-175.195.224.108,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,322,2.95
-61.74.20.154,39915,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,332,2.94
-61.254.22.254,50032,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,307,2.94
-210.223.31.72,39915,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,352,2.93
-27.119.235.223,50032,TRUE,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,304,2.92
-121.151.248.12,39871,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,305,2.92
-220.87.237.210,39896,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,346,2.92
-218.39.175.87,50024,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,360,2.91
-14.45.45.213,39893,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,325,2.90
-1.248.163.32,50034,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,380,2.90
-118.131.115.3,39887,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,328,2.89
-221.161.65.216,39877,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,354,2.89
-116.40.251.4,45030,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,344,2.89
-61.73.230.50,39821,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,314,2.89
-211.218.83.2,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,366,2.88
-116.40.251.4,45032,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,319,2.88
-211.218.172.46,39885,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,349,2.88
-121.153.248.205,39898,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,352,2.88
-61.85.88.97,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,400,2.87
-218.147.177.196,39976,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,319,2.86
-182.230.215.148,39945,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,365,2.86
-220.119.170.222,50029,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,343,2.86
-222.119.82.7,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,2.86
-61.77.34.212,39946,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,343,2.85
-118.35.213.199,39953,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,360,2.85
-203.243.29.220,39944,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,343,2.84
-221.157.33.162,39901,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,327,2.84
-121.172.26.67,39917,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,292,2.83
-115.91.95.202,39887,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,322,2.83
-183.103.221.122,50036,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,468,2.83
-112.186.47.116,39868,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,343,2.83
-112.153.243.40,50035,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,376,2.82
-39.121.245.217,50027,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,361,2.82
-61.73.230.50,39886,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,348,2.82
-211.221.204.75,39908,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,323,2.82
-125.208.118.245,50025,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,335,2.81
-125.135.123.97,50028,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,2.81
-183.97.43.222,39929,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,317,2.81
-112.167.218.235,39943,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,343,2.81
-106.242.221.130,50027,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,322,2.80
-119.197.146.219,39893,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,405,2.80
-210.97.101.158,39894,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,2.78
-220.94.169.188,50029,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,425,2.78
-218.154.22.99,50037,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,504,2.77
-116.120.167.173,50040,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,469,2.77
-61.73.62.15,39868,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,397,2.77
-218.146.110.169,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,366,2.77
-222.109.51.28,39872,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,319,2.76
-59.9.79.74,50030,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,381,2.76
-14.44.32.251,39866,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,332,2.76
-59.1.165.195,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,320,2.75
-222.112.65.62,39940,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,333,2.75
-222.114.29.162,39921,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,337,2.75
-112.166.90.4,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,411,2.75
-211.184.237.204,39935,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,409,2.75
-61.101.87.93,50030,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,321,2.74
-222.100.127.166,50036,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,485,2.74
-14.32.121.27,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,342,2.74
-118.131.107.154,50024,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,365,2.74
-175.212.100.88,39975,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,340,2.74
-121.131.201.82,39995,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,343,2.73
-182.161.162.122,45007,TRUE,ICN,KR,Asia Pacific,Seoul,45361,Ulsan Jung-Ang Broadcasting Network,349,2.72
-152.70.234.249,55348,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,268,2.71
-118.33.187.241,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,310,2.70
-121.153.177.37,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,330,2.70
-119.194.230.206,39984,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,398,2.70
-14.56.103.251,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,396,2.70
-183.103.124.248,39997,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,344,2.70
-59.22.152.139,39896,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,308,2.70
-220.125.55.47,45011,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,341,2.70
-121.156.218.58,39859,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,315,2.69
-121.144.224.35,39970,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,324,2.69
-115.91.127.251,39993,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,438,2.69
-220.72.215.197,39816,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,379,2.69
-222.116.40.5,39901,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,373,2.69
-121.177.79.245,39961,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,313,2.67
-116.34.54.43,50027,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,332,2.67
-61.79.203.73,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,313,2.67
-121.177.57.211,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,312,2.67
-112.164.217.172,39917,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,365,2.67
-119.196.101.194,39942,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,807,2.65
-1.229.171.195,50034,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,336,2.65
-121.168.249.124,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,360,2.65
-106.251.244.62,50037,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,479,2.65
-220.72.105.119,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,411,2.65
-218.147.189.163,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,332,2.65
-118.41.163.140,39900,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,345,2.64
-121.136.176.84,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,313,2.64
-175.206.19.87,39986,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,352,2.63
-222.113.39.207,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,449,2.62
-220.79.30.98,39842,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,376,2.61
-183.97.164.92,50029,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,345,2.61
-39.124.208.84,39939,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,351,2.60
-220.80.74.129,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,355,2.60
-175.194.208.17,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,396,2.60
-211.219.39.253,50022,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,410,2.60
-220.149.158.61,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,300,2.60
-118.38.198.2,39894,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,350,2.59
-121.149.108.131,39857,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,352,2.57
-1.215.194.42,50027,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,322,2.57
-14.43.147.54,39827,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,339,2.57
-118.41.7.140,50036,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,496,2.56
-183.97.43.222,39864,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,2.56
-121.168.236.190,45014,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,2.56
-121.181.17.93,39948,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,340,2.56
-116.123.36.136,50026,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,393,2.55
-218.147.208.141,50028,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,304,2.55
-121.163.246.253,39880,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,367,2.54
-210.183.35.135,39914,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,342,2.54
-14.54.63.38,50030,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,338,2.53
-58.230.12.228,39958,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,321,2.52
-121.151.248.12,39978,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,291,2.52
-218.232.30.205,50025,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,392,2.52
-183.96.16.104,39936,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,344,2.51
-211.184.243.125,39990,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,346,2.51
-180.231.234.86,50038,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,384,2.51
-61.40.175.198,50034,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,336,2.51
-1.249.131.246,50036,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,440,2.50
-61.80.181.51,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,400,2.50
-119.207.53.233,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,413,2.50
-183.96.62.61,39823,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,329,2.50
-183.99.29.82,39937,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,347,2.49
-121.167.72.235,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,366,2.49
-211.229.35.111,39863,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,302,2.48
-175.197.114.39,50039,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,397,2.48
-115.94.44.211,50035,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,536,2.47
-211.203.134.213,50037,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,455,2.46
-121.136.243.22,39855,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,312,2.46
-121.149.121.176,39954,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,368,2.45
-121.187.175.134,39857,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,320,2.45
-203.243.29.220,39862,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,322,2.45
-121.184.136.172,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,397,2.45
-124.55.33.121,39901,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,374,2.45
-220.119.170.222,50042,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,399,2.44
-175.206.19.87,39997,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,341,2.44
-115.20.196.36,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,309,2.43
-119.204.152.47,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,454,2.43
-211.251.3.145,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,442,2.43
-211.55.202.96,39893,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,358,2.41
-222.108.252.112,50036,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,383,2.41
-118.222.219.124,39948,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,412,2.41
-112.152.52.240,50035,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,384,2.40
-118.38.100.241,39917,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,340,2.40
-180.70.218.108,39898,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,384,2.39
-175.215.47.41,50026,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,324,2.38
-112.185.11.90,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,361,2.37
-220.84.131.183,39842,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,333,2.37
-59.13.243.108,39875,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,365,2.37
-14.45.184.163,50026,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,349,2.37
-218.147.177.196,39954,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,341,2.36
-183.102.27.103,39904,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,343,2.36
-121.154.95.24,39876,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,343,2.36
-115.20.196.36,50039,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,453,2.36
-221.160.61.240,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,349,2.36
-220.77.80.39,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,323,2.36
-121.171.248.45,39944,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,326,2.36
-210.90.151.247,39977,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,332,2.35
-14.54.105.143,39899,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,321,2.35
-119.199.47.73,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,400,2.35
-118.37.140.196,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,469,2.34
-210.90.151.247,39951,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,330,2.34
-220.78.253.128,50037,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,401,2.33
-125.143.238.3,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,375,2.33
-211.229.104.4,39867,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,351,2.33
-27.126.33.65,50025,TRUE,ICN,KR,Asia Pacific,Seoul,38133,CMB,391,2.33
-222.112.65.62,39934,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,343,2.33
-118.131.115.3,50026,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,382,2.33
-119.202.221.107,39890,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,347,2.33
-211.229.35.111,39974,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,300,2.32
-183.96.44.155,39886,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,336,2.32
-123.111.152.207,50028,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,320,2.32
-121.166.226.161,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,327,2.32
-180.71.250.140,39919,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,384,2.32
-121.152.127.130,45013,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,341,2.32
-14.53.138.78,39953,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,341,2.32
-210.103.11.179,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,407,2.32
-220.127.185.37,39893,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,315,2.31
-211.228.137.211,50036,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,457,2.31
-115.90.2.220,50034,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,324,2.31
-175.212.237.31,39976,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,385,2.31
-175.207.255.123,50028,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,392,2.30
-211.196.12.95,39960,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,362,2.30
-61.35.159.221,50035,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,406,2.30
-218.147.212.203,39926,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,329,2.30
-112.186.215.76,39887,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,356,2.29
-211.222.187.4,39854,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,346,2.28
-221.166.138.250,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,325,2.27
-59.3.158.71,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,358,2.26
-14.39.159.221,39952,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,331,2.26
-218.147.177.196,39946,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,310,2.25
-1.221.180.155,50036,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,463,2.24
-14.54.148.237,39941,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,352,2.24
-220.86.116.220,39836,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,389,2.24
-112.172.45.110,39815,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,338,2.24
-59.13.222.240,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,342,2.24
-115.22.114.174,39964,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,370,2.23
-121.124.114.17,39928,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,344,2.23
-49.246.56.253,50027,TRUE,ICN,KR,Asia Pacific,Seoul,10054,CMB Kwangju Broadcasting,337,2.23
-59.4.71.105,39832,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,325,2.23
-112.185.35.58,39827,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,304,2.23
-183.99.172.142,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,306,2.22
-59.2.231.161,39883,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,374,2.22
-61.85.189.73,39825,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,377,2.21
-106.248.34.75,39952,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,358,2.20
-221.166.156.189,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,369,2.19
-211.226.137.84,39960,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,362,2.19
-14.33.94.139,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,337,2.19
-211.194.29.8,39908,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,320,2.18
-220.80.5.87,50026,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,354,2.18
-121.152.149.168,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,299,2.18
-14.53.41.163,50036,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,400,2.17
-175.196.248.156,39893,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,365,2.16
-175.212.237.31,39942,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,351,2.16
-183.96.62.61,39876,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,326,2.16
-210.90.151.247,39893,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,299,2.16
-39.122.170.216,50031,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,395,2.16
-121.137.58.166,39987,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,312,2.16
-121.132.169.33,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,343,2.16
-121.172.119.75,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,392,2.16
-14.39.43.121,39840,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,344,2.16
-118.43.82.92,50030,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,818,2.16
-61.80.181.51,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,347,2.15
-121.165.251.66,39890,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,330,2.15
-59.28.223.230,50029,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,340,2.15
-119.204.156.245,39880,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,340,2.14
-116.121.96.103,50036,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,477,2.14
-182.226.53.214,39930,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,334,2.14
-222.104.159.198,39894,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,331,2.13
-183.108.184.228,39991,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,337,2.12
-118.38.100.241,39972,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,346,2.12
-221.162.188.134,39965,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,317,2.11
-220.118.249.169,39887,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,312,2.11
-61.77.34.212,39982,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,347,2.10
-121.163.73.247,39815,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,347,2.10
-222.119.247.187,39914,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,424,2.10
-111.65.150.65,50025,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,390,2.09
-59.12.221.121,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,329,2.09
-211.227.68.139,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,294,2.09
-211.192.158.219,39886,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,339,2.09
-218.147.188.8,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,334,2.09
-1.215.142.122,50033,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,388,2.08
-222.118.159.200,39872,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,314,2.08
-220.124.55.155,39927,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,314,2.08
-121.149.222.38,39962,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,336,2.07
-210.100.133.84,39878,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,314,2.07
-112.185.201.42,39833,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,321,2.07
-220.83.76.123,39931,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,327,2.06
-121.172.26.67,39969,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,339,2.06
-210.183.35.135,39919,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,325,2.06
-121.66.67.165,50027,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,329,2.06
-125.128.132.216,39828,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,317,2.06
-61.78.249.143,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,338,2.06
-14.45.121.195,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,364,2.05
-175.206.19.87,39938,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,347,2.05
-61.75.133.44,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,353,2.05
-183.97.43.222,39893,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,309,2.05
-175.125.207.253,39894,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,297,2.05
-183.99.252.103,39949,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,366,2.05
-211.223.116.99,39885,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,352,2.05
-61.84.62.196,39928,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,311,2.05
-203.232.127.206,39991,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,306,2.05
-61.36.204.107,50031,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,411,2.04
-14.39.202.169,39994,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,340,2.04
-61.37.101.30,50036,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,406,2.03
-221.159.203.188,39936,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,410,2.02
-221.153.146.172,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,327,2.02
-61.77.34.212,39918,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,346,2.02
-121.162.49.130,39887,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,364,2.02
-218.155.235.187,39963,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,300,2.01
-121.140.79.69,39944,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,331,2.01
-222.100.183.160,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,400,2.00
-14.38.25.11,39909,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,336,2.00
-211.194.173.59,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,393,2.00
-222.108.106.148,39931,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,325,1.99
-121.181.17.93,39935,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,361,1.98
-121.181.17.93,39906,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,339,1.98
-118.43.162.180,39831,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,353,1.98
-118.39.115.184,39963,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,304,1.97
-121.175.54.166,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,322,1.97
-119.201.121.170,39880,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,340,1.97
-59.31.117.233,39889,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,327,1.97
-210.90.151.247,39961,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,319,1.97
-125.132.109.199,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,411,1.97
-14.36.97.87,39929,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,326,1.97
-111.65.150.65,50029,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,415,1.96
-14.52.189.173,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,428,1.96
-14.43.154.90,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,1.96
-121.170.103.123,39995,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,336,1.95
-61.80.160.212,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,426,1.95
-220.70.163.31,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,339,1.95
-14.50.26.121,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,443,1.94
-1.236.238.14,39936,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,349,1.94
-59.2.8.71,50028,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,361,1.93
-125.135.176.158,39891,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,341,1.93
-175.196.72.162,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,309,1.93
-1.252.178.75,39852,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,376,1.92
-121.153.77.6,39885,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,318,1.92
-220.127.78.184,39973,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,351,1.92
-121.171.165.43,39926,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,346,1.91
-1.222.108.75,50024,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,344,1.90
-218.156.213.52,39974,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,301,1.89
-222.118.181.165,50026,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,351,1.89
-116.40.251.4,45033,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,330,1.89
-220.125.247.66,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,329,1.89
-59.30.247.92,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,475,1.88
-222.103.130.244,39949,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,319,1.88
-211.199.66.141,45027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,333,1.87
-175.206.19.87,39826,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,343,1.86
-112.161.83.33,39951,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,1.86
-119.194.34.220,39822,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,382,1.86
-220.118.249.169,39837,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,345,1.86
-58.230.12.228,39967,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,368,1.85
-221.149.111.12,39968,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,323,1.85
-210.90.151.247,39915,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,313,1.85
-115.93.93.90,50036,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,445,1.85
-118.35.117.198,39955,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,363,1.85
-118.38.100.241,39885,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,323,1.84
-119.207.134.107,50020,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,334,1.84
-59.6.120.199,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,348,1.84
-211.250.168.204,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,321,1.83
-1.248.163.32,50024,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,428,1.83
-210.222.133.55,39982,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,311,1.82
-211.222.214.171,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,353,1.80
-119.206.242.174,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,364,1.80
-218.155.141.54,50023,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,319,1.79
-222.103.27.12,39970,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,377,1.79
-106.251.50.133,50031,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,442,1.79
-220.126.157.182,39865,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,306,1.79
-211.105.209.181,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,314,1.78
-118.47.63.96,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,333,1.76
-61.85.189.73,39894,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,365,1.74
-218.146.90.60,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,519,1.74
-211.226.137.84,39920,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,330,1.73
-119.207.114.52,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,352,1.72
-118.38.198.2,39815,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,309,1.72
-1.220.146.22,45018,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,375,1.72
-58.230.12.228,39987,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,335,1.72
-218.156.213.52,39996,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,303,1.71
-1.221.231.226,50031,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,412,1.71
-121.131.91.22,39989,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,1.71
-218.149.116.189,50036,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,469,1.71
-220.84.131.183,39911,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,313,1.71
-112.219.148.204,50036,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,440,1.69
-121.154.218.83,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,344,1.69
-61.79.203.73,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,308,1.68
-118.42.167.128,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,395,1.68
-211.248.30.42,39971,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,337,1.68
-221.149.111.12,39924,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,317,1.68
-121.154.0.42,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,350,1.68
-222.119.247.187,39939,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,1.67
-222.119.24.197,39891,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,344,1.66
-210.90.151.247,39943,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,336,1.65
-183.108.176.121,50030,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,337,1.64
-14.44.61.169,39949,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,363,1.63
-59.13.243.183,39995,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,381,1.63
-121.168.90.204,39996,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,325,1.63
-61.74.89.221,39948,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,346,1.61
-111.65.176.140,39870,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,381,1.60
-218.153.122.205,39883,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,380,1.60
-210.222.133.55,39967,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,334,1.60
-211.42.210.76,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,338,1.59
-220.127.78.184,39926,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,330,1.59
-220.73.70.34,39850,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,372,1.57
-116.40.251.4,45029,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,333,1.56
-121.145.236.5,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,474,1.56
-61.77.34.212,39945,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,324,1.55
-220.92.248.152,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,340,1.54
-222.108.252.112,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,290,1.54
-61.41.133.195,50035,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,462,1.54
-218.209.141.34,39883,TRUE,ICN,KR,Asia Pacific,Seoul,23563,SK Broadband Co Ltd,375,1.53
-222.108.94.228,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,392,1.52
-14.63.122.174,39912,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,330,1.52
-210.183.35.135,39913,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,332,1.51
-218.145.5.9,50030,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,403,1.51
-222.98.171.193,39855,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,1.50
-45.112.161.235,39965,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,376,1.50
-175.201.127.138,39950,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,356,1.49
-211.199.164.195,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,331,1.48
-59.2.231.161,39911,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,350,1.48
-220.70.127.239,50028,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,342,1.48
-175.212.237.31,39964,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,317,1.48
-14.55.47.57,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,326,1.48
-121.189.83.57,39970,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,408,1.48
-175.195.224.108,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,382,1.46
-211.196.128.159,39850,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,358,1.45
-121.66.75.13,39996,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,358,1.44
-221.156.75.219,39990,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,355,1.43
-175.203.204.222,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,435,1.42
-203.243.29.220,39938,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,329,1.41
-203.243.29.220,39968,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,336,1.41
-59.2.231.161,39937,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,308,1.41
-111.65.159.250,50027,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,396,1.40
-111.65.134.89,50031,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,427,1.40
-175.193.102.95,39986,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,334,1.40
-14.55.36.151,50036,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,410,1.40
-118.39.57.71,50030,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,363,1.39
-211.105.215.226,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,354,1.39
-121.132.235.18,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,342,1.38
-14.37.62.94,39972,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,344,1.38
-59.187.242.236,39830,TRUE,ICN,KR,Asia Pacific,Seoul,7562,HCN Dongjak,324,1.38
-129.154.192.228,55040,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,265,1.37
-211.248.30.42,39902,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,320,1.37
-115.90.84.220,50030,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,338,1.35
-220.80.74.129,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,462,1.35
-218.147.188.8,50040,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,398,1.33
-124.54.210.132,50034,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,406,1.33
-175.208.162.19,39893,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,306,1.33
-175.212.237.31,39973,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,309,1.32
-183.108.142.140,39915,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,336,1.32
-125.143.46.209,39967,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,324,1.32
-218.50.39.167,39925,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,880,1.32
-211.199.37.250,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,355,1.31
-14.38.90.212,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,406,1.31
-61.79.224.51,39994,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,333,1.31
-211.252.58.154,39962,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,342,1.30
-58.123.69.114,39850,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,339,1.30
-121.151.248.12,39830,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,324,1.29
-175.211.144.56,39998,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,374,1.29
-203.236.109.80,39909,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,355,1.28
-175.206.19.87,39897,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,347,1.28
-115.88.27.28,39971,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,401,1.28
-61.85.230.208,39932,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,357,1.28
-121.151.80.184,39815,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,354,1.28
-118.34.248.129,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,410,1.26
-222.119.247.187,39864,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,1.26
-61.76.122.204,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,366,1.25
-115.161.190.42,39843,TRUE,ICN,KR,Asia Pacific,Seoul,38103,SK Broadband Co Ltd,347,1.25
-59.8.21.190,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,386,1.24
-211.199.66.141,45026,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,315,1.24
-14.37.166.86,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,433,1.24
-175.212.237.31,39963,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,318,1.23
-210.216.105.141,50027,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,391,1.22
-112.161.69.177,39935,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,332,1.22
-59.20.35.183,39896,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,321,1.21
-211.187.96.118,39846,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,384,1.20
-211.198.86.60,39896,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,320,1.20
-121.181.17.93,39979,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,320,1.20
-210.183.46.187,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,358,1.19
-111.171.120.24,50042,TRUE,ICN,KR,Asia Pacific,Seoul,38109,SK Broadband Co Ltd,440,1.18
-193.123.250.205,56785,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,285,1.18
-14.50.42.19,39917,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,333,1.18
-175.212.237.31,39861,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,1.17
-125.143.17.8,39866,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,1.17
-58.238.88.129,39991,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,357,1.17
-58.236.161.47,50031,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,365,1.17
-14.44.61.169,39816,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,358,1.17
-14.54.105.143,39838,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,338,1.17
-221.157.0.159,39937,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,300,1.16
-211.63.33.138,39997,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,320,1.15
-121.167.108.242,39825,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,309,1.14
-114.202.206.2,50033,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,368,1.13
-220.78.4.3,39914,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,326,1.12
-220.126.254.52,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,496,1.12
-14.40.22.81,39829,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,308,1.12
-221.153.42.212,39968,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,326,1.10
-222.119.247.187,39918,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,334,1.10
-1.221.32.157,50035,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,324,1.09
-210.123.8.151,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,353,1.09
-183.109.139.113,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,340,1.09
-118.41.163.140,39954,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,324,1.08
-175.205.227.20,39875,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,333,1.08
-218.52.232.140,50025,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,357,1.07
-121.129.138.251,39876,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,321,1.05
-146.56.139.40,45139,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,227,1.05
-183.97.234.117,39995,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,350,1.05
-115.22.153.73,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,301,1.03
-222.236.190.141,50034,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,365,1.02
-121.168.90.204,39882,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,374,1.01
-121.128.146.39,50038,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,384,1.01
-1.214.208.5,50034,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,365,1.00
-218.155.76.56,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,1.00
-103.86.44.125,65432,TRUE,ICN,KR,Asia Pacific,Seoul,138195,MOACK.Co.LTD,235,0.99
-121.149.121.176,39952,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,360,0.97
-111.65.157.58,50026,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,393,0.97
-221.156.75.219,39927,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,327,0.96
-1.222.17.187,50021,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,393,0.93
-220.84.131.183,39831,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,323,0.89
-121.173.113.144,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,336,0.88
-211.245.199.224,50024,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,363,0.88
-14.53.44.242,39869,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,392,0.88
-221.160.205.130,39908,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,331,0.87
-211.194.201.60,39946,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,309,0.87
-121.148.30.109,39872,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,334,0.86
-116.42.241.193,50025,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,348,0.86
-14.33.156.122,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,0.83
-222.117.239.17,39872,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,322,0.83
-39.123.204.7,50032,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,369,0.81
-211.248.30.42,39921,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,352,0.81
-220.72.215.197,39976,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,0.80
-59.27.128.175,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,438,0.80
-14.47.149.140,39956,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,355,0.78
-175.117.97.25,39992,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,366,0.78
-14.41.85.118,39936,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,361,0.77
-59.11.89.252,39846,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,500,0.75
-59.2.231.161,39957,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,361,0.73
-106.244.149.195,39907,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,569,0.73
-175.209.202.142,39898,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,320,0.72
-146.56.99.255,56789,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,448,0.71
-218.52.232.140,50035,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,406,0.70
-118.217.228.238,39866,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,366,0.69
-210.87.202.245,52646,TRUE,ICN,KR,Asia Pacific,Seoul,138195,MOACK.Co.LTD,382,0.69
-152.69.233.9,44907,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,508,0.68
-112.72.240.72,50024,TRUE,ICN,KR,Asia Pacific,Seoul,9319,HCN CHUNGBUK CABLE TV SYSTEMS,552,0.67
-210.205.185.215,39994,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,312,0.66
-123.111.77.9,39921,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,347,0.65
-118.41.163.140,39883,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,358,0.65
-59.31.73.84,39994,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,314,0.65
-211.197.26.25,39996,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,325,0.64
-222.114.14.116,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,344,0.63
-123.111.77.9,39902,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,350,0.63
-221.164.129.136,39962,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,340,0.63
-152.67.215.136,39972,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,368,0.63
-183.96.62.61,39978,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,330,0.62
-123.213.202.203,50035,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,501,0.61
-218.50.39.167,39972,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,445,0.61
-1.237.224.43,39929,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,365,0.60
-112.161.83.33,39944,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,326,0.58
-59.11.89.252,39861,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,379,0.58
-218.149.108.202,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,459,0.58
-59.11.89.252,39989,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,336,0.58
-175.125.2.37,50024,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,327,0.52
-175.206.175.186,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,363,0.49
-118.41.163.140,39920,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,315,0.49
-193.122.115.74,52314,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,267,0.44
-152.69.224.133,50000,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,452,0.42
-218.144.49.230,39935,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,336,0.41
-125.132.109.199,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,319,0.41
-210.103.11.179,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,315,0.40
-59.11.89.252,39942,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,390,0.39
-121.149.9.51,39899,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,459,0.36
-112.72.162.61,39863,TRUE,ICN,KR,Asia Pacific,Seoul,9319,HCN CHUNGBUK CABLE TV SYSTEMS,344,0.36
-122.252.196.94,50034,TRUE,ICN,KR,Asia Pacific,Seoul,38133,CMB,514,0.36
-59.11.89.252,39867,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,451,0.35
-218.154.216.119,39877,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,305,0.32
-111.65.176.140,39921,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,580,0.32
-121.149.9.51,39954,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,441,0.31
-120.136.101.49,50025,TRUE,ICN,KR,Asia Pacific,Seoul,9698,LG HelloVision Corp.,384,0.30
-146.56.166.59,46060,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,223,0.22
-121.149.55.161,39962,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,451,0.13
-59.5.191.37,39844,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,427,0.10
-58.239.203.25,39838,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,385,0.10
-58.239.203.25,39954,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,383,0.09
-203.175.47.46,39921,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,392,0.09
-203.175.47.46,39920,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,424,0.09
-203.175.47.46,39837,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,383,0.09
-203.175.47.46,39936,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,394,0.09
-182.217.172.166,39892,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,374,0.07
+140.238.2.153,59408,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,249,38.13
+129.154.192.228,55040,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,230,25.58
+141.164.56.255,40004,TRUE,ICN,KR,Asia Pacific,Seoul,20473,AS-CHOOPA,367,24.30
+146.56.161.141,45593,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,244,23.30
+193.123.250.205,56785,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,227,21.74
+141.164.56.255,40011,TRUE,ICN,KR,Asia Pacific,Seoul,20473,AS-CHOOPA,347,11.85
+146.56.141.168,47590,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,279,10.86
+1.209.234.83,50030,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,317,7.94
+218.147.177.196,39954,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,391,7.72
+218.147.177.196,39940,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,331,7.55
+218.154.203.189,39976,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,297,7.33
+211.252.58.154,39962,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,343,7.32
+114.30.225.88,50025,TRUE,ICN,KR,Asia Pacific,Seoul,38121,LG HelloVision Corp.,356,7.29
+193.123.243.33,43956,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,363,7.22
+218.144.49.230,39935,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,334,7.21
+27.119.235.223,50032,TRUE,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,312,7.20
+210.178.50.247,50037,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,445,7.17
+210.222.133.55,39967,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,321,7.13
+175.125.2.37,50024,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,313,7.11
+58.230.12.228,39958,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,361,7.08
+210.222.133.55,39982,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,390,7.08
+220.94.35.240,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,314,7.04
+222.112.65.62,39940,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,324,7.03
+203.243.29.220,39944,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,344,7.02
+58.234.19.225,50037,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,348,6.96
+121.131.91.22,39989,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,333,6.95
+27.119.235.222,50036,TRUE,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,348,6.94
+119.196.101.194,39942,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,398,6.93
+175.211.129.76,39945,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,348,6.82
+222.103.130.244,39949,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,6.79
+1.252.20.134,50035,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,455,6.78
+112.159.31.72,50020,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,329,6.77
+183.99.29.82,39937,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,292,6.76
+49.142.67.158,50031,TRUE,ICN,KR,Asia Pacific,Seoul,9762,HYUNDAI COMMUNICATIONS NETWORK,256,6.75
+222.112.65.62,39934,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,314,6.74
+112.153.118.61,50030,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,357,6.71
+203.243.29.220,39968,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,311,6.69
+218.147.177.196,39946,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,323,6.69
+116.120.167.173,50040,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,329,6.69
+115.22.114.174,39964,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,366,6.67
+125.208.118.245,50025,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,385,6.64
+106.249.142.204,50025,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,342,6.63
+211.184.237.204,39935,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,341,6.62
+118.34.182.50,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,309,6.61
+222.236.190.141,50034,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,348,6.61
+14.53.138.78,39953,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,356,6.60
+110.10.140.145,50032,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,365,6.59
+183.96.16.104,39936,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,296,6.56
+121.168.249.124,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,311,6.56
+49.161.100.250,50027,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,332,6.54
+121.170.103.123,39995,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,376,6.54
+203.243.29.220,39938,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,414,6.53
+58.141.91.212,50034,TRUE,ICN,KR,Asia Pacific,Seoul,7562,HCN Dongjak,232,6.52
+121.181.17.93,39948,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,326,6.51
+175.212.100.88,39975,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,341,6.50
+118.39.115.184,39963,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,336,6.47
+121.148.115.71,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,357,6.45
+211.210.72.224,39944,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,340,6.45
+39.124.208.84,39939,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,325,6.44
+118.35.213.199,39953,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,327,6.44
+210.90.151.247,39951,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,316,6.43
+210.90.151.247,39943,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,320,6.43
+175.125.207.253,39973,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,321,6.41
+220.83.76.123,39931,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,389,6.39
+112.153.243.40,50035,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,341,6.39
+118.35.213.199,39980,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,338,6.39
+220.87.104.90,39954,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,318,6.36
+58.230.12.228,39979,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,334,6.35
+182.226.53.214,39930,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,327,6.34
+14.54.148.237,39941,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,333,6.34
+218.232.30.205,50025,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,345,6.32
+218.155.250.218,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,313,6.30
+118.46.222.184,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,334,6.28
+112.161.83.33,39951,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,325,6.27
+182.226.9.83,50028,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,334,6.25
+125.143.46.209,39967,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,300,6.25
+218.156.213.52,39974,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,315,6.24
+123.111.152.207,50028,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,334,6.23
+175.212.237.31,39964,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,322,6.23
+222.103.27.12,39970,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,339,6.22
+1.222.17.187,50021,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,369,6.17
+61.77.34.212,39945,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,6.17
+210.90.151.247,39977,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,314,6.14
+61.77.34.212,39946,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,339,6.11
+175.212.237.31,39973,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,317,6.10
+221.156.75.219,39990,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,341,6.06
+221.153.42.212,39968,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,337,6.05
+121.185.144.209,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,342,5.99
+14.39.43.121,39985,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,318,5.98
+14.37.62.94,39972,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,306,5.98
+121.181.17.93,39979,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,378,5.97
+218.147.189.163,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,372,5.96
+211.226.137.84,39960,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,321,5.96
+115.88.27.28,39971,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,338,5.95
+182.230.215.148,39945,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,342,5.95
+59.2.8.71,50028,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,319,5.94
+121.154.218.83,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,360,5.94
+211.229.35.111,39974,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,5.91
+183.98.182.70,39983,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,395,5.88
+59.3.100.176,50028,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,359,5.86
+112.165.83.167,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,447,5.85
+125.135.9.44,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,407,5.85
+118.131.115.3,50026,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,372,5.84
+14.48.170.40,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,312,5.82
+115.93.93.90,50036,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,356,5.78
+222.97.154.21,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,327,5.78
+180.231.234.86,50038,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,428,5.78
+220.119.170.222,50029,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,327,5.77
+14.47.149.140,39956,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,323,5.76
+112.163.230.70,39935,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,363,5.75
+211.105.215.226,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,338,5.72
+116.121.96.103,50036,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,358,5.71
+118.219.166.120,39976,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,348,5.71
+210.90.183.55,39999,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,316,5.70
+220.77.125.42,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,408,5.69
+183.96.62.61,39978,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,322,5.66
+218.147.208.141,50037,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,330,5.66
+222.118.221.34,45062,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,321,5.66
+218.39.175.87,50024,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,320,5.64
+118.222.219.124,39948,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,346,5.63
+1.221.180.155,50025,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,403,5.63
+1.229.171.195,50034,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,317,5.62
+218.148.205.203,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,330,5.60
+175.208.110.53,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,325,5.59
+61.36.204.107,50031,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,430,5.59
+132.226.21.147,56975,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,205,5.58
+118.131.107.154,50024,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,335,5.57
+125.128.128.145,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,442,5.57
+115.94.193.222,50030,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,391,5.54
+61.74.89.221,39948,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,326,5.54
+211.250.168.204,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,317,5.51
+183.97.164.92,50029,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,329,5.49
+220.119.170.222,50042,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,385,5.47
+119.192.235.87,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,396,5.47
+59.5.178.164,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,317,5.47
+59.1.165.195,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,337,5.46
+118.222.219.124,39991,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,336,5.46
+221.166.138.250,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,297,5.45
+125.134.61.36,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,392,5.45
+115.88.75.154,50026,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,326,5.45
+106.251.244.62,50037,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,359,5.44
+118.47.63.96,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,341,5.43
+121.152.149.168,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,358,5.43
+218.155.76.56,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,390,5.41
+112.167.218.235,39943,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,345,5.41
+115.93.169.180,50025,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,357,5.39
+121.151.248.12,39978,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,5.39
+1.220.146.22,45018,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,360,5.39
+59.31.73.84,39994,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,345,5.39
+220.94.169.188,50029,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,353,5.38
+220.127.78.184,39973,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,291,5.37
+14.56.103.251,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,359,5.36
+221.159.203.188,39936,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,354,5.36
+222.113.39.207,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,427,5.33
+210.205.185.215,39994,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,385,5.32
+118.41.163.140,39954,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,5.32
+175.195.224.108,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,310,5.31
+222.113.157.221,39985,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,5.31
+125.132.109.199,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,361,5.31
+146.56.166.59,46060,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,239,5.30
+121.144.224.35,39970,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,349,5.30
+121.149.121.176,39952,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,436,5.28
+14.33.94.139,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,317,5.28
+121.189.199.70,50036,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,410,5.26
+121.171.248.45,39944,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,441,5.24
+121.177.79.245,39961,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,405,5.24
+121.128.146.39,50038,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,320,5.24
+61.79.224.51,39994,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,316,5.23
+211.105.209.181,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,421,5.21
+175.202.134.144,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,330,5.19
+106.251.50.133,50031,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,377,5.19
+211.196.12.95,39960,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,350,5.19
+175.206.19.87,39986,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,321,5.18
+222.100.127.166,50036,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,345,5.18
+211.229.35.111,39994,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,390,5.17
+222.108.252.112,50036,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,408,5.16
+61.77.34.212,39982,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,340,5.15
+59.2.231.161,39937,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,313,5.14
+183.108.184.228,39991,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,353,5.14
+115.20.196.36,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,316,5.14
+112.161.83.33,39944,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,352,5.12
+121.172.26.67,39969,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,327,5.12
+211.222.214.171,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,324,5.11
+220.125.55.47,45011,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,332,5.09
+211.199.164.195,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,304,5.08
+183.99.252.103,39949,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,361,5.08
+183.99.172.142,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,5.07
+220.119.243.243,50030,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,5.07
+125.132.109.199,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,416,5.07
+1.248.163.32,50034,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,360,5.05
+175.206.19.87,39938,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,331,5.05
+203.232.127.206,39991,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,337,5.05
+59.2.231.161,39957,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,357,5.04
+14.32.121.27,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,310,5.04
+121.153.177.37,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,344,5.03
+175.197.114.39,50039,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,337,5.02
+175.211.144.56,39998,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,334,5.02
+61.35.159.221,50035,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,312,5.02
+1.214.208.5,50034,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,399,5.01
+218.155.141.54,50023,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,5.01
+175.206.175.186,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,364,5.00
+61.79.203.73,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,334,5.00
+14.33.156.122,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,334,4.97
+14.53.41.163,50036,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,456,4.97
+61.73.230.50,39945,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,336,4.97
+221.149.111.12,39984,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,327,4.96
+220.70.127.2,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,338,4.96
+211.218.83.2,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,378,4.96
+61.85.230.208,39932,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,363,4.96
+220.80.74.129,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,416,4.94
+1.220.146.22,50011,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,337,4.93
+218.156.213.52,39996,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,333,4.93
+175.196.72.162,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,305,4.93
+112.163.230.70,39947,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,479,4.90
+218.154.22.99,50037,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,405,4.89
+61.79.242.169,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,331,4.88
+222.108.252.112,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,314,4.88
+61.78.249.143,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,334,4.87
+124.54.210.132,50034,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,326,4.86
+221.166.156.189,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,317,4.86
+59.13.243.183,39995,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,429,4.85
+211.227.68.139,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,344,4.85
+14.54.63.38,50030,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,4.83
+119.206.242.174,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,321,4.83
+112.166.90.4,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,4.81
+175.127.75.125,50027,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,328,4.81
+211.106.63.59,39968,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,342,4.80
+61.83.171.47,50029,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,391,4.80
+14.39.202.169,39994,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,345,4.79
+211.197.26.25,39996,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,360,4.78
+121.177.57.211,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,373,4.78
+121.154.0.42,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,329,4.77
+210.87.202.245,52646,TRUE,ICN,KR,Asia Pacific,Seoul,138195,MOACK.Co.LTD,333,4.76
+115.90.2.220,50034,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,396,4.71
+59.3.158.71,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,395,4.71
+210.123.8.151,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,323,4.71
+121.132.169.33,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,302,4.69
+218.146.110.169,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,333,4.68
+119.204.152.47,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,388,4.68
+210.183.46.187,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,323,4.66
+211.184.243.125,39990,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,340,4.66
+222.118.181.165,50026,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,339,4.64
+211.63.33.138,39997,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,363,4.63
+221.157.0.159,39937,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,309,4.62
+112.161.69.177,39935,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,312,4.62
+218.147.208.141,50028,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,299,4.62
+118.37.140.196,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,336,4.62
+211.194.201.60,39946,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,323,4.62
+121.168.90.204,39996,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,395,4.60
+59.6.120.199,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,334,4.60
+121.125.111.248,50030,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,311,4.60
+175.215.47.41,50026,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,378,4.59
+220.77.80.39,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,341,4.56
+61.37.101.30,50036,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,425,4.56
+115.94.44.211,50035,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,348,4.53
+61.40.175.198,50034,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,373,4.52
+119.199.47.73,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,412,4.52
+175.193.62.86,39999,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,316,4.51
+39.122.170.216,50031,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,371,4.50
+125.135.123.97,50028,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,310,4.49
+218.147.188.8,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,296,4.49
+39.121.245.217,50027,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,357,4.49
+211.194.173.59,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,324,4.48
+14.46.213.93,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,430,4.48
+61.76.122.204,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,396,4.47
+59.3.2.194,50030,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,333,4.45
+175.194.208.17,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,373,4.45
+211.199.66.141,45027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,331,4.45
+121.145.131.23,39976,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,300,4.45
+119.207.53.233,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,406,4.44
+211.251.3.145,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,359,4.44
+59.27.128.175,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,427,4.43
+116.34.54.43,50027,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,362,4.42
+211.228.137.211,50036,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,364,4.40
+14.44.61.169,39949,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,395,4.40
+121.149.121.176,39954,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,412,4.39
+121.175.54.166,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,312,4.38
+121.140.79.69,39944,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,4.38
+49.246.56.253,50027,TRUE,ICN,KR,Asia Pacific,Seoul,10054,CMB Kwangju Broadcasting,360,4.37
+222.100.183.160,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,426,4.35
+222.119.227.244,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,361,4.33
+121.149.222.38,39962,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,336,4.33
+211.42.255.79,50030,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,348,4.32
+210.103.11.179,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,283,4.32
+222.108.94.228,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,305,4.31
+220.78.253.128,50037,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,429,4.30
+116.123.36.136,50026,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,916,4.30
+115.20.196.36,50039,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,376,4.30
+121.167.72.235,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,308,4.29
+106.248.34.75,39952,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,366,4.29
+183.108.176.121,50030,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,372,4.28
+175.212.237.31,39976,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,343,4.28
+211.35.140.71,50030,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,382,4.27
+59.13.222.240,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,320,4.22
+175.195.224.108,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,351,4.20
+220.70.127.239,50028,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,359,4.19
+222.119.82.7,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,319,4.19
+182.161.162.122,45007,TRUE,ICN,KR,Asia Pacific,Seoul,45361,Ulsan Jung-Ang Broadcasting Network,340,4.19
+14.45.121.195,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,347,4.18
+221.149.111.12,39968,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,4.18
+115.91.95.202,39981,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,321,4.17
+59.28.223.230,50029,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,319,4.16
+115.90.84.220,50030,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,337,4.14
+1.221.231.226,50031,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,392,4.14
+61.254.22.254,50032,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,302,4.14
+210.91.8.234,50029,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,336,4.13
+118.43.82.92,50030,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,383,4.13
+61.41.133.195,50035,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,443,4.11
+121.152.127.130,45013,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,333,4.11
+115.41.152.246,50031,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,334,4.08
+1.249.131.246,50036,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,391,4.07
+222.96.55.131,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,367,4.07
+59.12.221.121,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,362,4.06
+121.163.219.50,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,342,4.06
+220.80.74.129,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,338,4.06
+146.56.139.40,45139,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,223,4.05
+183.97.234.117,39995,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,4.05
+1.215.142.122,50033,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,385,4.04
+218.147.188.8,50040,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,347,4.03
+220.80.5.87,50026,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,364,4.02
+14.45.184.163,50026,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,359,4.02
+221.160.61.240,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,315,4.01
+118.41.7.140,50036,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,455,4.01
+211.219.120.238,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,378,4.01
+211.199.37.250,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,356,4.00
+152.70.234.249,55348,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,657,3.98
+1.222.108.75,50024,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,348,3.98
+111.65.150.65,50029,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,375,3.97
+61.80.181.51,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,429,3.95
+121.137.58.166,39987,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,331,3.94
+210.90.151.247,39961,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,311,3.93
+112.152.52.240,50035,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,465,3.93
+125.143.238.3,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,385,3.93
+121.172.119.75,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,333,3.92
+115.22.153.73,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,314,3.90
+121.168.236.190,45014,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,306,3.90
+14.43.154.90,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,372,3.88
+175.207.255.123,50028,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,370,3.85
+175.201.127.138,39950,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,375,3.84
+218.145.5.9,50030,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,364,3.83
+119.207.114.52,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,318,3.83
+119.207.134.107,50020,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,322,3.81
+112.220.156.234,45011,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,336,3.80
+112.219.148.204,50036,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,392,3.78
+183.103.221.122,50036,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,431,3.78
+61.80.181.51,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,316,3.78
+58.230.12.228,39987,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,310,3.75
+121.137.42.14,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,318,3.75
+121.136.176.84,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,314,3.75
+1.236.238.14,39936,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,368,3.72
+218.155.235.187,39963,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,359,3.71
+14.55.36.151,50036,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,380,3.67
+61.79.203.73,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,319,3.67
+220.127.119.214,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,377,3.65
+211.59.29.184,50027,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,340,3.64
+27.126.33.65,50025,TRUE,ICN,KR,Asia Pacific,Seoul,38133,CMB,429,3.62
+61.75.133.44,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,317,3.61
+118.42.167.128,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,349,3.60
+14.38.90.212,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,473,3.59
+1.248.163.32,50024,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,360,3.58
+220.149.158.61,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,424,3.58
+210.100.224.92,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,380,3.57
+118.130.230.115,50026,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,423,3.57
+14.52.189.173,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,349,3.57
+59.8.21.190,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,409,3.56
+61.80.160.212,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,386,3.56
+58.230.12.228,39967,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,330,3.55
+222.103.115.75,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,360,3.54
+59.14.218.144,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,368,3.53
+14.50.26.121,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,426,3.51
+61.75.133.44,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,401,3.46
+222.119.247.187,39939,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,334,3.45
+1.215.194.42,50027,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,340,3.44
+114.206.79.210,50035,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,405,3.43
+121.131.201.82,39995,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,343,3.43
+59.9.79.74,50030,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,339,3.41
+211.42.210.76,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,311,3.40
+1.237.224.43,39929,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,340,3.36
+121.184.136.172,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,357,3.36
+14.41.85.118,39936,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,315,3.34
+220.70.163.31,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,316,3.34
+111.65.150.65,50025,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,383,3.33
+175.203.204.222,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,408,3.29
+59.30.247.92,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,347,3.28
+211.203.134.213,50037,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,430,3.28
+1.221.32.157,50035,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,392,3.27
+211.219.39.253,50022,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,326,3.27
+121.66.67.165,50027,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,315,3.27
+1.254.224.5,50030,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,427,3.25
+58.72.79.18,50024,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,344,3.21
+118.33.187.241,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,3.20
+1.221.180.155,50036,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,394,3.20
+121.132.235.18,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,359,3.15
+45.93.28.195,41798,TRUE,ICN,KR,Asia Pacific,Seoul,138195,MOACK.Co.LTD,269,3.15
+121.173.113.144,50034,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,397,3.14
+220.72.105.119,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,324,3.10
+203.229.92.209,50033,TRUE,ICN,KR,Asia Pacific,Seoul,38095,SK Broadband Co Ltd,342,3.08
+49.169.46.70,50028,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,338,3.07
+118.34.248.129,50031,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,342,3.07
+118.39.57.71,50030,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,381,3.04
+175.206.19.87,39997,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,340,2.98
+14.36.97.87,39929,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,2.96
+221.153.146.172,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,2.93
+106.242.221.130,50027,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,372,2.92
+115.91.127.251,39993,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,378,2.91
+175.121.2.213,39945,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,334,2.89
+218.50.39.167,39972,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,337,2.84
+59.17.46.67,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,331,2.78
+220.126.254.52,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,341,2.70
+14.37.166.86,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,384,2.69
+58.238.88.129,39991,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,352,2.69
+183.109.139.113,50025,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,363,2.62
+121.66.75.13,39996,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,329,2.57
+220.125.247.66,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,303,2.56
+112.185.11.90,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,349,2.51
+218.149.116.189,50036,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,394,2.42
+121.136.20.143,50026,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,364,2.31
+121.166.226.161,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,369,2.26
+58.227.226.238,39983,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,348,2.23
+119.194.230.206,39984,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,424,2.19
+121.181.17.93,39935,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,338,2.18
+121.124.114.17,39928,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,416,2.14
+14.55.47.57,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,348,2.10
+220.92.248.152,50027,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,352,1.80
+210.103.11.179,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,298,1.80
+111.65.159.250,50027,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,356,1.75
+111.65.134.89,50031,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,422,1.73
+59.11.89.252,39989,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,351,1.67
+222.118.221.34,45060,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,333,1.64
+114.202.206.2,50033,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,342,1.50
+111.171.120.24,50042,TRUE,ICN,KR,Asia Pacific,Seoul,38109,SK Broadband Co Ltd,408,1.48
+210.216.105.141,50027,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,384,1.42
+111.65.157.58,50026,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,425,1.41
+39.123.204.7,50032,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,383,1.41
+58.230.12.228,39988,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,353,1.36
+220.72.215.197,39976,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,327,1.36
+211.248.30.42,39971,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,342,1.33
+218.52.232.140,50035,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,405,1.31
+203.243.29.220,39987,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,307,1.31
+59.11.89.252,39942,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,360,1.25
+218.52.232.140,50025,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,403,1.22
+45.112.161.235,39965,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,374,1.22
+211.245.199.224,50024,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,369,1.18
+218.147.177.196,39976,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,314,1.16
+121.145.236.5,50035,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,386,1.15
+103.86.44.125,65432,TRUE,ICN,KR,Asia Pacific,Seoul,138195,MOACK.Co.LTD,198,1.04
+175.212.237.31,39942,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,327,1.04
+193.122.115.74,52314,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,190,1.03
+175.193.102.95,39986,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,318,0.97
+116.40.251.4,45032,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,355,0.97
+175.117.97.25,39992,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,373,0.87
+222.114.14.116,50024,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,402,0.85
+116.40.251.4,45033,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,354,0.83
+116.42.241.193,50025,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,374,0.82
+123.213.202.203,50035,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,390,0.71
+112.72.240.72,50024,TRUE,ICN,KR,Asia Pacific,Seoul,9319,HCN CHUNGBUK CABLE TV SYSTEMS,243,0.71
+58.236.161.47,50031,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,652,0.70
+218.149.108.202,50032,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,435,0.56
+121.149.9.51,39954,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,452,0.53
+122.252.196.94,50034,TRUE,ICN,KR,Asia Pacific,Seoul,38133,CMB,497,0.47
+120.136.101.49,50025,TRUE,ICN,KR,Asia Pacific,Seoul,9698,LG HelloVision Corp.,412,0.30
+141.164.56.255,40002,TRUE,ICN,KR,Asia Pacific,Seoul,20473,AS-CHOOPA,298,0.14
+121.149.55.161,39962,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,419,0.12
+203.175.47.46,39936,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,389,0.10
+58.239.203.25,39954,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,396,0.10
+141.164.56.255,40007,TRUE,ICN,KR,Asia Pacific,Seoul,20473,AS-CHOOPA,298,0.03
