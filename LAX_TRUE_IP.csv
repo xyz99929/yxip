@@ -1,64 +1,106 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-154.17.12.6,53484,TRUE,LAX,US,North America,Los Angeles,906,DMIT,513,9.58
-154.17.17.194,59327,TRUE,LAX,US,North America,Los Angeles,906,DMIT,529,9.45
-67.198.153.253,50663,TRUE,LAX,US,North America,Los Angeles,35908,VPLSNET,653,8.63
-67.198.152.147,42188,TRUE,LAX,US,North America,Los Angeles,35908,VPLSNET,685,8.27
-154.12.39.145,47971,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,598,8.13
-154.7.180.101,44444,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,631,6.67
-154.7.179.92,39861,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,610,6.66
-154.9.206.198,54328,TRUE,LAX,US,North America,Los Angeles,55799,IPTELECOM ASIA,621,6.26
-154.12.53.209,55204,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,581,6.05
-125.229.230.180,39779,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,684,6.05
-154.12.39.241,41847,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,624,5.72
-154.9.224.162,49360,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,591,5.71
-185.194.148.131,41706,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,667,5.03
-154.12.39.145,41662,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,605,4.97
-2.59.151.85,55425,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,741,4.48
-45.66.217.121,59597,TRUE,HKG,HK,Asia Pacific,Hong Kong,3258,xTom Pty Ltd,766,4.26
-74.48.98.173,46862,TRUE,LAX,US,North America,Los Angeles,35916,MULTA-ASN1,673,4.21
-64.69.37.15,43254,TRUE,LAX,US,North America,Los Angeles,35916,MULTA-ASN1,701,4.09
-165.154.182.118,56332,TRUE,LAX,US,North America,Los Angeles,135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,761,3.89
-154.7.179.213,44154,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,748,3.85
-172.93.44.100,56324,TRUE,LAX,US,North America,Los Angeles,25820,IT7NET,670,3.76
-74.48.17.112,44333,TRUE,LAX,US,North America,Los Angeles,35916,MULTA-ASN1,669,3.73
-172.93.44.100,56323,TRUE,LAX,US,North America,Los Angeles,25820,IT7NET,701,3.67
-147.78.247.110,50009,TRUE,NRT,JP,Asia Pacific,Tokyo,3258,xTom Pty Ltd,603,3.65
-209.146.112.185,59384,TRUE,LAX,US,North America,Los Angeles,400464,VMISS,674,3.50
-61.83.219.114,45011,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,768,2.93
-210.204.129.145,39775,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,886,2.76
-183.97.113.86,39887,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,788,2.54
-154.40.38.5,58278,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,619,2.52
-183.107.148.206,39812,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,793,2.42
-183.107.148.206,39781,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,787,2.41
-154.12.56.244,60001,TRUE,LAX,US,North America,Los Angeles,35251,Zhihua Lu,718,2.41
-175.193.62.86,39779,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,799,2.35
-175.194.221.21,39933,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,794,2.31
-185.186.146.45,61927,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,625,2.29
-172.93.44.100,56328,TRUE,LAX,US,North America,Los Angeles,25820,IT7NET,706,2.25
-59.4.104.181,39762,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,749,2.18
-183.107.148.206,39835,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,779,2.14
-221.164.211.245,39996,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,738,2.14
-119.199.91.182,39895,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,796,2.13
-221.144.162.10,39974,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,802,2.13
-211.51.105.232,39916,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,789,2.10
-119.201.141.242,39755,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,976,2.03
-211.46.225.120,39980,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,785,1.96
-222.111.243.188,39777,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,761,1.84
-14.53.189.169,39765,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,776,1.81
-59.11.138.144,39916,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,769,1.81
-154.40.38.5,58280,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,586,1.62
-154.40.38.5,58275,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,580,1.58
-154.40.38.5,58279,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,571,1.45
-14.53.189.169,39837,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,787,1.41
-154.40.38.5,58274,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,597,1.35
-5.253.16.176,50074,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,731,1.16
-193.9.44.165,57826,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,974,0.90
-144.202.110.174,55148,TRUE,LAX,US,North America,Los Angeles,20473,AS-CHOOPA,751,0.78
-154.40.38.5,58277,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,634,0.73
-154.40.38.5,58276,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,638,0.69
-8.210.130.11,47806,TRUE,LAX,US,North America,Los Angeles,45102,"Alibaba US Technology Co., Ltd.",886,0.61
-60.248.139.106,39941,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,784,0.38
-221.144.162.10,39889,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,808,0.37
-45.66.216.109,43826,TRUE,SIN,SG,Asia Pacific,Singapore,3258,xTom Pty Ltd,811,0.31
-185.238.250.136,58780,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,969,0.16
-195.123.241.122,50007,TRUE,LAX,US,North America,Los Angeles,204957,Green Floid LLC,887,0.08
+149.28.201.214,49355,TRUE,LAX,US,North America,Los Angeles,20473,AS-CHOOPA,756,16.25
+154.17.17.194,59327,TRUE,LAX,US,North America,Los Angeles,906,DMIT,495,9.52
+154.12.39.145,41662,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,608,8.26
+154.12.39.145,47971,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,624,8.07
+154.9.206.198,54328,TRUE,LAX,US,North America,Los Angeles,55799,IPTELECOM ASIA,602,6.22
+67.230.167.140,39246,TRUE,LAX,US,North America,Los Angeles,25820,IT7NET,610,6.16
+154.9.224.162,49360,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,585,6.11
+154.7.180.101,44444,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,666,6.01
+118.163.128.81,39491,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,678,5.63
+154.12.53.209,55204,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,597,5.36
+154.7.179.213,39561,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,626,5.14
+74.48.17.112,44333,TRUE,LAX,US,North America,Los Angeles,35916,MULTA-ASN1,713,4.98
+67.198.153.253,50663,TRUE,LAX,US,North America,Los Angeles,35908,VPLSNET,661,4.76
+220.135.84.4,39013,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,646,4.66
+154.12.39.241,41847,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,647,4.65
+64.69.37.15,43254,TRUE,LAX,US,North America,Los Angeles,35916,MULTA-ASN1,679,4.26
+58.151.95.245,39598,TRUE,NRT,JP,Asia Pacific,Tokyo,3786,LG DACOM Corporation,454,4.04
+172.93.44.100,56324,TRUE,LAX,US,North America,Los Angeles,25820,IT7NET,716,3.81
+74.48.98.173,46862,TRUE,LAX,US,North America,Los Angeles,35916,MULTA-ASN1,689,3.78
+67.198.152.147,42188,TRUE,LAX,US,North America,Los Angeles,35908,VPLSNET,644,3.64
+165.154.182.118,56332,TRUE,LAX,US,North America,Los Angeles,135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,671,3.49
+183.97.113.86,39887,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,745,3.43
+23.225.116.68,45853,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,673,3.37
+154.7.179.92,39861,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,640,3.08
+185.186.146.45,61927,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,616,3.05
+175.200.121.85,39165,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,673,2.94
+59.24.92.220,39187,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,765,2.88
+118.38.131.223,39220,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,720,2.87
+59.4.104.181,39762,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,737,2.84
+172.93.44.100,56328,TRUE,LAX,US,North America,Los Angeles,25820,IT7NET,677,2.80
+60.251.142.38,39533,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,661,2.78
+59.31.58.198,39222,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,754,2.64
+183.107.148.206,39781,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,724,2.62
+125.143.31.169,39161,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,719,2.59
+175.204.247.48,39238,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,720,2.57
+119.201.141.242,39755,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,718,2.56
+118.34.200.196,39324,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,760,2.53
+118.37.148.82,39480,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,735,2.49
+221.158.56.248,39105,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,779,2.46
+8.210.130.11,47806,TRUE,LAX,US,North America,Los Angeles,45102,"Alibaba US Technology Co., Ltd.",826,2.43
+154.17.12.6,53484,TRUE,LAX,US,North America,Los Angeles,906,DMIT,657,2.30
+221.158.56.248,39499,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,721,2.30
+175.193.62.86,39779,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,742,2.29
+59.24.92.220,39132,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,779,2.29
+211.51.105.232,39916,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,780,2.29
+210.217.15.42,39629,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,723,2.22
+59.5.135.48,39266,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,797,2.21
+144.202.110.174,55148,TRUE,LAX,US,North America,Los Angeles,20473,AS-CHOOPA,689,2.21
+210.204.129.145,39775,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,834,2.18
+175.193.62.86,39059,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,796,2.17
+125.129.83.191,39669,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,753,2.16
+119.199.91.182,39895,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,794,2.13
+221.164.211.245,39996,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,700,2.08
+222.111.243.188,39777,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,754,2.03
+59.4.104.181,39485,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,731,2.03
+221.144.162.10,39442,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,783,2.02
+119.195.222.208,39106,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,809,2.00
+59.24.92.220,39337,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,753,2.00
+221.144.162.10,39889,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,762,1.97
+183.107.148.206,39835,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,792,1.96
+211.46.225.120,39980,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,710,1.96
+220.79.119.173,39168,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,764,1.94
+218.146.41.38,39449,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,722,1.91
+14.54.124.53,39787,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,756,1.90
+183.109.197.236,39480,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,745,1.90
+211.107.62.13,39447,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,801,1.88
+121.135.219.251,39291,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,736,1.86
+175.193.62.86,39334,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,766,1.86
+59.11.138.144,39916,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,734,1.85
+211.51.185.137,39588,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,721,1.85
+175.194.208.17,38970,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,734,1.81
+175.194.221.21,39933,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,796,1.81
+121.145.193.71,39239,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,705,1.81
+220.79.119.173,39758,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,750,1.80
+14.53.189.169,39765,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,755,1.80
+14.53.189.169,39837,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,731,1.78
+61.83.219.114,45011,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,757,1.76
+175.195.25.234,39389,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,799,1.76
+175.215.82.175,39022,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,718,1.75
+154.29.147.194,41901,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,720,1.71
+220.73.70.34,39385,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,722,1.70
+211.219.144.183,39064,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,752,1.67
+154.40.38.5,58279,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,606,1.61
+121.190.112.101,39582,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,714,1.60
+154.40.38.5,58280,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,591,1.54
+121.175.138.232,39493,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,713,1.50
+183.107.148.206,39812,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,795,1.50
+175.195.25.234,39168,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,751,1.50
+154.40.38.5,58274,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,589,1.48
+154.40.38.5,58277,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,599,1.48
+175.195.25.234,39079,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,779,1.48
+118.37.12.7,39525,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,700,1.48
+112.165.102.109,39601,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,727,1.44
+112.164.185.34,39196,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,751,1.38
+175.194.221.21,39257,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,705,1.35
+154.40.38.5,58278,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,631,0.96
+221.144.162.10,39974,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,768,0.92
+154.40.38.5,58275,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,642,0.80
+154.40.38.5,58276,TRUE,LAX,US,North America,Los Angeles,979,NETLAB-SDN,629,0.75
+2.59.151.85,55425,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,983,0.69
+147.78.247.110,50009,TRUE,HKG,HK,Asia Pacific,Hong Kong,3258,xTom Pty Ltd,737,0.57
+221.165.97.163,39644,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,794,0.40
+211.75.9.118,39402,TRUE,LAX,US,North America,Los Angeles,3462,Data Communication Business Group,678,0.33
+209.146.112.185,59384,TRUE,LAX,US,North America,Los Angeles,400464,VMISS,620,0.25
+45.66.217.145,50011,TRUE,HKG,HK,Asia Pacific,Hong Kong,3258,xTom Pty Ltd,760,0.08
