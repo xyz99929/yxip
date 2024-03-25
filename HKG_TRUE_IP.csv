@@ -1,129 +1,125 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-156.251.179.136,34237,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,255,6.56
-103.234.53.37,33789,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,218,6.09
-59.148.136.12,38562,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,332,5.60
-27.115.117.197,34977,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,746,5.11
-220.135.84.4,36641,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,567,4.30
-27.113.102.185,39176,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,517,3.97
-27.113.68.215,36515,TRUE,NRT,JP,Asia Pacific,Tokyo,9781,GREEN CABLE TELEVISION STATION,682,3.84
-43.154.196.20,65432,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",203,3.73
-115.69.100.114,37694,TRUE,ICN,KR,Asia Pacific,Seoul,7623,Gyeongbuk Cable TV,347,3.67
-49.142.238.207,38925,TRUE,ICN,KR,Asia Pacific,Seoul,7623,Gyeongbuk Cable TV,227,3.67
-27.113.68.215,37806,TRUE,KIX,JP,Asia Pacific,Osaka,9781,GREEN CABLE TELEVISION STATION,704,3.55
-49.142.238.207,38172,TRUE,ICN,KR,Asia Pacific,Seoul,7623,Gyeongbuk Cable TV,364,3.44
-1.11.62.95,34590,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,370,3.32
-1.11.62.95,35639,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,371,3.26
-58.153.94.107,37342,TRUE,HKG,HK,Asia Pacific,Hong Kong,4760,HKT Limited,318,3.04
-27.113.68.215,33990,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,404,3.02
-125.228.81.45,37274,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,513,3.00
-27.115.117.197,37741,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,745,2.96
-27.113.68.215,33614,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,390,2.94
-112.121.224.151,34005,TRUE,NRT,JP,Asia Pacific,Tokyo,10054,CMB Kwangju Broadcasting,510,2.83
-112.133.53.77,39029,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,684,2.77
-220.135.84.4,35412,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,579,2.71
-49.142.238.207,39226,TRUE,ICN,KR,Asia Pacific,Seoul,7623,Gyeongbuk Cable TV,235,2.59
-27.113.68.215,34875,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,493,2.59
-125.208.102.111,36619,TRUE,NRT,JP,Asia Pacific,Tokyo,17849,SK Broadband Co Ltd,684,2.52
-27.113.68.215,37882,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,603,2.46
-220.132.95.80,33479,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,445,2.41
-27.115.117.197,38912,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,746,2.40
-27.113.55.145,34500,TRUE,KIX,JP,Asia Pacific,Osaka,9781,GREEN CABLE TELEVISION STATION,534,2.32
-119.246.135.205,33478,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,502,2.30
-119.246.135.205,33211,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,488,2.29
-49.142.238.207,38284,TRUE,ICN,KR,Asia Pacific,Seoul,7623,Gyeongbuk Cable TV,348,2.25
-103.246.172.3,36199,TRUE,KIX,JP,Asia Pacific,Osaka,38680,CMB,684,2.24
-220.132.95.80,39229,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,531,2.23
-27.115.117.197,35244,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,726,2.18
-182.161.162.122,45007,TRUE,ICN,KR,Asia Pacific,Seoul,45361,Ulsan Jung-Ang Broadcasting Network,368,2.17
-27.113.68.215,34668,TRUE,NRT,JP,Asia Pacific,Tokyo,9781,GREEN CABLE TELEVISION STATION,513,2.15
-27.116.125.190,35459,TRUE,KIX,JP,Asia Pacific,Osaka,17854,SK Broadband Co Ltd,706,2.14
-117.18.13.170,42282,TRUE,HKG,HK,Asia Pacific,Hong Kong,64050,BGPNET Global ASN,358,2.14
-27.113.68.215,33707,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,511,2.13
-27.113.68.215,37076,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,539,2.11
-27.113.68.215,34752,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,408,2.10
-220.132.95.80,37163,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,579,2.08
-220.132.95.80,34950,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,681,2.07
-27.113.102.185,33393,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,477,2.04
-27.113.68.215,37729,TRUE,NRT,JP,Asia Pacific,Tokyo,9781,GREEN CABLE TELEVISION STATION,543,1.98
-27.113.68.215,33316,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,450,1.97
-27.113.68.215,39684,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,684,1.96
-103.234.53.108,58035,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,214,1.94
-27.113.68.215,34464,TRUE,NRT,JP,Asia Pacific,Tokyo,9781,GREEN CABLE TELEVISION STATION,477,1.92
-27.113.68.215,36759,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,592,1.92
-27.113.68.215,36606,TRUE,NRT,JP,Asia Pacific,Tokyo,9781,GREEN CABLE TELEVISION STATION,514,1.91
-27.113.68.215,35305,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,595,1.88
-117.18.13.170,40269,TRUE,HKG,HK,Asia Pacific,Hong Kong,64050,BGPNET Global ASN,354,1.87
-27.113.68.215,33593,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,459,1.77
-27.113.68.215,37429,TRUE,KIX,JP,Asia Pacific,Osaka,9781,GREEN CABLE TELEVISION STATION,714,1.70
-27.113.68.215,39465,TRUE,LAX,US,North America,Los Angeles,9781,GREEN CABLE TELEVISION STATION,826,1.70
-27.113.68.215,38267,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,682,1.69
-27.113.68.215,36937,TRUE,NRT,JP,Asia Pacific,Tokyo,9781,GREEN CABLE TELEVISION STATION,570,1.68
-211.23.46.106,33517,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,403,1.66
-27.113.68.215,39868,TRUE,KIX,JP,Asia Pacific,Osaka,9781,GREEN CABLE TELEVISION STATION,688,1.65
-49.142.238.207,38400,TRUE,ICN,KR,Asia Pacific,Seoul,7623,Gyeongbuk Cable TV,334,1.56
-27.113.68.215,37502,TRUE,NRT,JP,Asia Pacific,Tokyo,9781,GREEN CABLE TELEVISION STATION,579,1.52
-146.56.177.67,61153,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,364,1.51
-59.127.186.20,36688,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,563,1.50
-27.113.68.215,34218,TRUE,NRT,JP,Asia Pacific,Tokyo,9781,GREEN CABLE TELEVISION STATION,411,1.49
-27.113.68.215,34530,TRUE,KIX,JP,Asia Pacific,Osaka,9781,GREEN CABLE TELEVISION STATION,535,1.48
-220.132.95.80,35785,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,561,1.47
-123.109.113.45,36636,TRUE,NRT,JP,Asia Pacific,Tokyo,9689,SK Broadband Co Ltd,681,1.47
-27.115.117.197,33884,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,619,1.46
-27.113.68.215,33962,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,541,1.45
-27.113.68.215,35285,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,598,1.40
-27.113.68.215,34550,TRUE,NRT,JP,Asia Pacific,Tokyo,9781,GREEN CABLE TELEVISION STATION,489,1.40
-27.115.117.197,39066,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,700,1.39
-220.132.95.80,33863,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,461,1.39
-123.109.113.45,38611,TRUE,KIX,JP,Asia Pacific,Osaka,9689,SK Broadband Co Ltd,686,1.32
-115.161.186.118,38607,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,687,1.32
-123.109.113.45,34053,TRUE,NRT,JP,Asia Pacific,Tokyo,9689,SK Broadband Co Ltd,440,1.32
-220.132.95.80,34663,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,537,1.31
-27.113.68.215,36024,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,597,1.30
-220.132.95.80,33510,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,459,1.27
-211.237.82.127,33467,TRUE,KIX,JP,Asia Pacific,Osaka,38684,"CMB Daejeon Broadcasting Co,.Ltd",503,1.27
-123.109.113.45,38969,TRUE,NRT,JP,Asia Pacific,Tokyo,9689,SK Broadband Co Ltd,592,1.24
-27.113.68.215,37447,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,567,1.23
-101.230.71.26,38173,TRUE,HKG,HK,Asia Pacific,Hong Kong,4812,China Telecom Group,233,1.13
-112.212.145.63,38377,TRUE,KIX,JP,Asia Pacific,Osaka,38103,SK Broadband Co Ltd,592,1.12
-27.113.68.215,33717,TRUE,KIX,JP,Asia Pacific,Osaka,9781,GREEN CABLE TELEVISION STATION,451,1.11
-45.112.161.169,37051,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,688,1.07
-118.91.36.61,38490,TRUE,ICN,KR,Asia Pacific,Seoul,10175,Kumho Cable,566,1.01
-27.113.68.215,39568,TRUE,KIX,JP,Asia Pacific,Osaka,9781,GREEN CABLE TELEVISION STATION,516,0.97
-27.113.68.215,33759,TRUE,NRT,JP,Asia Pacific,Tokyo,9781,GREEN CABLE TELEVISION STATION,420,0.95
-111.65.176.140,37836,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,682,0.93
-27.113.68.215,35510,TRUE,KIX,JP,Asia Pacific,Osaka,9781,GREEN CABLE TELEVISION STATION,688,0.90
-124.199.226.98,37635,TRUE,KIX,JP,Asia Pacific,Osaka,17864,SK Broadband Co Ltd,703,0.88
-27.113.102.185,34462,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,428,0.88
-115.41.163.197,38592,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,521,0.87
-123.109.113.45,37115,TRUE,KIX,JP,Asia Pacific,Osaka,9689,SK Broadband Co Ltd,686,0.86
-27.113.68.215,38559,TRUE,KIX,JP,Asia Pacific,Osaka,9781,GREEN CABLE TELEVISION STATION,701,0.80
-111.118.86.11,37431,TRUE,HKG,HK,Asia Pacific,Hong Kong,9319,HCN CHUNGBUK CABLE TV SYSTEMS,565,0.69
-119.246.38.110,33322,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,240,0.67
-111.118.86.11,37780,TRUE,HKG,HK,Asia Pacific,Hong Kong,9319,HCN CHUNGBUK CABLE TV SYSTEMS,515,0.67
-45.112.160.139,39723,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,705,0.67
-125.208.102.111,37204,TRUE,LAX,US,North America,Los Angeles,17849,SK Broadband Co Ltd,885,0.60
-119.246.135.205,38655,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,822,0.56
-103.137.63.37,46832,TRUE,HKG,HK,Asia Pacific,Hong Kong,131642,"Pittqiao Network Information Co.,Ltd.",517,0.53
-123.109.113.45,37599,TRUE,KIX,JP,Asia Pacific,Osaka,9689,SK Broadband Co Ltd,684,0.49
-124.199.226.98,38915,TRUE,KIX,JP,Asia Pacific,Osaka,17864,SK Broadband Co Ltd,704,0.47
-27.113.68.215,33911,TRUE,NRT,JP,Asia Pacific,Tokyo,9781,GREEN CABLE TELEVISION STATION,451,0.43
-27.100.182.161,34155,TRUE,LAX,US,North America,Los Angeles,9946,KCTV JEJU BROADCASTING,885,0.38
-27.113.68.215,37410,TRUE,KIX,JP,Asia Pacific,Osaka,9781,GREEN CABLE TELEVISION STATION,605,0.38
-119.246.135.205,37490,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,716,0.28
-106.105.84.85,33490,TRUE,TPE,TW,Asia Pacific,Taipei,18049,Taiwan Infrastructure Network Technologie,853,0.26
-27.113.68.215,33159,TRUE,HKG,HK,Asia Pacific,Hong Kong,9781,GREEN CABLE TELEVISION STATION,368,0.25
-124.216.65.153,35986,TRUE,KIX,JP,Asia Pacific,Osaka,45361,Ulsan Jung-Ang Broadcasting Network,685,0.25
-38.47.125.129,36005,TRUE,LAX,US,North America,Los Angeles,400464,VMISS,685,0.19
-221.127.82.87,37055,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,749,0.15
-101.33.116.108,57781,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",215,0.14
-223.18.129.85,39578,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,751,0.11
-223.18.34.201,33770,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,751,0.11
-223.18.34.201,37510,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,901,0.09
-221.124.91.73,34617,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,719,0.09
-221.124.202.168,39518,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,747,0.09
-223.17.155.94,37665,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,823,0.06
-221.124.202.168,38188,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,746,0.05
-223.18.34.201,33620,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,795,0.05
-221.124.202.168,38746,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,777,0.05
-152.69.205.37,54322,TRUE,KIX,JP,Asia Pacific,Osaka,31898,ORACLE-BMC-31898,684,0.02
-223.18.129.85,34913,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,743,0.02
+191.96.243.72,17773,TRUE,HKG,HK,Asia Pacific,Hong Kong,202662,Hytron Network Services Limited,366,5.94
+103.118.244.200,20001,TRUE,HKG,HK,Asia Pacific,Hong Kong,55933,Cloudie Limited,405,4.09
+27.115.117.197,26893,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,821,3.76
+1.11.62.95,34590,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,693,3.69
+119.246.38.110,33322,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,238,3.61
+1.11.62.95,18544,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,332,3.37
+114.30.216.110,28638,TRUE,ICN,KR,Asia Pacific,Seoul,38121,LG HelloVision Corp.,690,3.33
+1.11.62.95,17925,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,391,3.26
+1.11.62.95,26794,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,399,3.20
+103.225.199.146,58591,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,353,3.10
+203.223.122.93,16870,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,342,3.07
+59.148.136.12,24915,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,401,2.95
+59.148.136.12,18012,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,257,2.90
+203.223.122.93,19193,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,367,2.86
+27.115.117.197,19763,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,688,2.81
+203.223.122.93,25529,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,382,2.73
+203.223.122.93,19584,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,473,2.72
+1.11.62.95,18850,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,336,2.70
+59.148.136.12,26688,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,380,2.60
+27.115.117.197,39066,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,835,2.41
+27.115.117.197,33884,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,822,2.38
+1.11.62.95,25264,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,377,2.35
+182.161.162.122,30002,TRUE,ICN,KR,Asia Pacific,Seoul,45361,Ulsan Jung-Ang Broadcasting Network,557,2.34
+203.223.122.93,28530,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,557,2.12
+27.115.117.197,34977,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,774,2.11
+27.115.117.197,18122,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,694,2.09
+180.211.34.174,26254,TRUE,NRT,JP,Asia Pacific,Tokyo,45361,Ulsan Jung-Ang Broadcasting Network,644,2.09
+27.115.117.197,29163,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,774,2.07
+1.11.62.95,31418,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,409,2.06
+120.232.198.141,28892,TRUE,HKG,HK,Asia Pacific,Hong Kong,56040,China Mobile communications corporation,238,2.06
+45.128.222.185,20356,TRUE,HKG,HK,Asia Pacific,Hong Kong,55933,Cloudie Limited,249,2.04
+119.246.135.205,19273,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,542,2.04
+119.246.135.205,28553,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,773,1.97
+103.246.172.3,36199,TRUE,KIX,JP,Asia Pacific,Osaka,38680,CMB,764,1.94
+112.133.53.77,22667,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,605,1.92
+1.11.62.95,35639,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,557,1.90
+119.246.38.110,32846,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,245,1.90
+118.91.36.61,30038,TRUE,ICN,KR,Asia Pacific,Seoul,10175,Kumho Cable,657,1.89
+61.43.74.149,29977,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,600,1.85
+119.246.135.205,27778,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,777,1.84
+59.148.136.12,38562,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,245,1.83
+27.115.117.197,17878,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,645,1.81
+119.246.135.205,16542,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,534,1.81
+119.246.135.205,21225,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,899,1.77
+112.133.53.77,22193,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,731,1.70
+112.121.224.151,34005,TRUE,KIX,JP,Asia Pacific,Osaka,10054,CMB Kwangju Broadcasting,759,1.66
+182.161.162.122,45007,TRUE,ICN,KR,Asia Pacific,Seoul,45361,Ulsan Jung-Ang Broadcasting Network,384,1.66
+59.148.136.12,27298,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,353,1.66
+49.246.56.253,32370,TRUE,NRT,JP,Asia Pacific,Tokyo,10054,CMB Kwangju Broadcasting,730,1.65
+27.115.117.197,28727,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,775,1.65
+118.91.36.61,31998,TRUE,ICN,KR,Asia Pacific,Seoul,10175,Kumho Cable,408,1.64
+124.156.147.158,32797,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",240,1.62
+27.115.117.197,18852,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,649,1.59
+119.246.135.205,36749,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,731,1.58
+119.246.135.205,33206,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,775,1.57
+27.115.117.197,16568,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,640,1.56
+61.43.74.149,29627,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,727,1.56
+59.148.136.12,26597,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,354,1.55
+59.148.136.12,29217,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,363,1.54
+112.133.53.77,18958,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,512,1.51
+112.133.53.77,29106,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,757,1.50
+1.11.62.95,29619,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,584,1.43
+27.115.117.197,32813,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,789,1.41
+27.115.117.197,23651,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,841,1.39
+119.246.135.205,20217,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,728,1.38
+27.115.117.197,18318,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,696,1.36
+61.239.247.94,31689,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,964,1.35
+117.18.13.170,28932,TRUE,HKG,HK,Asia Pacific,Hong Kong,64050,BGPNET Global ASN,391,1.30
+1.11.62.95,23096,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,601,1.25
+119.246.38.110,23989,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,245,1.23
+117.18.13.170,40269,TRUE,HKG,HK,Asia Pacific,Hong Kong,64050,BGPNET Global ASN,366,1.21
+103.235.18.220,59677,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,356,1.20
+183.240.232.214,25597,TRUE,HKG,HK,Asia Pacific,Hong Kong,56040,China Mobile communications corporation,380,1.18
+112.133.53.77,39029,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,621,1.18
+117.18.13.170,42282,TRUE,HKG,HK,Asia Pacific,Hong Kong,64050,BGPNET Global ASN,373,1.17
+27.115.117.197,35244,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,821,1.14
+119.246.135.205,35370,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,660,1.12
+103.118.244.200,27712,TRUE,HKG,HK,Asia Pacific,Hong Kong,55933,Cloudie Limited,379,1.08
+27.115.117.197,23396,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,764,1.08
+183.240.232.214,31290,TRUE,HKG,HK,Asia Pacific,Hong Kong,56040,China Mobile communications corporation,356,1.07
+27.115.117.197,31991,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,775,1.06
+49.246.123.223,29727,TRUE,KIX,JP,Asia Pacific,Osaka,10054,CMB Kwangju Broadcasting,748,1.06
+118.91.36.61,38490,TRUE,ICN,KR,Asia Pacific,Seoul,10175,Kumho Cable,407,0.99
+61.239.247.94,24995,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,660,0.99
+27.115.117.197,28722,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,798,0.97
+49.246.123.223,19530,TRUE,NRT,JP,Asia Pacific,Tokyo,10054,CMB Kwangju Broadcasting,518,0.94
+119.246.135.205,27895,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,732,0.91
+119.246.135.205,32327,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,660,0.89
+183.240.232.214,27497,TRUE,HKG,HK,Asia Pacific,Hong Kong,56040,China Mobile communications corporation,238,0.88
+27.115.117.197,37741,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,837,0.84
+124.216.97.176,30040,TRUE,LAX,US,North America,Los Angeles,45361,Ulsan Jung-Ang Broadcasting Network,902,0.83
+27.115.117.197,17414,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,699,0.82
+27.115.117.197,26509,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,795,0.80
+59.148.136.12,20644,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,351,0.80
+123.202.83.184,17766,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,791,0.75
+156.251.179.136,34237,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,364,0.69
+123.202.83.184,39996,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,692,0.65
+119.246.135.205,38655,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,694,0.64
+149.104.23.58,34237,TRUE,HKG,HK,Asia Pacific,Hong Kong,932,XNNET,246,0.62
+119.246.135.205,24115,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,759,0.62
+1.11.62.95,28235,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,562,0.59
+112.133.53.77,25520,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,759,0.57
+123.202.83.184,29651,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,745,0.56
+115.41.163.197,19318,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,474,0.53
+27.115.117.197,38912,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,778,0.53
+59.149.204.93,54321,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,727,0.52
+210.6.139.186,27096,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,693,0.51
+27.115.117.197,17630,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,682,0.49
+119.246.135.205,37490,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,749,0.48
+27.115.117.197,28765,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,787,0.48
+27.115.117.197,32530,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,838,0.43
+103.118.244.200,28076,TRUE,HKG,HK,Asia Pacific,Hong Kong,55933,Cloudie Limited,359,0.40
+112.133.53.77,17527,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,486,0.31
+124.216.65.153,21937,TRUE,NRT,JP,Asia Pacific,Tokyo,45361,Ulsan Jung-Ang Broadcasting Network,630,0.27
+124.216.65.153,17863,TRUE,KIX,JP,Asia Pacific,Osaka,45361,Ulsan Jung-Ang Broadcasting Network,535,0.26
+124.216.65.153,24265,TRUE,KIX,JP,Asia Pacific,Osaka,45361,Ulsan Jung-Ang Broadcasting Network,731,0.26
+124.216.65.153,35986,TRUE,NRT,JP,Asia Pacific,Tokyo,45361,Ulsan Jung-Ang Broadcasting Network,732,0.22
+49.246.56.253,32072,TRUE,KIX,JP,Asia Pacific,Osaka,10054,CMB Kwangju Broadcasting,775,0.22
+119.246.135.205,32561,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,731,0.19
+115.41.163.197,38592,TRUE,ICN,KR,Asia Pacific,Seoul,18313,LG HelloVision Corp.,900,0.18
+101.33.116.108,57781,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",236,0.11
+106.105.84.85,33841,TRUE,TPE,TW,Asia Pacific,Taipei,18049,Taiwan Infrastructure Network Technologie,979,0.11
+106.107.230.55,22057,TRUE,TPE,TW,Asia Pacific,Taipei,18049,Taiwan Infrastructure Network Technologie,973,0.08
+38.47.125.129,36005,TRUE,LAX,US,North America,Los Angeles,400464,VMISS,801,0.06
