@@ -1,190 +1,45 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-8.219.43.243,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",360,7.65
-8.219.78.1,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",386,6.74
-8.222.237.131,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",719,5.43
-8.219.86.200,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",383,5.36
-8.222.131.102,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",458,4.86
-8.219.78.222,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",413,4.66
-8.222.249.190,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",456,4.62
-8.222.145.110,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",641,4.48
-8.222.187.107,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",651,4.41
-8.219.188.162,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",379,4.00
-8.219.42.72,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",332,3.94
-8.219.100.168,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",352,3.85
-8.219.11.158,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",314,3.71
-8.222.155.242,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",429,3.71
-8.222.190.225,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",568,3.58
-8.219.193.22,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",365,3.37
-8.219.222.8,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",368,3.24
-8.219.53.222,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",335,3.16
-8.222.160.61,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",440,3.11
-8.222.229.102,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",523,3.04
-8.219.228.30,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",400,3.01
-8.219.103.65,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",347,2.79
-8.219.235.164,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",489,2.79
-47.128.164.52,9999,TRUE,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,310,2.76
-8.222.227.191,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",595,2.74
-8.222.146.222,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",432,2.72
-8.222.129.32,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",438,2.70
-8.222.240.47,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",509,2.68
-8.219.111.147,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",336,2.66
-8.222.159.252,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",581,2.61
-8.222.160.176,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",450,2.60
-8.222.168.24,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",601,2.58
-8.219.172.128,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",395,2.56
-8.219.106.156,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",345,2.53
-8.222.152.71,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",442,2.48
-8.219.101.72,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",298,2.47
-8.222.180.86,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",600,2.46
-8.222.136.247,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",580,2.44
-8.222.167.8,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",612,2.43
-103.86.50.117,34237,TRUE,SIN,SG,Asia Pacific,Singapore,58955,"Bangmod Enterprise Co., Ltd.",747,2.36
-8.219.248.47,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",461,2.35
-8.222.221.109,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",463,2.34
-8.222.188.56,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",593,2.31
-112.133.53.77,11609,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,759,2.28
-8.219.196.117,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",371,2.27
-8.222.209.223,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",603,2.27
-8.219.248.170,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",498,2.26
-112.121.224.151,12878,TRUE,KIX,JP,Asia Pacific,Osaka,10054,CMB Kwangju Broadcasting,764,2.26
-61.43.74.149,37921,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,696,2.21
-8.222.184.198,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",441,2.21
-8.219.156.148,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",353,2.20
-8.219.60.130,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",388,2.18
-8.222.182.10,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",522,2.18
-8.222.215.228,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",434,2.14
-8.222.145.164,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",463,2.12
-112.133.53.77,15772,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,635,2.10
-8.222.137.166,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",569,2.10
-122.202.236.151,34749,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,626,2.10
-8.219.215.12,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",428,2.09
-112.121.224.151,11389,TRUE,NRT,JP,Asia Pacific,Tokyo,10054,CMB Kwangju Broadcasting,641,2.08
-8.219.241.189,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",459,2.08
-8.219.167.65,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",374,2.06
-8.219.142.191,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",389,2.06
-112.121.224.151,21099,TRUE,NRT,JP,Asia Pacific,Tokyo,10054,CMB Kwangju Broadcasting,664,2.03
-8.222.175.78,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",441,2.00
-8.219.210.226,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",387,1.99
-103.214.89.164,30023,TRUE,ICN,KR,Asia Pacific,Seoul,9946,KCTV JEJU BROADCASTING,600,1.99
-8.222.244.192,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",450,1.98
-122.202.241.160,15148,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,648,1.97
-8.222.133.247,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",464,1.97
-8.222.211.124,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",458,1.95
-8.222.169.182,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",446,1.95
-8.219.200.145,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",383,1.93
-8.222.168.155,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",429,1.93
-8.219.99.169,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",442,1.93
-8.222.140.185,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",492,1.92
-8.219.153.44,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",403,1.91
-8.219.107.135,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",343,1.88
-112.133.53.77,10554,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,620,1.88
-112.133.53.77,16184,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,704,1.88
-61.43.74.149,11717,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,659,1.83
-122.202.236.151,12074,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,641,1.82
-8.219.113.27,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",359,1.82
-8.222.219.252,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",435,1.81
-8.222.229.22,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",453,1.78
-8.219.93.5,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",566,1.73
-8.222.130.137,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",498,1.73
-8.222.212.116,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",492,1.72
-8.219.90.87,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",523,1.70
-8.219.137.50,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",378,1.70
-49.246.56.253,27652,TRUE,KIX,JP,Asia Pacific,Osaka,10054,CMB Kwangju Broadcasting,742,1.69
-112.121.224.151,37480,TRUE,NRT,JP,Asia Pacific,Tokyo,10054,CMB Kwangju Broadcasting,730,1.69
-61.43.74.149,21464,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,744,1.67
-8.219.122.55,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",351,1.66
-8.222.224.162,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",445,1.65
-8.222.144.50,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",438,1.59
-8.222.238.141,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",461,1.57
-8.219.240.141,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",486,1.57
-116.204.181.178,34237,TRUE,SIN,SG,Asia Pacific,Singapore,58955,"Bangmod Enterprise Co., Ltd.",665,1.56
-8.222.168.234,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",465,1.56
-8.219.82.177,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",391,1.52
-8.222.150.197,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",495,1.51
-8.219.92.89,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",493,1.50
-8.219.184.92,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",396,1.49
-8.219.67.133,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",380,1.48
-8.219.145.245,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",436,1.45
-49.246.56.253,23294,TRUE,NRT,JP,Asia Pacific,Tokyo,10054,CMB Kwangju Broadcasting,684,1.45
-8.219.53.142,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",335,1.44
-8.219.140.229,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",425,1.42
-8.222.144.219,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",434,1.38
-8.222.136.196,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",429,1.37
-112.133.53.77,24838,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,648,1.36
-8.219.142.229,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",490,1.32
-49.246.56.253,21418,TRUE,NRT,JP,Asia Pacific,Tokyo,10054,CMB Kwangju Broadcasting,643,1.30
-165.154.147.41,12218,TRUE,SIN,SG,Asia Pacific,Singapore,135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,607,1.30
-49.246.56.253,33979,TRUE,NRT,JP,Asia Pacific,Tokyo,10054,CMB Kwangju Broadcasting,649,1.29
-112.133.53.77,34103,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,692,1.28
-112.121.224.151,38976,TRUE,NRT,JP,Asia Pacific,Tokyo,10054,CMB Kwangju Broadcasting,639,1.27
-61.43.74.149,21961,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,633,1.27
-8.222.137.178,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",464,1.27
-8.222.211.16,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",465,1.25
-8.219.55.31,8443,TRUE,LAX,US,North America,Los Angeles,45102,"Alibaba US Technology Co., Ltd.",849,1.23
-112.133.53.77,26603,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,621,1.23
-8.219.173.195,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",370,1.22
-112.121.224.151,10341,TRUE,NRT,JP,Asia Pacific,Tokyo,10054,CMB Kwangju Broadcasting,636,1.20
-112.133.53.77,11422,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,658,1.18
-8.222.129.245,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",467,1.18
-8.222.221.197,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",445,1.17
-49.246.56.253,16322,TRUE,KIX,JP,Asia Pacific,Osaka,10054,CMB Kwangju Broadcasting,733,1.17
-61.43.74.149,21359,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,632,1.17
-8.222.134.170,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",429,1.16
-112.133.53.77,12346,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,704,1.15
-112.133.53.77,26248,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,563,1.13
-112.121.224.151,36306,TRUE,KIX,JP,Asia Pacific,Osaka,10054,CMB Kwangju Broadcasting,741,1.02
-8.222.154.227,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",590,1.02
-8.219.129.38,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",386,1.02
-49.246.56.253,11435,TRUE,NRT,JP,Asia Pacific,Tokyo,10054,CMB Kwangju Broadcasting,641,1.00
-8.222.224.163,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",452,0.98
-8.222.162.45,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",566,0.98
-8.219.213.133,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",417,0.97
-112.121.224.151,12067,TRUE,NRT,JP,Asia Pacific,Tokyo,10054,CMB Kwangju Broadcasting,633,0.95
-8.222.248.188,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",454,0.93
-8.222.161.86,32101,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",469,0.88
-49.246.123.222,14556,TRUE,NRT,JP,Asia Pacific,Tokyo,10054,CMB Kwangju Broadcasting,744,0.88
-112.133.53.77,39856,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,626,0.86
-8.219.201.245,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",495,0.85
-112.121.224.151,17980,TRUE,KIX,JP,Asia Pacific,Osaka,10054,CMB Kwangju Broadcasting,717,0.84
-49.246.56.253,27067,TRUE,NRT,JP,Asia Pacific,Tokyo,10054,CMB Kwangju Broadcasting,721,0.84
-49.246.56.253,36928,TRUE,KIX,JP,Asia Pacific,Osaka,10054,CMB Kwangju Broadcasting,792,0.83
-8.219.238.145,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",400,0.78
-156.251.183.226,34147,TRUE,SIN,SG,Asia Pacific,Singapore,40065,CNSERVERS,444,0.77
-49.246.56.253,36014,TRUE,KIX,JP,Asia Pacific,Osaka,10054,CMB Kwangju Broadcasting,726,0.75
-49.246.56.253,10770,TRUE,KIX,JP,Asia Pacific,Osaka,10054,CMB Kwangju Broadcasting,810,0.75
-8.222.174.108,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",461,0.68
-112.121.224.151,36299,TRUE,KIX,JP,Asia Pacific,Osaka,10054,CMB Kwangju Broadcasting,719,0.67
-112.121.224.151,28540,TRUE,KIX,JP,Asia Pacific,Osaka,10054,CMB Kwangju Broadcasting,741,0.65
-45.11.104.115,16929,TRUE,SIN,SG,Asia Pacific,Singapore,57695,"Misaka Network, Inc.",314,0.62
-112.121.224.151,37985,TRUE,NRT,JP,Asia Pacific,Tokyo,10054,CMB Kwangju Broadcasting,650,0.61
-1.232.40.93,25105,TRUE,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,658,0.59
-112.121.224.151,17547,TRUE,NRT,JP,Asia Pacific,Tokyo,10054,CMB Kwangju Broadcasting,648,0.59
-112.121.224.151,15829,TRUE,KIX,JP,Asia Pacific,Osaka,10054,CMB Kwangju Broadcasting,728,0.54
-49.246.56.253,17140,TRUE,KIX,JP,Asia Pacific,Osaka,10054,CMB Kwangju Broadcasting,791,0.51
-183.240.232.214,28279,TRUE,SIN,SG,Asia Pacific,Singapore,56040,China Mobile communications corporation,606,0.43
-43.130.134.123,65001,TRUE,IAD,US,North America,Ashburn,132203,"Tencent Building, Kejizhongyi Avenue",915,0.43
-8.219.228.186,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",452,0.42
-112.133.53.77,24649,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,529,0.42
-61.43.74.149,18495,TRUE,NRT,JP,Asia Pacific,Tokyo,9946,KCTV JEJU BROADCASTING,552,0.40
-8.222.171.165,30015,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",342,0.38
-47.236.19.213,65432,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",475,0.37
-138.2.111.140,10010,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,448,0.37
-49.246.56.253,12773,TRUE,SIN,SG,Asia Pacific,Singapore,10054,CMB Kwangju Broadcasting,819,0.35
-27.100.181.126,11072,TRUE,LAX,US,North America,Los Angeles,9946,KCTV JEJU BROADCASTING,893,0.33
-138.2.67.121,44400,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,464,0.31
-124.216.65.153,36784,TRUE,KIX,JP,Asia Pacific,Osaka,45361,Ulsan Jung-Ang Broadcasting Network,642,0.26
-112.133.53.77,23124,TRUE,LAX,US,North America,Los Angeles,9946,KCTV JEJU BROADCASTING,895,0.25
-124.216.65.153,16277,TRUE,KIX,JP,Asia Pacific,Osaka,45361,Ulsan Jung-Ang Broadcasting Network,724,0.25
-124.216.65.153,14834,TRUE,NRT,JP,Asia Pacific,Tokyo,45361,Ulsan Jung-Ang Broadcasting Network,704,0.25
-182.161.175.93,19302,TRUE,NRT,JP,Asia Pacific,Tokyo,45361,Ulsan Jung-Ang Broadcasting Network,633,0.23
-124.216.65.153,28292,TRUE,NRT,JP,Asia Pacific,Tokyo,45361,Ulsan Jung-Ang Broadcasting Network,659,0.23
-124.216.65.153,38660,TRUE,NRT,JP,Asia Pacific,Tokyo,45361,Ulsan Jung-Ang Broadcasting Network,651,0.22
-182.161.175.93,32291,TRUE,KIX,JP,Asia Pacific,Osaka,45361,Ulsan Jung-Ang Broadcasting Network,776,0.21
-117.18.13.170,30002,TRUE,SIN,SG,Asia Pacific,Singapore,64050,BGPNET Global ASN,598,0.21
-158.178.228.8,10010,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,454,0.19
-124.216.65.153,36416,TRUE,NRT,JP,Asia Pacific,Tokyo,45361,Ulsan Jung-Ang Broadcasting Network,723,0.19
-175.193.62.86,14440,TRUE,LAX,US,North America,Los Angeles,4766,Korea Telecom,887,0.15
-47.74.254.191,8900,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",870,0.14
-94.130.225.211,8880,TRUE,FRA,DE,Europe,Frankfurt,24940,Hetzner Online GmbH,889,0.10
-129.150.49.154,32799,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,474,0.04
-220.81.178.30,12306,TRUE,SIN,SG,Asia Pacific,Singapore,4766,Korea Telecom,1000,0.01
+47.236.171.112,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",790,4.80
+47.236.83.239,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",852,4.65
+47.236.88.85,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",598,3.17
+47.236.227.21,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",747,2.90
+8.222.174.108,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",333,2.86
+8.222.137.166,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",367,2.78
+8.222.140.185,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",328,2.61
+8.222.133.247,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",338,2.58
+47.236.145.85,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",428,2.53
+47.236.201.98,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",852,2.25
+8.222.171.165,30015,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",297,2.14
+47.236.193.5,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",402,2.09
+47.236.19.51,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",363,2.05
+47.236.96.141,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",413,1.94
+47.236.19.213,65432,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",384,1.87
+47.236.150.109,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",391,1.82
+47.236.130.95,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",372,1.68
+47.236.123.218,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",392,1.58
+8.222.184.198,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",327,1.49
+47.236.166.131,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",392,1.35
+47.236.15.73,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",382,1.35
+139.162.48.174,10000,TRUE,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,324,1.32
+47.236.82.218,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",414,1.27
+47.236.39.34,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",757,1.22
+47.236.164.215,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",412,1.19
+47.236.103.153,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",807,1.11
+47.236.163.221,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",384,1.05
+156.251.183.226,34147,TRUE,SIN,SG,Asia Pacific,Singapore,40065,CNSERVERS,293,0.92
+47.236.198.189,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",774,0.91
+120.232.198.141,25665,TRUE,SIN,SG,Asia Pacific,Singapore,56040,China Mobile communications corporation,580,0.91
+47.236.97.111,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",746,0.90
+47.236.76.199,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",380,0.90
+47.236.192.198,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",774,0.75
+47.236.144.48,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",792,0.75
+213.35.98.197,8443,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,325,0.74
+47.236.79.87,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",405,0.74
+47.236.114.167,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",790,0.54
+47.236.175.189,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",794,0.43
+188.166.249.56,8443,TRUE,SIN,SG,Asia Pacific,Singapore,14061,DIGITALOCEAN-ASN,851,0.40
+139.162.9.77,8443,TRUE,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,294,0.38
+138.2.67.121,44400,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,333,0.30
+138.2.111.140,10010,TRUE,SIN,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,526,0.27
+43.153.208.195,26306,TRUE,SIN,SG,Asia Pacific,Singapore,132203,"Tencent Building, Kejizhongyi Avenue",990,0.08
+43.134.166.213,10444,TRUE,SIN,SG,Asia Pacific,Singapore,132203,"Tencent Building, Kejizhongyi Avenue",973,0.03
