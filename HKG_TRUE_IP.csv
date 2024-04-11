@@ -1,160 +1,88 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-211.205.225.238,29480,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,589,4.30
-39.124.208.84,20796,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,411,3.99
-1.224.98.149,30267,TRUE,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,684,3.52
-121.159.133.175,21236,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,325,3.26
-39.112.220.69,27474,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,556,3.06
-58.125.226.171,35126,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,489,2.97
-219.255.174.115,24930,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,361,2.96
-183.108.77.2,21948,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,427,2.88
-101.230.71.30,38173,TRUE,HKG,HK,Asia Pacific,Hong Kong,4812,China Telecom Group,271,2.88
-121.129.163.178,30785,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,608,2.85
-175.112.229.103,31467,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,564,2.73
-220.127.78.184,23822,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,366,2.73
-211.109.35.162,37076,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,616,2.72
-175.127.180.74,27036,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,618,2.70
-1.238.56.46,23087,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,375,2.69
-118.38.57.177,35713,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,371,2.62
-112.167.49.24,26912,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,558,2.59
-1.224.98.149,31010,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,561,2.52
-222.114.255.170,33468,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,459,2.50
-211.205.225.238,29267,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,609,2.43
-211.207.174.216,20618,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,383,2.42
-39.116.32.164,31580,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,609,2.40
-114.206.65.6,23250,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,335,2.34
-220.78.7.17,33896,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,541,2.34
-183.236.51.45,25504,TRUE,NRT,JP,Asia Pacific,Tokyo,9808,"China Mobile Communications Group Co., Ltd.",939,2.31
-14.36.241.233,36862,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,560,2.27
-118.46.87.142,21552,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,691,2.24
-118.223.121.171,23374,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,392,2.21
-222.236.136.212,33268,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,421,2.17
-175.121.57.59,24801,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,449,2.16
-211.205.225.238,31663,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,535,2.13
-59.24.243.201,30834,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,443,2.12
-175.125.207.253,28098,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,535,2.12
-218.237.123.117,32236,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,557,2.11
-154.204.60.218,29876,TRUE,HKG,HK,Asia Pacific,Hong Kong,139659,LUCIDACLOUD LIMITED,237,2.06
-39.113.233.213,25098,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,612,2.06
-61.76.80.34,36810,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,458,2.04
-175.115.116.134,25106,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,390,2.04
-114.202.193.251,21614,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,349,2.03
-39.116.32.164,25100,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,610,2.03
-103.103.245.23,38372,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,240,2.01
-222.100.17.81,26977,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,553,1.96
-14.36.241.233,25940,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,429,1.92
-118.36.16.183,20497,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,362,1.91
-221.159.140.95,29815,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,613,1.91
-1.248.65.59,29900,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,432,1.88
-175.121.23.104,29832,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,474,1.88
-211.109.35.162,27603,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,556,1.87
-180.68.128.117,36913,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,472,1.86
-114.202.193.251,25849,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,611,1.85
-1.241.218.157,32623,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,432,1.84
-211.109.35.162,39476,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,610,1.82
-118.219.239.158,21381,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,855,1.80
-116.126.112.160,29448,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,439,1.80
-110.13.212.97,28438,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,443,1.76
-110.15.123.196,36829,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,348,1.75
-116.126.112.160,31313,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,355,1.75
-58.225.143.20,30061,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,460,1.72
-211.213.65.131,35993,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,379,1.71
-218.156.213.52,38581,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,343,1.70
-175.116.179.135,37895,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,385,1.69
-116.126.112.160,25639,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,390,1.69
-14.39.208.40,25377,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,472,1.69
-39.116.32.164,24226,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,507,1.68
-118.220.92.91,21772,TRUE,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,456,1.68
-175.116.179.135,27064,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,355,1.68
-1.237.224.43,26697,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,554,1.66
-211.52.168.133,33075,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,558,1.66
-211.192.158.219,23293,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,341,1.65
-211.207.174.216,35335,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,359,1.64
-112.160.244.140,28408,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,384,1.63
-121.154.61.186,28841,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,352,1.63
-211.238.239.33,23680,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,435,1.62
-211.216.220.35,29090,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,371,1.61
-175.211.43.7,36515,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,386,1.59
-59.21.49.130,35047,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,384,1.58
-222.98.104.96,32867,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,362,1.56
-14.38.149.13,25205,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,377,1.54
-118.219.239.158,28511,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,441,1.49
-1.238.56.46,39433,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,338,1.49
-114.202.193.251,30165,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,531,1.47
-211.207.129.20,23408,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,350,1.46
-59.13.221.98,32494,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,354,1.45
-175.125.207.253,26813,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,429,1.43
-58.234.19.45,30017,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,340,1.42
-222.236.136.212,27495,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,431,1.39
-220.90.50.110,34368,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,542,1.38
-58.230.12.228,20642,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,406,1.37
-221.157.74.71,29864,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,459,1.37
-58.125.226.171,36742,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,621,1.36
-118.223.121.171,39449,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,357,1.35
-114.206.210.232,23934,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,558,1.34
-27.118.113.58,30060,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,681,1.33
-116.122.120.234,34522,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,345,1.33
-211.52.168.133,33981,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,386,1.32
-39.123.159.34,29999,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,558,1.30
-114.201.18.147,28317,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,615,1.29
-39.113.233.213,38813,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,557,1.28
-118.38.6.113,29790,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,333,1.28
-118.33.178.164,36537,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,435,1.27
-118.91.75.222,31205,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,625,1.26
-180.68.62.68,24586,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,427,1.25
-118.219.239.158,26004,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,437,1.24
-1.237.224.43,30205,TRUE,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,683,1.24
-211.179.32.88,30063,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,364,1.22
-1.237.224.43,23306,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,355,1.21
-111.65.134.201,21870,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,393,1.20
-58.235.171.167,27960,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,432,1.20
-175.125.207.253,22009,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,336,1.20
-39.112.220.69,32922,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,590,1.18
-118.91.75.222,25457,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,610,1.16
-175.116.179.135,22607,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,339,1.15
-111.65.176.140,23085,TRUE,HKG,HK,Asia Pacific,Hong Kong,17573,SK Broadband Co Ltd,510,1.15
-111.65.175.150,30066,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,557,1.11
-222.113.18.212,21163,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,408,1.10
-221.144.241.170,37097,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,434,1.06
-39.123.2.159,30012,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,479,1.05
-121.181.128.153,24518,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,587,1.04
-27.118.76.226,30056,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,590,1.03
-183.236.51.45,27526,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",346,1.03
-175.125.207.253,21864,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,340,1.01
-211.200.108.47,30067,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,367,0.98
-121.125.162.32,25298,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,606,0.95
-183.236.51.45,26756,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",345,0.94
-211.194.235.65,28227,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,565,0.92
-203.175.53.85,30060,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,471,0.91
-61.82.160.208,31525,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,380,0.90
-115.22.215.81,26073,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,605,0.88
-175.125.207.253,26587,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,533,0.87
-180.68.64.242,35124,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,459,0.87
-101.230.71.26,38173,TRUE,HKG,HK,Asia Pacific,Hong Kong,4812,China Telecom Group,278,0.86
-27.118.80.231,30057,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,557,0.85
-220.72.26.48,21252,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,411,0.81
-121.143.75.35,25821,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,555,0.77
-211.238.239.33,38423,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,461,0.77
-211.209.69.168,22724,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,374,0.73
-111.65.134.201,25928,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,611,0.67
-175.121.102.25,36935,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,631,0.67
-211.238.239.33,22633,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,442,0.62
-218.237.123.117,34952,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,458,0.60
-61.83.172.34,36163,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,540,0.59
-154.88.30.16,34237,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,566,0.55
-211.238.239.33,32573,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,613,0.51
-219.248.61.88,22252,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,389,0.50
-211.238.239.33,21869,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,439,0.48
-180.68.64.242,24323,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,609,0.45
-111.65.134.201,30984,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,685,0.44
-175.117.97.25,23855,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,561,0.43
-119.199.206.187,32256,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,565,0.43
-175.125.147.164,35801,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,561,0.41
-175.125.147.164,25700,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,553,0.39
-211.177.247.184,30060,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,614,0.37
-175.115.250.19,28197,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,557,0.32
-211.238.239.33,21071,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,445,0.31
-175.122.63.211,30805,TRUE,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,633,0.25
-203.175.53.85,30065,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,487,0.21
-221.124.202.168,27233,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,727,0.14
-103.118.244.200,27712,TRUE,HKG,HK,Asia Pacific,Hong Kong,55933,Cloudie Limited,287,0.08
-103.118.244.200,28076,TRUE,HKG,HK,Asia Pacific,Hong Kong,55933,Cloudie Limited,368,0.03
+8.210.101.157,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",219,8.41
+8.218.110.180,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",206,5.95
+8.217.85.14,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",183,5.71
+8.210.101.157,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",225,5.67
+47.244.255.95,8449,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",489,5.65
+129.154.211.114,12319,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,450,5.38
+8.218.110.180,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",237,4.66
+47.242.17.250,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",209,3.97
+8.217.193.25,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",259,3.70
+8.210.101.157,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",249,3.69
+58.82.242.199,12170,TRUE,HKG,HK,Asia Pacific,Hong Kong,137872,China Mobile Hong Kong Company Limited,267,3.65
+8.217.193.25,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",258,3.56
+47.245.4.22,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",428,3.52
+8.218.163.29,4430,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",348,3.50
+18.166.180.230,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,16509,AMAZON-02,220,3.32
+8.217.85.14,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",246,3.31
+47.245.4.22,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",451,3.24
+8.218.110.180,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",258,3.17
+8.217.164.10,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",257,3.09
+8.217.193.25,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",263,3.07
+47.245.57.38,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",474,2.98
+47.245.57.38,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",437,2.87
+13.94.35.181,34237,TRUE,HKG,HK,Asia Pacific,Hong Kong,8075,MICROSOFT-CORP-MSN-AS-BLOCK,396,2.73
+119.28.58.214,10007,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",257,2.68
+154.204.60.218,29876,TRUE,HKG,HK,Asia Pacific,Hong Kong,139659,LUCIDACLOUD LIMITED,238,2.37
+8.217.164.10,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",249,2.32
+8.210.21.65,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",266,2.15
+111.65.150.65,50029,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,398,2.06
+150.109.156.204,10002,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",220,2.04
+8.217.85.14,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",234,2.00
+101.78.164.239,12313,TRUE,HKG,HK,Asia Pacific,Hong Kong,9381,HKBN Enterprise Solutions HK Limited,339,1.90
+101.32.187.87,5005,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",217,1.84
+40.83.120.192,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,8075,MICROSOFT-CORP-MSN-AS-BLOCK,389,1.75
+103.235.18.119,10020,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,254,1.71
+43.128.6.137,10001,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",221,1.63
+118.91.75.222,26610,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,455,1.45
+101.32.40.116,8888,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",220,1.44
+111.65.176.140,32656,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,378,1.35
+118.91.75.222,34619,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,442,1.27
+47.245.6.9,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",499,1.22
+111.65.176.140,38487,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,432,1.19
+119.28.58.214,10002,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",248,1.16
+47.245.57.38,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",428,1.15
+111.65.176.140,34017,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,400,1.11
+111.65.134.201,11675,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,450,1.10
+59.149.204.93,54321,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,979,1.06
+47.242.155.39,8888,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",221,1.04
+111.65.176.140,35203,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,451,1.04
+111.65.176.140,23085,TRUE,HKG,HK,Asia Pacific,Hong Kong,17573,SK Broadband Co Ltd,527,1.02
+27.118.69.17,30062,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,431,0.97
+103.103.245.218,35570,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,261,0.92
+211.238.239.33,34599,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,400,0.87
+47.75.101.0,3443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",245,0.86
+111.65.134.201,30588,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,469,0.85
+8.217.164.10,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",180,0.84
+146.56.41.180,34237,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,253,0.82
+211.238.239.33,36808,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,459,0.79
+211.238.239.33,37787,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,451,0.76
+47.245.39.49,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",501,0.76
+47.245.6.9,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",455,0.76
+211.238.239.33,19904,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,450,0.63
+47.245.6.9,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",484,0.46
+47.242.17.250,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",254,0.34
+152.70.102.124,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,546,0.30
+101.32.192.81,10443,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",223,0.30
+47.242.232.14,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",197,0.29
+158.179.186.123,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,546,0.28
+158.179.186.123,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,788,0.26
+47.242.17.250,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",249,0.23
+211.238.239.33,21071,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,412,0.22
+152.69.196.11,43026,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,547,0.22
+47.242.232.14,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",259,0.20
+168.138.211.188,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,789,0.20
+124.156.147.158,32797,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",218,0.19
+131.186.59.232,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,546,0.17
+221.124.202.168,10001,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,730,0.16
+168.138.194.22,28424,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,676,0.15
+8.210.21.65,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",194,0.14
+101.33.116.108,57781,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",268,0.12
+45.207.11.69,8899,TRUE,HKG,HK,Asia Pacific,Hong Kong,140227,"Hong Kong Communications International Co., Limited",910,0.09
+168.138.211.188,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,757,0.08
+49.1.36.126,33098,TRUE,ICN,KR,Asia Pacific,Seoul,10036,DLIVE,353,0.08
+203.175.47.46,14436,TRUE,HKG,HK,Asia Pacific,Hong Kong,17573,SK Broadband Co Ltd,528,0.07
+49.1.36.126,30958,TRUE,ICN,KR,Asia Pacific,Seoul,10036,DLIVE,469,0.07
+151.145.69.105,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,901,0.07
+113.252.129.211,30037,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,862,0.07
+223.18.34.201,10093,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,737,0.05
