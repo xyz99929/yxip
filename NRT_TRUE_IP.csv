@@ -1,216 +1,176 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-47.245.59.133,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",245,6.82
-132.226.171.158,9527,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,434,4.87
-20.48.86.120,30443,TRUE,NRT,JP,Asia Pacific,Tokyo,8075,MICROSOFT-CORP-MSN-AS-BLOCK,234,4.70
-64.110.83.231,23022,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,390,4.38
-146.56.181.95,46237,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,714,4.37
-221.138.114.17,10005,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,486,4.26
-211.22.240.107,36373,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,515,4.06
-8.219.55.31,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",508,4.01
-220.132.74.19,11683,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,400,3.86
-220.135.84.4,17120,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,655,3.81
-146.56.171.182,11659,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,359,3.71
-220.135.84.4,11716,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,414,3.55
-220.135.84.4,20524,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,486,3.53
-1.232.40.93,11443,TRUE,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,413,3.51
-62.106.70.181,10006,TRUE,NRT,JP,Asia Pacific,Tokyo,3258,xTom Pty Ltd,295,3.49
-218.209.190.133,26031,TRUE,KIX,JP,Asia Pacific,Osaka,23563,SK Broadband Co Ltd,704,3.40
-124.111.188.119,19091,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,683,3.32
-220.132.74.19,34387,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,636,3.23
-1.232.40.93,20150,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,516,3.21
-220.135.84.4,35412,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,443,3.17
-125.227.187.43,33069,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,388,3.12
-221.138.114.17,12300,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,489,3.10
-132.226.236.86,32505,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,398,2.86
-203.175.32.219,11752,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,522,2.83
-220.132.74.19,22420,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,628,2.76
-1.232.40.93,11000,TRUE,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,471,2.72
-130.162.138.63,15889,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,817,2.67
-118.163.128.81,13414,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,432,2.66
-203.175.32.219,19736,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,733,2.62
-118.163.128.81,15104,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,562,2.61
-1.232.40.93,10245,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,447,2.57
-1.232.40.93,22533,TRUE,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,523,2.56
-47.236.125.62,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",594,2.48
-60.251.142.38,25566,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,622,2.43
-1.232.40.93,36167,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,441,2.36
-220.135.84.4,18269,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,481,2.34
-218.209.190.133,24970,TRUE,KIX,JP,Asia Pacific,Osaka,23563,SK Broadband Co Ltd,599,2.17
-122.116.65.170,25222,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,422,2.11
-132.226.21.147,29772,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,353,2.01
-203.175.32.219,11645,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,459,2.00
-125.227.187.43,14644,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,417,2.00
-58.123.132.16,30083,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,520,1.99
-1.232.40.93,12203,TRUE,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,412,1.99
-1.232.40.93,12381,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,470,1.85
-221.147.85.243,10333,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,781,1.84
-59.17.109.133,13666,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,523,1.80
-8.222.153.11,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",491,1.80
-132.226.175.36,26757,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,387,1.76
-1.232.40.93,22105,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,624,1.74
-122.116.99.115,22633,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,512,1.71
-112.212.145.63,12013,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,433,1.70
-61.247.83.116,21244,TRUE,NRT,JP,Asia Pacific,Tokyo,17854,SK Broadband Co Ltd,735,1.70
-218.54.154.5,11423,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,467,1.67
-111.65.176.140,11322,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,563,1.65
-118.91.92.195,35821,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,581,1.65
-211.250.13.224,10912,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,516,1.65
-220.135.84.4,19248,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,441,1.64
-118.91.83.231,32780,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,602,1.57
-112.212.145.63,10027,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,436,1.57
-114.206.108.24,17988,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,475,1.51
-220.134.160.237,29601,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,672,1.49
-220.135.84.4,17749,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,450,1.46
-111.65.150.65,30032,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,736,1.46
-60.251.122.190,28339,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,568,1.45
-114.108.5.150,36557,TRUE,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,439,1.43
-220.132.74.19,17795,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,624,1.42
-125.227.70.180,11290,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,494,1.42
-218.209.190.133,27233,TRUE,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,487,1.41
-146.56.138.226,38178,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,339,1.40
-111.65.176.140,26761,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,739,1.38
-115.161.62.68,20000,TRUE,KIX,JP,Asia Pacific,Osaka,9689,SK Broadband Co Ltd,700,1.34
-125.227.70.180,12588,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,539,1.33
-122.116.99.115,35577,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,436,1.27
-111.65.176.140,18678,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,692,1.25
-220.134.160.237,39500,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,528,1.24
-114.34.220.134,13218,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,668,1.24
-112.212.145.63,36876,TRUE,KIX,JP,Asia Pacific,Osaka,38103,SK Broadband Co Ltd,675,1.22
-220.134.160.237,12908,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,684,1.22
-112.140.85.176,30043,TRUE,KIX,JP,Asia Pacific,Osaka,38109,SK Broadband Co Ltd,697,1.21
-122.116.99.115,27135,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,556,1.21
-122.116.99.115,34143,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,388,1.19
-59.22.44.19,16082,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,433,1.19
-220.135.208.134,27013,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,621,1.18
-112.212.145.63,16841,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,466,1.16
-112.212.145.63,22829,TRUE,KIX,JP,Asia Pacific,Osaka,38103,SK Broadband Co Ltd,676,1.13
-112.212.145.63,24426,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,557,1.13
-103.5.128.120,21404,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,777,1.13
-112.212.145.63,28083,TRUE,KIX,JP,Asia Pacific,Osaka,38103,SK Broadband Co Ltd,629,1.13
-111.65.176.140,30971,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,645,1.13
-112.212.145.63,11452,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,427,1.08
-27.117.52.110,32367,TRUE,NRT,JP,Asia Pacific,Tokyo,17857,SK Broadband Co Ltd,658,1.07
-125.227.70.180,26884,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,407,1.05
-112.212.145.63,37716,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,513,1.05
-122.116.99.115,27288,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,572,1.04
-125.227.70.180,27717,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,413,1.02
-112.212.145.63,38377,TRUE,KIX,JP,Asia Pacific,Osaka,38103,SK Broadband Co Ltd,671,1.02
-203.175.32.219,11535,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,481,1.01
-59.2.144.169,11371,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,802,1.00
-114.34.220.134,18817,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,678,1.00
-220.134.160.237,39012,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,559,0.98
-111.65.176.140,25068,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,604,0.97
-220.134.160.237,39757,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,735,0.97
-111.65.176.140,20629,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,716,0.97
-112.212.145.63,20880,TRUE,KIX,JP,Asia Pacific,Osaka,38103,SK Broadband Co Ltd,737,0.96
-114.34.220.134,33257,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,611,0.96
-211.172.38.180,30006,TRUE,KIX,JP,Asia Pacific,Osaka,18310,SK Broadband Co Ltd,713,0.95
-125.229.230.180,30505,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,803,0.95
-221.164.211.245,12320,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,743,0.95
-1.232.40.93,15006,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,598,0.93
-203.175.32.219,31371,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,779,0.93
-111.65.176.140,12611,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,710,0.91
-112.212.145.63,16568,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,558,0.91
-121.254.46.165,37815,TRUE,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,515,0.90
-220.134.160.237,18928,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,635,0.88
-112.212.145.63,15028,TRUE,KIX,JP,Asia Pacific,Osaka,38103,SK Broadband Co Ltd,738,0.87
-220.135.84.4,26226,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,496,0.87
-103.5.128.120,20303,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,588,0.86
-220.86.191.246,12391,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,737,0.85
-1.238.209.247,20001,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,496,0.85
-121.179.68.136,10002,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,532,0.85
-111.65.176.140,27467,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,636,0.85
-218.238.229.216,21443,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,626,0.83
-112.212.145.63,33226,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,515,0.83
-112.140.85.176,38569,TRUE,NRT,JP,Asia Pacific,Tokyo,38109,SK Broadband Co Ltd,595,0.80
-114.34.220.134,16723,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,530,0.79
-121.170.78.63,12375,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,575,0.78
-112.212.145.63,14658,TRUE,KIX,JP,Asia Pacific,Osaka,38103,SK Broadband Co Ltd,668,0.78
-114.34.220.134,27807,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,684,0.77
-211.250.13.224,10086,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,507,0.77
-112.212.145.63,30877,TRUE,KIX,JP,Asia Pacific,Osaka,38103,SK Broadband Co Ltd,658,0.77
-221.161.19.212,25647,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,717,0.77
-220.135.84.4,19646,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,405,0.76
-122.254.157.75,30645,TRUE,NRT,JP,Asia Pacific,Tokyo,17857,SK Broadband Co Ltd,716,0.75
-211.215.228.6,11965,TRUE,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,441,0.75
-114.34.220.134,33729,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,527,0.75
-122.116.99.115,14274,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,465,0.74
-112.212.145.63,39287,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,490,0.74
-114.34.220.134,20003,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,629,0.74
-211.223.146.34,12119,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,562,0.71
-121.176.33.148,12564,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,716,0.69
-119.17.111.233,22731,TRUE,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,668,0.68
-27.118.80.231,30049,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,629,0.67
-158.179.186.234,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,344,0.66
-124.28.63.70,19999,TRUE,NRT,JP,Asia Pacific,Tokyo,23578,SK Broadband Co Ltd,592,0.66
-121.254.46.165,38617,TRUE,KIX,JP,Asia Pacific,Osaka,23563,SK Broadband Co Ltd,630,0.65
-114.34.220.134,36874,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,495,0.64
-112.212.145.63,37914,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,595,0.64
-112.212.145.63,32434,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,502,0.63
-111.65.176.140,34202,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,714,0.62
-122.254.133.113,31873,TRUE,NRT,JP,Asia Pacific,Tokyo,17857,SK Broadband Co Ltd,558,0.61
-218.209.250.33,11428,TRUE,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,480,0.61
-111.171.120.24,18577,TRUE,NRT,JP,Asia Pacific,Tokyo,38109,SK Broadband Co Ltd,732,0.61
-221.154.20.23,10024,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,510,0.54
-220.135.84.4,18139,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,511,0.53
-58.225.124.168,10044,TRUE,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,452,0.52
-121.179.68.136,12535,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,714,0.50
-155.248.176.68,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,476,0.49
-119.17.111.233,33900,TRUE,KIX,JP,Asia Pacific,Osaka,23563,SK Broadband Co Ltd,638,0.48
-121.161.238.47,10058,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,528,0.48
-210.223.26.66,18089,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,810,0.47
-117.55.141.15,22542,TRUE,NRT,JP,Asia Pacific,Tokyo,9770,LG HelloVision Corp.,598,0.44
-61.77.9.219,12487,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,640,0.42
-158.179.188.175,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,749,0.41
-61.77.9.219,12503,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,594,0.38
-111.65.176.140,30629,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,656,0.36
-121.187.100.90,29842,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,678,0.35
-211.225.60.192,12201,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,512,0.32
-211.51.185.137,21083,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,584,0.31
-222.102.190.56,12308,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,732,0.31
-158.179.180.233,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,920,0.30
-158.179.186.138,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,562,0.30
-125.135.115.85,18038,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,655,0.30
-220.81.132.214,29798,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,656,0.30
-211.46.225.120,10016,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,518,0.27
-152.70.104.78,34237,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,379,0.27
-151.145.71.127,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,924,0.26
-175.215.82.175,17779,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,575,0.24
-152.70.245.66,12693,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,441,0.23
-168.138.213.1,50009,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,681,0.19
-110.11.25.32,12154,TRUE,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,462,0.18
-158.179.189.106,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,352,0.18
-138.2.21.196,44333,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,361,0.18
-151.145.69.174,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,501,0.18
-168.138.213.1,50003,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,384,0.17
-139.180.199.68,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,20473,AS-CHOOPA,634,0.17
-158.179.183.2,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,620,0.17
-150.230.103.13,40373,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,894,0.16
-158.179.181.107,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,333,0.16
-220.135.101.174,31976,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,596,0.16
-158.101.154.245,47001,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,380,0.16
-158.179.191.14,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,479,0.12
-121.148.98.176,18087,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,844,0.11
-158.179.189.235,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,345,0.10
-121.162.197.175,10103,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,508,0.09
-150.230.101.101,26218,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,611,0.08
-203.175.47.46,39334,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,911,0.08
-138.2.5.92,27777,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,879,0.08
-155.248.181.163,29215,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,604,0.08
-107.191.60.177,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,20473,AS-CHOOPA,914,0.07
-112.165.93.113,20150,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,802,0.07
-158.101.88.8,27652,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,394,0.06
-203.175.47.46,29030,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,973,0.05
-151.145.70.28,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,351,0.05
-203.175.47.46,24981,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,974,0.05
-158.101.94.178,25426,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,657,0.04
-211.199.12.139,12497,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,832,0.04
-203.175.47.46,30387,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,923,0.03
-203.175.47.46,25002,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,944,0.03
-141.147.176.65,43534,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,764,0.03
-203.175.47.46,14747,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,910,0.02
-220.81.178.30,12306,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,529,0.02
-203.175.47.46,16303,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,944,0.02
-172.104.117.43,12451,TRUE,NRT,JP,Asia Pacific,Tokyo,63949,Akamai Connected Cloud,805,0.02
-203.175.47.46,36184,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,934,0.02
-150.230.204.21,10243,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,611,0.01
+74.226.175.169,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,8075,MICROSOFT-CORP-MSN-AS-BLOCK,202,25.11
+62.106.70.181,10006,TRUE,NRT,JP,Asia Pacific,Tokyo,3258,xTom Pty Ltd,320,18.62
+20.243.203.228,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,8075,MICROSOFT-CORP-MSN-AS-BLOCK,326,16.37
+146.56.138.226,38178,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,400,16.35
+132.226.175.36,26757,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,476,16.33
+20.48.86.120,30443,TRUE,NRT,JP,Asia Pacific,Tokyo,8075,MICROSOFT-CORP-MSN-AS-BLOCK,214,15.46
+146.56.171.182,11659,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,447,15.25
+132.226.171.158,9527,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,320,11.00
+1.232.40.93,20150,TRUE,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,497,7.50
+218.209.190.133,27233,TRUE,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,431,7.06
+220.132.74.19,11683,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,517,6.62
+139.180.199.68,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,20473,AS-CHOOPA,592,6.60
+221.138.114.17,10005,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,463,6.56
+1.232.40.93,12381,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,600,6.53
+64.110.83.231,23022,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,331,6.52
+58.123.132.16,30083,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,572,6.39
+211.22.240.107,36373,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,562,6.09
+221.138.114.17,12300,TRUE,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,539,5.98
+124.111.188.119,19091,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,568,5.95
+132.226.21.147,29772,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,266,5.51
+1.232.40.93,11443,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,605,5.36
+1.238.209.247,20001,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,559,5.27
+110.11.25.32,12154,TRUE,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,497,5.24
+118.91.92.195,35821,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,552,5.22
+220.81.132.214,29798,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,429,5.19
+203.175.32.219,19736,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,511,4.96
+61.247.83.116,21244,TRUE,NRT,JP,Asia Pacific,Tokyo,17854,SK Broadband Co Ltd,533,4.94
+203.175.32.219,11752,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,554,4.78
+114.206.108.24,17988,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,585,4.63
+211.225.60.192,12201,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,514,4.63
+203.175.32.219,11645,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,600,4.61
+103.5.128.120,20303,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,559,4.60
+218.209.190.133,26031,TRUE,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,385,4.59
+175.215.82.175,17779,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,419,4.58
+221.164.211.245,12320,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,600,4.58
+1.232.40.93,15006,TRUE,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,469,4.43
+211.46.225.120,10016,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,404,4.37
+121.161.238.47,10058,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,559,4.27
+220.81.178.30,12306,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,490,4.25
+218.209.190.133,24970,TRUE,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,409,4.18
+1.232.40.93,11000,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,531,4.18
+211.51.185.137,21083,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,506,4.14
+121.176.33.148,12564,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,444,3.92
+211.250.13.224,10912,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,447,3.88
+59.22.44.19,16082,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,510,3.86
+121.179.68.136,12301,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,674,3.82
+218.238.229.216,21443,TRUE,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,632,3.82
+146.56.181.95,46237,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,704,3.80
+121.179.68.136,12535,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,660,3.74
+211.223.146.34,12119,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,550,3.70
+121.162.197.175,10103,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,681,3.67
+203.175.32.219,31371,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,489,3.67
+59.2.144.169,11371,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,610,3.50
+122.116.65.170,25222,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,381,3.50
+1.232.40.93,10245,TRUE,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,566,3.49
+125.227.187.43,33069,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,355,3.48
+132.226.236.86,32505,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,349,3.47
+121.179.68.136,10002,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,433,3.43
+103.5.128.120,21404,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,441,3.42
+125.135.115.85,18038,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,396,3.38
+59.17.109.133,13666,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,511,3.35
+61.77.9.219,12503,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,545,3.35
+130.162.138.63,15889,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,656,3.34
+222.102.190.56,12308,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,509,3.32
+121.187.100.90,29842,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,595,3.32
+125.227.70.180,27717,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,375,3.15
+218.39.174.49,30048,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,550,2.99
+203.175.32.219,11535,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,648,2.88
+125.227.70.180,11290,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,372,2.83
+111.65.150.65,30032,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,629,2.79
+61.77.9.219,12487,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,461,2.64
+220.134.160.237,39500,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,677,2.63
+211.250.13.224,10086,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,489,2.53
+118.91.83.231,32780,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,677,2.43
+114.108.5.150,36557,TRUE,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,418,2.41
+220.134.160.237,12908,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,656,2.41
+121.170.78.63,12375,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,584,2.37
+220.134.160.237,39757,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,604,2.28
+112.212.145.63,33226,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,510,2.25
+112.212.145.63,22829,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,514,2.23
+211.196.223.206,12481,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,718,2.21
+1.232.40.93,36167,TRUE,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,491,2.21
+175.193.62.86,12508,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,783,2.15
+112.212.145.63,38377,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,561,2.14
+175.196.251.67,10073,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,782,2.14
+118.37.148.82,10032,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,783,2.12
+112.212.145.63,30877,TRUE,KIX,JP,Asia Pacific,Osaka,38103,SK Broadband Co Ltd,632,2.10
+175.193.62.86,14440,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,751,2.08
+112.212.145.63,11452,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,521,2.06
+211.195.68.80,12290,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,706,2.03
+121.148.98.176,18087,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,787,1.98
+119.198.96.239,12232,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,805,1.97
+210.223.26.66,18089,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,845,1.91
+211.192.158.219,10122,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,782,1.90
+122.116.99.115,27288,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,392,1.87
+121.151.14.14,10051,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,764,1.87
+221.147.85.243,10333,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,782,1.85
+112.212.145.63,10027,TRUE,KIX,JP,Asia Pacific,Osaka,38103,SK Broadband Co Ltd,530,1.83
+112.212.145.63,36876,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,602,1.83
+112.165.93.113,20150,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,806,1.82
+111.65.176.140,20629,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,511,1.80
+211.199.12.139,12497,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,744,1.80
+14.39.251.200,12442,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,693,1.78
+112.212.145.63,20880,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,488,1.78
+112.212.145.63,24426,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,474,1.75
+112.166.3.62,10080,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,720,1.75
+112.212.145.63,16841,TRUE,KIX,JP,Asia Pacific,Osaka,38103,SK Broadband Co Ltd,727,1.74
+119.198.96.239,14400,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,779,1.74
+111.65.176.140,25068,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,633,1.69
+112.212.145.63,14658,TRUE,KIX,JP,Asia Pacific,Osaka,38103,SK Broadband Co Ltd,637,1.61
+175.193.62.86,12578,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,794,1.57
+112.140.85.176,30043,TRUE,NRT,JP,Asia Pacific,Tokyo,38109,SK Broadband Co Ltd,583,1.56
+111.65.176.140,12611,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,626,1.55
+115.161.62.68,20000,TRUE,KIX,JP,Asia Pacific,Osaka,9689,SK Broadband Co Ltd,630,1.55
+27.118.80.231,30049,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,683,1.51
+114.34.220.134,33257,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,619,1.50
+220.134.160.237,18928,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,529,1.49
+112.212.145.63,14112,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,579,1.46
+124.28.63.70,19999,TRUE,NRT,JP,Asia Pacific,Tokyo,23578,SK Broadband Co Ltd,583,1.40
+211.172.38.180,30006,TRUE,NRT,JP,Asia Pacific,Tokyo,18310,SK Broadband Co Ltd,600,1.39
+122.254.157.75,30645,TRUE,NRT,JP,Asia Pacific,Tokyo,17857,SK Broadband Co Ltd,539,1.37
+119.17.111.233,22731,TRUE,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,511,1.37
+112.212.145.63,15028,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,560,1.36
+119.17.111.233,33900,TRUE,KIX,JP,Asia Pacific,Osaka,23563,SK Broadband Co Ltd,679,1.32
+27.117.52.110,32367,TRUE,NRT,JP,Asia Pacific,Tokyo,17857,SK Broadband Co Ltd,664,1.32
+112.212.145.63,37914,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,451,1.31
+114.34.220.134,18817,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,530,1.29
+8.222.153.11,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",580,1.23
+122.254.133.113,31873,TRUE,KIX,JP,Asia Pacific,Osaka,17857,SK Broadband Co Ltd,752,1.16
+218.209.250.33,11428,TRUE,KIX,JP,Asia Pacific,Osaka,23563,SK Broadband Co Ltd,706,1.15
+119.198.96.239,10238,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,834,1.10
+111.65.176.140,30629,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,513,1.06
+112.212.145.63,28083,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,577,1.04
+112.212.145.63,32434,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,577,1.01
+112.140.85.176,38569,TRUE,KIX,JP,Asia Pacific,Osaka,38109,SK Broadband Co Ltd,683,1.00
+111.171.120.24,18577,TRUE,KIX,JP,Asia Pacific,Osaka,38109,SK Broadband Co Ltd,643,0.99
+220.134.160.237,39012,TRUE,NRT,JP,Asia Pacific,Tokyo,3462,Data Communication Business Group,533,0.94
+111.65.176.140,11322,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,704,0.93
+112.212.145.63,37716,TRUE,KIX,JP,Asia Pacific,Osaka,38103,SK Broadband Co Ltd,746,0.90
+58.225.124.168,10044,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,528,0.86
+211.215.228.6,11965,TRUE,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,602,0.84
+112.212.145.63,12013,TRUE,KIX,JP,Asia Pacific,Osaka,38103,SK Broadband Co Ltd,744,0.79
+8.219.153.237,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",617,0.78
+117.55.141.15,22542,TRUE,NRT,JP,Asia Pacific,Tokyo,9770,LG HelloVision Corp.,678,0.74
+112.212.145.63,39287,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,562,0.72
+111.65.176.140,30971,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,656,0.59
+149.28.22.198,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,20473,AS-CHOOPA,986,0.57
+111.65.176.140,32020,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,663,0.57
+111.65.176.140,27467,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,669,0.54
+45.76.53.149,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,20473,AS-CHOOPA,968,0.50
+140.238.48.45,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,339,0.28
+141.147.169.131,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,320,0.21
+132.145.120.118,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,734,0.20
+112.212.145.63,16568,TRUE,NRT,JP,Asia Pacific,Tokyo,38103,SK Broadband Co Ltd,637,0.18
+131.186.34.244,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,573,0.18
+158.179.178.142,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,350,0.18
+151.145.74.199,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,346,0.17
+158.179.178.145,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,777,0.16
+168.138.202.145,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,875,0.15
+158.179.186.251,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,335,0.14
+168.138.212.184,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,482,0.13
+220.79.50.104,25647,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,807,0.13
+140.238.39.21,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,326,0.11
+203.175.47.46,39334,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,915,0.09
+1.232.40.93,22533,TRUE,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,513,0.08
+221.161.19.212,25647,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,430,0.08
+168.138.192.185,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,979,0.06
+141.147.160.221,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,487,0.06
+203.175.47.46,36184,TRUE,KIX,JP,Asia Pacific,Osaka,17573,SK Broadband Co Ltd,989,0.05
+155.248.176.68,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,892,0.05
+203.175.47.46,25002,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,941,0.02
+203.175.47.46,37607,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,914,0.01
+203.175.47.46,14836,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,969,0.01
+203.175.47.46,24032,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,916,0.01
+152.69.205.37,54322,TRUE,KIX,JP,Asia Pacific,Osaka,31898,ORACLE-BMC-31898,688,0.01

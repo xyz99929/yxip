@@ -1,88 +1,57 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-8.210.101.157,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",219,8.41
-8.218.110.180,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",206,5.95
-8.217.85.14,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",183,5.71
-8.210.101.157,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",225,5.67
-47.244.255.95,8449,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",489,5.65
-129.154.211.114,12319,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,450,5.38
-8.218.110.180,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",237,4.66
-47.242.17.250,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",209,3.97
-8.217.193.25,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",259,3.70
-8.210.101.157,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",249,3.69
-58.82.242.199,12170,TRUE,HKG,HK,Asia Pacific,Hong Kong,137872,China Mobile Hong Kong Company Limited,267,3.65
-8.217.193.25,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",258,3.56
-47.245.4.22,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",428,3.52
-8.218.163.29,4430,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",348,3.50
-18.166.180.230,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,16509,AMAZON-02,220,3.32
-8.217.85.14,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",246,3.31
-47.245.4.22,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",451,3.24
-8.218.110.180,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",258,3.17
-8.217.164.10,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",257,3.09
-8.217.193.25,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",263,3.07
-47.245.57.38,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",474,2.98
-47.245.57.38,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",437,2.87
-13.94.35.181,34237,TRUE,HKG,HK,Asia Pacific,Hong Kong,8075,MICROSOFT-CORP-MSN-AS-BLOCK,396,2.73
-119.28.58.214,10007,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",257,2.68
-154.204.60.218,29876,TRUE,HKG,HK,Asia Pacific,Hong Kong,139659,LUCIDACLOUD LIMITED,238,2.37
-8.217.164.10,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",249,2.32
-8.210.21.65,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",266,2.15
-111.65.150.65,50029,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,398,2.06
-150.109.156.204,10002,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",220,2.04
-8.217.85.14,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",234,2.00
-101.78.164.239,12313,TRUE,HKG,HK,Asia Pacific,Hong Kong,9381,HKBN Enterprise Solutions HK Limited,339,1.90
-101.32.187.87,5005,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",217,1.84
-40.83.120.192,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,8075,MICROSOFT-CORP-MSN-AS-BLOCK,389,1.75
-103.235.18.119,10020,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,254,1.71
-43.128.6.137,10001,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",221,1.63
-118.91.75.222,26610,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,455,1.45
-101.32.40.116,8888,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",220,1.44
-111.65.176.140,32656,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,378,1.35
-118.91.75.222,34619,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,442,1.27
-47.245.6.9,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",499,1.22
-111.65.176.140,38487,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,432,1.19
-119.28.58.214,10002,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",248,1.16
-47.245.57.38,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",428,1.15
-111.65.176.140,34017,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,400,1.11
-111.65.134.201,11675,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,450,1.10
-59.149.204.93,54321,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,979,1.06
-47.242.155.39,8888,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",221,1.04
-111.65.176.140,35203,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,451,1.04
-111.65.176.140,23085,TRUE,HKG,HK,Asia Pacific,Hong Kong,17573,SK Broadband Co Ltd,527,1.02
-27.118.69.17,30062,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,431,0.97
-103.103.245.218,35570,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,261,0.92
-211.238.239.33,34599,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,400,0.87
-47.75.101.0,3443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",245,0.86
-111.65.134.201,30588,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,469,0.85
-8.217.164.10,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",180,0.84
-146.56.41.180,34237,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,253,0.82
-211.238.239.33,36808,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,459,0.79
-211.238.239.33,37787,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,451,0.76
-47.245.39.49,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",501,0.76
-47.245.6.9,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",455,0.76
-211.238.239.33,19904,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,450,0.63
-47.245.6.9,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",484,0.46
-47.242.17.250,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",254,0.34
-152.70.102.124,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,546,0.30
-101.32.192.81,10443,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",223,0.30
-47.242.232.14,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",197,0.29
-158.179.186.123,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,546,0.28
-158.179.186.123,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,788,0.26
-47.242.17.250,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",249,0.23
-211.238.239.33,21071,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,412,0.22
-152.69.196.11,43026,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,547,0.22
-47.242.232.14,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",259,0.20
-168.138.211.188,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,789,0.20
-124.156.147.158,32797,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",218,0.19
-131.186.59.232,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,546,0.17
-221.124.202.168,10001,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,730,0.16
-168.138.194.22,28424,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,676,0.15
-8.210.21.65,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",194,0.14
-101.33.116.108,57781,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",268,0.12
-45.207.11.69,8899,TRUE,HKG,HK,Asia Pacific,Hong Kong,140227,"Hong Kong Communications International Co., Limited",910,0.09
-168.138.211.188,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,757,0.08
-49.1.36.126,33098,TRUE,ICN,KR,Asia Pacific,Seoul,10036,DLIVE,353,0.08
-203.175.47.46,14436,TRUE,HKG,HK,Asia Pacific,Hong Kong,17573,SK Broadband Co Ltd,528,0.07
-49.1.36.126,30958,TRUE,ICN,KR,Asia Pacific,Seoul,10036,DLIVE,469,0.07
-151.145.69.105,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,901,0.07
-113.252.129.211,30037,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,862,0.07
-223.18.34.201,10093,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,737,0.05
+146.56.41.180,34237,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,324,19.60
+47.76.146.1,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",222,18.52
+13.94.35.181,34237,TRUE,HKG,HK,Asia Pacific,Hong Kong,8075,MICROSOFT-CORP-MSN-AS-BLOCK,399,12.85
+47.245.57.38,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",427,10.02
+47.245.6.9,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",403,9.76
+129.154.211.114,12319,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,464,9.04
+47.245.4.22,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",391,8.81
+101.78.164.239,12313,TRUE,HKG,HK,Asia Pacific,Hong Kong,9381,HKBN Enterprise Solutions HK Limited,326,7.99
+103.235.18.119,10020,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,220,7.98
+154.204.60.218,29876,TRUE,HKG,HK,Asia Pacific,Hong Kong,139659,LUCIDACLOUD LIMITED,233,7.67
+40.83.120.192,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,8075,MICROSOFT-CORP-MSN-AS-BLOCK,394,7.51
+8.210.21.65,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",249,5.84
+47.242.155.39,8888,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",183,4.54
+58.82.242.199,12170,TRUE,HKG,HK,Asia Pacific,Hong Kong,137872,China Mobile Hong Kong Company Limited,229,4.45
+47.245.6.9,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",449,4.35
+119.28.58.214,10007,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",236,4.34
+119.28.58.214,10002,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",206,4.18
+124.156.147.158,32797,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",247,4.06
+101.32.187.87,5005,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",249,4.04
+111.65.150.65,50029,TRUE,HKG,HK,Asia Pacific,Hong Kong,17573,SK Broadband Co Ltd,537,3.97
+43.128.6.137,10001,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",234,3.22
+8.217.164.10,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",623,2.70
+27.118.69.17,30062,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,369,2.62
+118.91.75.222,34619,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,377,2.34
+18.166.180.230,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,16509,AMAZON-02,217,2.25
+8.218.163.29,4430,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",320,2.17
+118.91.75.222,26610,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,417,2.14
+211.238.239.33,21071,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,377,1.53
+150.109.156.204,10002,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",223,1.46
+111.65.176.140,23085,TRUE,HKG,HK,Asia Pacific,Hong Kong,17573,SK Broadband Co Ltd,530,1.44
+111.65.134.201,11675,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,418,1.44
+111.65.134.201,30588,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,413,1.38
+210.6.194.30,4434,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,503,1.36
+103.103.245.218,35570,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,218,1.27
+111.65.176.140,32656,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,405,1.26
+211.238.239.33,19904,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,420,1.12
+111.65.176.140,38487,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,398,1.12
+101.32.40.116,8888,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",229,1.11
+111.65.176.140,35203,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,416,1.04
+211.238.239.33,37787,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,406,0.90
+47.244.255.95,8449,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",225,0.87
+111.65.176.140,34017,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,426,0.80
+211.238.239.33,34599,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,430,0.66
+101.32.192.81,10443,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",250,0.44
+211.238.239.33,36808,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,410,0.33
+101.33.116.108,57781,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",240,0.14
+131.186.59.232,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,747,0.10
+49.1.36.126,30958,TRUE,ICN,KR,Asia Pacific,Seoul,10036,DLIVE,348,0.10
+203.175.47.46,14436,TRUE,HKG,HK,Asia Pacific,Hong Kong,17573,SK Broadband Co Ltd,490,0.09
+8.218.110.180,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",748,0.09
+8.217.85.14,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",311,0.09
+45.207.11.69,8899,TRUE,HKG,HK,Asia Pacific,Hong Kong,140227,"Hong Kong Communications International Co., Limited",427,0.09
+49.1.36.126,33098,TRUE,ICN,KR,Asia Pacific,Seoul,10036,DLIVE,383,0.09
+223.18.129.85,12345,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,707,0.05
+223.18.34.201,12295,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,788,0.04
+138.2.12.10,45805,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,472,0.03
