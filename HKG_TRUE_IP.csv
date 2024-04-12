@@ -1,57 +1,141 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-146.56.41.180,34237,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,324,19.60
-47.76.146.1,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",222,18.52
-13.94.35.181,34237,TRUE,HKG,HK,Asia Pacific,Hong Kong,8075,MICROSOFT-CORP-MSN-AS-BLOCK,399,12.85
-47.245.57.38,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",427,10.02
-47.245.6.9,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",403,9.76
-129.154.211.114,12319,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,464,9.04
-47.245.4.22,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",391,8.81
-101.78.164.239,12313,TRUE,HKG,HK,Asia Pacific,Hong Kong,9381,HKBN Enterprise Solutions HK Limited,326,7.99
-103.235.18.119,10020,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,220,7.98
-154.204.60.218,29876,TRUE,HKG,HK,Asia Pacific,Hong Kong,139659,LUCIDACLOUD LIMITED,233,7.67
-40.83.120.192,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,8075,MICROSOFT-CORP-MSN-AS-BLOCK,394,7.51
-8.210.21.65,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",249,5.84
-47.242.155.39,8888,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",183,4.54
-58.82.242.199,12170,TRUE,HKG,HK,Asia Pacific,Hong Kong,137872,China Mobile Hong Kong Company Limited,229,4.45
-47.245.6.9,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",449,4.35
-119.28.58.214,10007,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",236,4.34
-119.28.58.214,10002,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",206,4.18
-124.156.147.158,32797,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",247,4.06
-101.32.187.87,5005,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",249,4.04
-111.65.150.65,50029,TRUE,HKG,HK,Asia Pacific,Hong Kong,17573,SK Broadband Co Ltd,537,3.97
-43.128.6.137,10001,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",234,3.22
-8.217.164.10,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",623,2.70
-27.118.69.17,30062,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,369,2.62
-118.91.75.222,34619,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,377,2.34
-18.166.180.230,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,16509,AMAZON-02,217,2.25
-8.218.163.29,4430,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",320,2.17
-118.91.75.222,26610,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,417,2.14
-211.238.239.33,21071,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,377,1.53
-150.109.156.204,10002,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",223,1.46
-111.65.176.140,23085,TRUE,HKG,HK,Asia Pacific,Hong Kong,17573,SK Broadband Co Ltd,530,1.44
-111.65.134.201,11675,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,418,1.44
-111.65.134.201,30588,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,413,1.38
-210.6.194.30,4434,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,503,1.36
-103.103.245.218,35570,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,218,1.27
-111.65.176.140,32656,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,405,1.26
-211.238.239.33,19904,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,420,1.12
-111.65.176.140,38487,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,398,1.12
-101.32.40.116,8888,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",229,1.11
-111.65.176.140,35203,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,416,1.04
-211.238.239.33,37787,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,406,0.90
-47.244.255.95,8449,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",225,0.87
-111.65.176.140,34017,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,426,0.80
-211.238.239.33,34599,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,430,0.66
-101.32.192.81,10443,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",250,0.44
-211.238.239.33,36808,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,410,0.33
-101.33.116.108,57781,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",240,0.14
-131.186.59.232,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,747,0.10
-49.1.36.126,30958,TRUE,ICN,KR,Asia Pacific,Seoul,10036,DLIVE,348,0.10
-203.175.47.46,14436,TRUE,HKG,HK,Asia Pacific,Hong Kong,17573,SK Broadband Co Ltd,490,0.09
-8.218.110.180,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",748,0.09
-8.217.85.14,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",311,0.09
-45.207.11.69,8899,TRUE,HKG,HK,Asia Pacific,Hong Kong,140227,"Hong Kong Communications International Co., Limited",427,0.09
-49.1.36.126,33098,TRUE,ICN,KR,Asia Pacific,Seoul,10036,DLIVE,383,0.09
-223.18.129.85,12345,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,707,0.05
-223.18.34.201,12295,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,788,0.04
-138.2.12.10,45805,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,472,0.03
+129.154.211.114,12319,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,479,14.30
+146.56.36.113,17202,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,431,9.91
+13.94.35.181,34237,TRUE,HKG,HK,Asia Pacific,Hong Kong,8075,MICROSOFT-CORP-MSN-AS-BLOCK,476,9.22
+168.138.194.22,23439,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,416,6.71
+1.176.38.6,12423,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,488,6.06
+168.138.194.22,21699,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,480,5.72
+115.40.191.214,31104,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,413,5.71
+140.238.7.57,9999,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,164,5.63
+152.69.196.11,43026,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,506,5.34
+115.40.28.225,19205,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,360,4.72
+115.40.28.225,11308,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,389,4.46
+168.138.194.22,28424,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,501,4.12
+110.46.14.124,39441,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,354,4.10
+119.28.58.214,10002,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",192,4.08
+150.109.156.204,10002,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",198,4.04
+115.40.244.240,29820,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,409,4.02
+117.123.27.126,33802,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,356,3.96
+115.40.244.240,13638,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,396,3.92
+115.40.191.214,29724,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,370,3.83
+101.32.40.116,8888,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",202,3.68
+223.18.34.201,10093,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,776,3.48
+119.28.58.214,10018,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",226,3.45
+111.65.150.65,50029,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,401,3.33
+1.176.38.6,14885,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,388,3.25
+119.28.58.214,10007,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",204,3.24
+115.40.244.240,19809,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,381,3.23
+124.156.147.158,32797,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",215,3.21
+115.40.244.240,30828,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,409,3.11
+47.242.187.38,34237,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",215,3.05
+117.123.27.126,14440,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,380,3.03
+1.176.38.6,17242,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,396,3.03
+1.176.38.6,29467,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,381,2.98
+113.252.129.211,30037,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,804,2.68
+43.128.6.137,10001,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",194,2.67
+27.118.69.17,30062,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,389,2.67
+223.18.129.85,12345,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,680,2.65
+113.130.211.247,15397,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,389,2.60
+117.123.27.126,14789,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,339,2.55
+117.123.27.126,20290,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,325,2.55
+43.154.74.39,30958,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",214,2.51
+138.2.12.10,45805,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,365,2.30
+221.124.202.168,10001,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,710,2.16
+117.123.27.126,17241,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,336,2.12
+117.123.27.126,38306,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,342,2.06
+117.123.27.126,30313,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,341,2.03
+118.91.75.222,34619,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,421,1.97
+118.91.75.222,26610,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,480,1.96
+111.65.176.140,38487,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,410,1.95
+223.18.34.201,12295,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,732,1.91
+111.65.176.140,32656,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,487,1.89
+113.60.39.177,29601,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,409,1.86
+113.60.39.177,29042,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,425,1.77
+113.60.39.177,19740,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,418,1.73
+111.65.176.140,34017,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,430,1.72
+113.130.211.247,30645,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,368,1.72
+110.46.14.124,15572,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,391,1.69
+113.60.39.177,11790,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,372,1.66
+152.67.202.94,52794,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,381,1.65
+211.238.239.33,36808,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,430,1.64
+111.65.134.201,10595,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,360,1.63
+211.238.239.33,21071,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,379,1.57
+111.65.176.140,35203,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,395,1.55
+113.60.39.177,20871,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,368,1.55
+113.60.39.177,34876,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,488,1.53
+221.124.49.233,10002,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,635,1.42
+113.60.39.177,11698,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,461,1.42
+115.40.67.106,11590,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,415,1.22
+115.40.67.106,29135,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,464,1.22
+115.40.67.106,11797,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,435,1.21
+211.238.239.33,19904,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,378,1.21
+113.60.39.177,11008,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,343,1.20
+113.60.39.177,10064,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,347,1.20
+111.65.134.201,11675,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,375,1.18
+115.40.67.106,24560,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,420,1.16
+146.56.41.180,34237,TRUE,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,331,1.14
+111.65.176.140,23085,TRUE,HKG,HK,Asia Pacific,Hong Kong,17573,SK Broadband Co Ltd,509,1.10
+117.123.160.38,33094,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,412,1.08
+1.176.38.6,32709,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,420,1.07
+115.40.67.106,29281,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,475,1.05
+211.238.239.33,37787,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,409,1.04
+117.123.160.38,10409,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,350,1.04
+117.123.160.38,33894,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,365,1.03
+113.60.39.177,23781,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,359,1.00
+113.60.39.177,11734,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,377,0.94
+113.60.39.177,11444,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,428,0.93
+124.80.43.124,39918,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,359,0.92
+221.124.49.233,10003,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,670,0.92
+113.60.39.177,11523,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,393,0.86
+113.60.39.177,19638,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,432,0.86
+211.238.239.33,34599,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,407,0.84
+123.248.102.197,20108,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,983,0.81
+1.176.51.102,10777,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,379,0.81
+113.60.39.177,23146,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,359,0.81
+1.176.116.211,20648,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,402,0.80
+113.60.39.177,11590,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,360,0.80
+1.176.51.102,31891,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,474,0.77
+113.60.39.177,27686,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,480,0.76
+115.40.67.106,39781,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,425,0.74
+1.176.51.102,19220,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,447,0.72
+1.176.51.102,11427,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,450,0.72
+1.176.116.211,18507,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,416,0.71
+113.60.39.177,32589,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,464,0.69
+123.248.116.97,16936,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,431,0.68
+113.60.39.177,12837,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,482,0.67
+113.60.39.177,12601,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,445,0.65
+1.176.116.211,11975,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,417,0.65
+111.65.134.201,30588,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,396,0.63
+113.60.39.177,29737,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,463,0.59
+113.60.39.177,15809,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,445,0.58
+113.60.39.177,31671,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,468,0.58
+115.40.67.106,27457,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,425,0.58
+61.239.247.94,32773,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,536,0.58
+101.32.192.81,10443,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",205,0.54
+113.60.39.177,28796,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,484,0.53
+113.60.39.177,13651,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,512,0.53
+113.60.39.177,16433,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,503,0.52
+113.60.39.177,19114,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,472,0.51
+113.60.39.177,32161,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,488,0.51
+113.60.39.177,35828,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,457,0.48
+113.60.39.177,17333,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,451,0.47
+113.60.39.177,13854,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,477,0.44
+113.60.39.177,12113,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,473,0.44
+113.60.39.177,12804,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,499,0.43
+113.60.39.177,15761,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,483,0.42
+113.60.39.177,39476,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,432,0.42
+113.60.39.177,32991,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,453,0.39
+113.60.39.177,30927,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,457,0.38
+113.60.39.177,13826,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,447,0.36
+123.248.102.197,20472,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,1007,0.36
+113.60.39.177,20172,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,507,0.30
+113.60.39.177,30160,TRUE,ICN,KR,Asia Pacific,Seoul,17849,SK Broadband Co Ltd,461,0.18
+123.248.102.197,18557,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,1005,0.17
+101.33.116.108,57781,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",482,0.11
+45.207.11.69,8899,TRUE,HKG,HK,Asia Pacific,Hong Kong,140227,"Hong Kong Communications International Co., Limited",922,0.10
+49.1.36.126,30958,TRUE,ICN,KR,Asia Pacific,Seoul,10036,DLIVE,488,0.10
+49.1.36.126,33098,TRUE,ICN,KR,Asia Pacific,Seoul,10036,DLIVE,417,0.09
+203.175.47.46,14436,TRUE,HKG,HK,Asia Pacific,Hong Kong,17573,SK Broadband Co Ltd,621,0.09
+1.176.66.170,25098,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,564,0.09
+1.176.66.170,38857,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,482,0.09
+1.176.66.170,39783,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,492,0.08
